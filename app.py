@@ -56,7 +56,7 @@ xetex_file_hit_db = {}
 def xetex_fetch_file(filename):
     
     if filename == "swiftlatexxetex.fmt":
-        return send_file(filename, mimetype="application/xml")
+        return send_file(filename, mimetype="application/octet-stream")
 
     if not filename in xetex_file_hit_db:
         with kpathsea_xetex_lock:
@@ -79,7 +79,7 @@ pdftex_file_hit_db = {}
 def pdftex_fetch_file(filename):
     
     if filename == "swiftlatexpdftex.fmt":
-        return send_file(filename, mimetype="application/xml")
+        return send_file(filename, mimetype="application/octet-stream")
 
     if not filename in pdftex_file_hit_db:
         with kpathsea_pdftex_lock:
