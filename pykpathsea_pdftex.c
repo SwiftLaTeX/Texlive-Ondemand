@@ -264,7 +264,6 @@ static PyObject *py_kpse_find_file(PyObject *self, PyObject *args) {
 
 static PyMethodDef pykpathsea_pdftex_methods[] = {
     {"find_file", (PyCFunction)py_kpse_find_file, METH_VARARGS, NULL},
-    {"find_pk", (PyCFunction)py_kpse_find_pk, METH_VARARGS, NULL},
     {NULL, NULL}};
 
 static struct PyModuleDef moduledef = {PyModuleDef_HEAD_INIT,
