@@ -2,7 +2,7 @@ from flask import Flask, send_file, make_response
 from threading import Lock
 import time
 import os.path
-import pykpathsea
+import pykpathsea_xetex
 import pyfontconfig
 from flask_cors import cross_origin
 import re
@@ -56,7 +56,7 @@ def fetch_file(filename):
     
     if not filename in file_hit_db:
         with kpathsea_lock:
-            res = pykpathsea.find_file(san(filename))
+            res = pykpathsea_xetex.find_file(san(filename))
 
         if res is None or not os.path.isfile(res):
             return "File not found", 301
