@@ -53,7 +53,7 @@ xetex_file_hit_db = {}
 
 @app.route('/xetex/<filename>')
 @cross_origin()
-def fetch_file(filename):
+def xetex_fetch_file(filename):
     
     if not filename in xetex_file_hit_db:
         with kpathsea_xetex_lock:
@@ -73,7 +73,7 @@ pdftex_file_hit_db = {}
 
 @app.route('/pdftex/<filename>')
 @cross_origin()
-def fetch_file(filename):
+def pdftex_fetch_file(filename):
     
     if not filename in pdftex_file_hit_db:
         with kpathsea_pdftex_lock:
