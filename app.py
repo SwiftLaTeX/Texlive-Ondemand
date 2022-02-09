@@ -55,6 +55,9 @@ xetex_file_hit_db = {}
 @cross_origin()
 def xetex_fetch_file(filename):
     
+    if filename == "swiftlatexxetex.fmt":
+        return send_file(filename, mimetype="application/xml")
+
     if not filename in xetex_file_hit_db:
         with kpathsea_xetex_lock:
             res = pykpathsea_xetex.find_file(san(filename))
@@ -75,6 +78,9 @@ pdftex_file_hit_db = {}
 @cross_origin()
 def pdftex_fetch_file(filename):
     
+    if filename == "swiftlatexpdftex.fmt":
+        return send_file(filename, mimetype="application/xml")
+
     if not filename in pdftex_file_hit_db:
         with kpathsea_pdftex_lock:
             res = pykpathsea_pdftex.find_file(san(filename))
