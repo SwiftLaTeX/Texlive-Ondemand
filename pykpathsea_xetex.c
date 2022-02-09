@@ -32,13 +32,13 @@
 #include <kpathsea/version.h>
 #include <string.h>
 
-kpathsea kpse = NULL;
+static kpathsea kpse = NULL;
 
 /* Base resolution. (-D, -dpi) */
-unsigned dpi = 600;
+static unsigned dpi = 600;
 
 /* Search the disk as well as ls-R?  (-must-exist, -mktex) */
-boolean must_exist = false;
+static boolean must_exist = false;
 
 /* The file type and path for lookups.  (-format, -path) */
 
@@ -262,21 +262,21 @@ static PyObject *py_kpse_find_file(PyObject *self, PyObject *args) {
 
 /* exported methods */
 
-static PyMethodDef pykpathsea_methods[] = {
+static PyMethodDef pykpathsea_xetex_methods[] = {
     {"find_file", (PyCFunction)py_kpse_find_file, METH_VARARGS, NULL},
     {NULL, NULL}};
 
 static struct PyModuleDef moduledef = {PyModuleDef_HEAD_INIT,
-                                       "pykpathsea",
+                                       "pykpathsea_xetex",
                                        NULL,
                                        -1,
-                                       pykpathsea_methods,
+                                       pykpathsea_xetex_methods,
                                        NULL,
                                        NULL,
                                        NULL,
                                        NULL};
 
-PyMODINIT_FUNC PyInit_pykpathsea(void) {
+PyMODINIT_FUNC PyInit_pykpathsea_xetex(void) {
 
   PyObject *module = PyModule_Create(&moduledef);
   if (module == NULL)
