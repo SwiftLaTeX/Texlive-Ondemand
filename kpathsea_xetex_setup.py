@@ -1,6 +1,6 @@
 from distutils.core import setup, Extension
 
-kpathsea_module = Extension('pykpathsea_xetex', sources = ['pykpathsea_xetex.c'], libraries=["kpathsea_xetex"])
+kpathsea_module = Extension('pykpathsea_xetex', sources = ['pykpathsea_xetex.c'], libraries=["kpathsea"])
 
 setup(name='pykpathsea_xetex',
       version='0.2.1',
