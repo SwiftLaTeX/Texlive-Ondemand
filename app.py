@@ -68,7 +68,7 @@ def xetex_fetch_file(filename):
             xetex_file_hit_db[filename] = res
     
     urls = xetex_file_hit_db[filename]
-    return send_file(urls, mimetype="application/javascript")
+    return send_file(urls, mimetype="application/octet-stream")
 
 
 kpathsea_pdftex_lock = Lock()
@@ -91,7 +91,7 @@ def pdftex_fetch_file(filename):
             pdftex_file_hit_db[filename] = res
     
     urls = pdftex_file_hit_db[filename]
-    return send_file(urls, mimetype="application/javascript")
+    return send_file(urls, mimetype="application/octet-stream")
 
 
 
