@@ -3,6 +3,7 @@ from threading import Lock
 import time
 import os.path
 import pykpathsea_xetex
+import pykpathsea_pdftex
 import pyfontconfig
 from flask_cors import cross_origin
 import re
@@ -47,23 +48,43 @@ def fetch_font(fontvar, fontname):
     return response
 
 
-kpathsea_lock = Lock()
-file_hit_db = {}
+kpathsea_xetex_lock = Lock()
+xetex_file_hit_db = {}
 
-@app.route('/<filename>')
+@app.route('/xetex/<filename>')
 @cross_origin()
 def fetch_file(filename):
     
-    if not filename in file_hit_db:
-        with kpathsea_lock:
+    if not filename in xetex_file_hit_db:
+        with kpathsea_xetex_lock:
             res = pykpathsea_xetex.find_file(san(filename))
 
         if res is None or not os.path.isfile(res):
             return "File not found", 301
         else:
-            file_hit_db[filename] = res
+            xetex_file_hit_db[filename] = res
     
-    urls = file_hit_db[filename]
+    urls = xetex_file_hit_db[filename]
+    return send_file(urls, mimetype="application/javascript")
+
+
+kpathsea_pdftex_lock = Lock()
+pdftex_file_hit_db = {}
+
+@app.route('/pdftex/<filename>')
+@cross_origin()
+def fetch_file(filename):
+    
+    if not filename in pdftex_file_hit_db:
+        with kpathsea_pdftex_lock:
+            res = pykpathsea_pdftex.find_file(san(filename))
+
+        if res is None or not os.path.isfile(res):
+            return "File not found", 301
+        else:
+            pdftex_file_hit_db[filename] = res
+    
+    urls = pdftex_file_hit_db[filename]
     return send_file(urls, mimetype="application/javascript")
 
 
