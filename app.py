@@ -48,53 +48,62 @@ def fetch_font(fontvar, fontname):
     return response
 
 
-kpathsea_xetex_lock = Lock()
-xetex_file_hit_db = {}
 
-@app.route('/xetex/<filename>')
+
+@app.route('/xetex/<int:fileformat>/<filename>')
 @cross_origin()
-def xetex_fetch_file(filename):
+def xetex_fetch_file(fileformat, filename):
     
+    url = None
     if filename == "swiftlatexxetex.fmt":
-        return send_file(filename, mimetype="application/octet-stream")
+        url = filename
+    else:
+        url = pykpathsea_xetex.find_file(san(filename), fileformat)
 
-    if not filename in xetex_file_hit_db:
-        with kpathsea_xetex_lock:
-            res = pykpathsea_xetex.find_file(san(filename))
-
-        if res is None or not os.path.isfile(res):
-            return "File not found", 301
-        else:
-            xetex_file_hit_db[filename] = res
-    
-    urls = xetex_file_hit_db[filename]
-    return send_file(urls, mimetype="application/octet-stream")
+    if url is None or not os.path.isfile(url):
+        return "File not found", 301
+    else:
+        response = make_response(send_file(url, mimetype='application/octet-stream'))
+        response.headers['fileid'] = os.path.basename(url)
+        response.headers['Access-Control-Expose-Headers'] = 'fileid'
+        return response
 
 
-kpathsea_pdftex_lock = Lock()
-pdftex_file_hit_db = {}
 
-@app.route('/pdftex/<filename>')
+@app.route('/pdftex/<int:fileformat>/<filename>')
 @cross_origin()
-def pdftex_fetch_file(filename):
+def pdftex_fetch_file(fileformat, filename):
     
+    url = None
     if filename == "swiftlatexpdftex.fmt":
-        return send_file(filename, mimetype="application/octet-stream")
+        url = filename
+    else:
+        url = pykpathsea_pdftex.find_file(san(filename), fileformat)
 
-    if not filename in pdftex_file_hit_db:
-        with kpathsea_pdftex_lock:
-            res = pykpathsea_pdftex.find_file(san(filename))
+    if url is None or not os.path.isfile(url):
+        return "File not found", 301
+    else:
+        response = make_response(send_file(url, mimetype='application/octet-stream'))
+        response.headers['fileid'] = os.path.basename(url)
+        response.headers['Access-Control-Expose-Headers'] = 'fileid'
+        return response
+            
 
-        if res is None or not os.path.isfile(res):
+
+@app.route('/pdftex/pk/<int:dpi>/<filename>')
+@cross_origin()
+def pdftex_fetch_pk(dpi, filename):
+    
+    with kpathsea_pdftex_lock:
+        url = pykpathsea_pdftex.find_pk(san(filename), dpi)
+
+        if url is None or not os.path.isfile(url):
             return "File not found", 301
         else:
-            pdftex_file_hit_db[filename] = res
-    
-    urls = pdftex_file_hit_db[filename]
-    return send_file(urls, mimetype="application/octet-stream")
-
-
-
+            response = make_response(send_file(url, mimetype='application/octet-stream'))
+            response.headers['pkid'] = os.path.basename(url)
+            response.headers['Access-Control-Expose-Headers'] = 'pkid'
+            return response
 
 
 
