@@ -1,4 +1,4 @@
-from flask import Flask, send_file, make_response
+from flask import Flask, send_file, make_response, send_from_directory
 from threading import Lock
 import time
 import os.path
@@ -20,6 +20,7 @@ def san(name):
 @app.route('/fontconfig/<path:fontname>')
 @cross_origin()
 def fetch_font(fontname):
+    
     ext_ok = False
     allowed_exts = [".otf", ".ttf", ".woff", ".t1", ".pfb"]
     for ext in allowed_exts:
@@ -30,13 +31,11 @@ def fetch_font(fontname):
     if not ext_ok:
         return "File not found", 301
 
-    url = "/usr/share/" + fontname
-
-    if not os.path.isfile(url):
+    if not os.path.isfile("/usr/share/" + fontname):
         return "File not found", 301
     
-    response = make_response(send_file(url, mimetype='application/octet-stream'))
-    response.headers['fontid'] = os.path.basename(url)
+    response = make_response(send_from_directory("/usr/share/", fontname, mimetype='application/octet-stream'))
+    response.headers['fontid'] = os.path.basename(fontname)
     response.headers['Access-Control-Expose-Headers'] = 'fontid'
     return response
 
@@ -44,12 +43,12 @@ def fetch_font(fontname):
 @app.route('/xetex/<int:fileformat>/<filename>')
 @cross_origin()
 def xetex_fetch_file(fileformat, filename):
-    
+    filename = san(filename)
     url = None
     if filename == "swiftlatexxetex.fmt":
         url = filename
     else:
-        url = pykpathsea_xetex.find_file(san(filename), fileformat)
+        url = pykpathsea_xetex.find_file(filename, fileformat)
 
     if url is None or not os.path.isfile(url):
         return "File not found", 301
@@ -64,12 +63,12 @@ def xetex_fetch_file(fileformat, filename):
 @app.route('/pdftex/<int:fileformat>/<filename>')
 @cross_origin()
 def pdftex_fetch_file(fileformat, filename):
-    
+    filename = san(filename)
     url = None
     if filename == "swiftlatexpdftex.fmt":
         url = filename
     else:
-        url = pykpathsea_pdftex.find_file(san(filename), fileformat)
+        url = pykpathsea_pdftex.find_file(filename, fileformat)
 
     if url is None or not os.path.isfile(url):
         return "File not found", 301
@@ -84,17 +83,17 @@ def pdftex_fetch_file(fileformat, filename):
 @app.route('/pdftex/pk/<int:dpi>/<filename>')
 @cross_origin()
 def pdftex_fetch_pk(dpi, filename):
+    filename = san(filename)
     
-    with kpathsea_pdftex_lock:
-        url = pykpathsea_pdftex.find_pk(san(filename), dpi)
+    url = pykpathsea_pdftex.find_pk(filename, dpi)
 
-        if url is None or not os.path.isfile(url):
-            return "File not found", 301
-        else:
-            response = make_response(send_file(url, mimetype='application/octet-stream'))
-            response.headers['pkid'] = os.path.basename(url)
-            response.headers['Access-Control-Expose-Headers'] = 'pkid'
-            return response
+    if url is None or not os.path.isfile(url):
+        return "File not found", 301
+    else:
+        response = make_response(send_file(url, mimetype='application/octet-stream'))
+        response.headers['pkid'] = os.path.basename(url)
+        response.headers['Access-Control-Expose-Headers'] = 'pkid'
+        return response
 
 
 
