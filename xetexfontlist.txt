@@ -1,5 +1,5 @@
 0
-stix/STIXIntegralsSm-Regular.otf
+STIXIntegralsSm-Regular.otf
 0
 1
 STIXIntegralsSm
@@ -21,7 +21,7 @@ STIXIntegralsSm-Regular
 0
 0
 1
-ipafont-gothic/ipag.ttf
+ipag.ttf
 0
 2
 IPAGothic
@@ -45,7 +45,7 @@ IPAGothic
 0
 0
 2
-adf/GilliusADFNo2-BoldItalic.otf
+GilliusADFNo2-BoldItalic.otf
 0
 1
 Gillius ADF No2
@@ -67,7 +67,7 @@ GilliusADFNo2-BoldItalic
 0
 0
 3
-noto/NotoSansArabic-Regular.ttf
+NotoSansArabic-Regular.ttf
 0
 1
 Noto Sans Arabic
@@ -89,7 +89,7 @@ NotoSansArabic-Regular
 0
 0
 4
-croscore/Tinos-Regular.ttf
+Tinos-Regular.ttf
 0
 1
 Tinos
@@ -111,7 +111,7 @@ Tinos
 0
 0
 5
-texlive-fonts-recommended/putri8a.pfb
+putri8a.pfb
 0
 1
 Utopia
@@ -133,7 +133,7 @@ Utopia-Italic
 0
 0
 6
-fonts/woff/ebgaramond/EBGaramond08-Italic.woff
+EBGaramond08-Italic.woff
 0
 1
 EB Garamond
@@ -155,7 +155,7 @@ EBGaramond08-Italic
 2
 256
 7
-urw-base35/StandardSymbolsPS.otf
+StandardSymbolsPS.otf
 0
 1
 Standard Symbols PS
@@ -177,7 +177,7 @@ StandardSymbolsPS
 0
 0
 8
-tex-gyre/texgyretermes-italic.otf
+texgyretermes-italic.otf
 0
 1
 TeX Gyre Termes
@@ -200,7 +200,7 @@ TeXGyreTermes-Italic
 2
 256
 9
-urw-base35/P052-Roman.t1
+P052-Roman.t1
 0
 1
 P052
@@ -222,7 +222,7 @@ P052-Roman
 0
 0
 10
-texlive-fonts-recommended/bchbi8a.pfb
+bchbi8a.pfb
 0
 1
 Bitstream Charter
@@ -244,7 +244,7 @@ CharterBT-BoldItalic
 0
 0
 11
-roboto/unhinted/RobotoTTF/Roboto-Medium.ttf
+Roboto-Medium.ttf
 0
 1
 Roboto
@@ -266,7 +266,7 @@ Roboto-Medium
 0
 0
 12
-noto/NotoSansKayahLi-Regular.ttf
+NotoSansKayahLi-Regular.ttf
 0
 1
 Noto Sans Kayah Li
@@ -288,7 +288,7 @@ NotoSansKayahLi-Regular
 0
 0
 13
-noto/NotoSansGeorgian-Regular.ttf
+NotoSansGeorgian-Regular.ttf
 0
 1
 Noto Sans Georgian
@@ -310,7 +310,7 @@ NotoSansGeorgian-Regular
 0
 0
 14
-noto/NotoSerifMyanmar-Regular.ttf
+NotoSerifMyanmar-Regular.ttf
 0
 1
 Noto Serif Myanmar
@@ -332,7 +332,7 @@ NotoSerifMyanmar-Regular
 0
 0
 15
-lato/Lato-Hairline.ttf
+Lato-Hairline.ttf
 0
 1
 Lato
@@ -354,7 +354,7 @@ Lato-Hairline
 0
 0
 16
-noto/NotoSansKannada-Regular.ttf
+NotoSansKannada-Regular.ttf
 0
 1
 Noto Sans Kannada
@@ -376,7 +376,7 @@ NotoSansKannada-Regular
 0
 0
 17
-noto/NotoSerifKannada-Regular.ttf
+NotoSerifKannada-Regular.ttf
 0
 1
 Noto Serif Kannada
@@ -398,7 +398,7 @@ NotoSerifKannada-Regular
 0
 0
 18
-lato/Lato-Italic.ttf
+Lato-Italic.ttf
 0
 1
 Lato
@@ -420,7 +420,7 @@ Lato-Italic
 0
 0
 19
-gsfonts/c059036l.pfb
+c059036l.pfb
 0
 1
 Century Schoolbook L
@@ -442,7 +442,7 @@ CenturySchL-BoldItal
 0
 0
 20
-noto/NotoSerifDisplay-Bold.ttf
+NotoSerifDisplay-Bold.ttf
 0
 1
 Noto Serif Display
@@ -464,7 +464,7 @@ NotoSerifDisplay-Bold
 0
 0
 21
-tlwg/Norasi-BoldItalic.otf
+Norasi-BoldItalic.otf
 0
 1
 Norasi
@@ -486,7 +486,7 @@ Norasi-BoldItalic
 0
 0
 22
-dejavu/DejaVuSerif-Italic.ttf
+DejaVuSerif-Italic.ttf
 0
 1
 DejaVu Serif
@@ -508,7 +508,7 @@ DejaVuSerif-Italic
 0
 0
 23
-gentium/Gentium-R.ttf
+Gentium-R.ttf
 0
 1
 Gentium
@@ -530,7 +530,7 @@ Gentium
 0
 0
 24
-croscore/Cousine-Bold.ttf
+Cousine-Bold.ttf
 0
 1
 Cousine
@@ -552,7 +552,7 @@ Cousine-Bold
 0
 0
 25
-urw-base35/URWBookman-Light.t1
+URWBookman-Light.t1
 0
 1
 URW Bookman
@@ -574,7 +574,7 @@ URWBookman-Light
 0
 0
 26
-noto/NotoSansCherokee-Bold.ttf
+NotoSansCherokee-Bold.ttf
 0
 1
 Noto Sans Cherokee
@@ -596,7 +596,7 @@ NotoSansCherokee-Bold
 0
 0
 27
-gsfonts/a010013l.pfb
+a010013l.pfb
 0
 1
 URW Gothic L
@@ -618,7 +618,7 @@ URWGothicL-Book
 0
 0
 28
-fonts/woff/ebgaramond/EBGaramond-Initials.woff
+EBGaramond-Initials.woff
 0
 1
 EB Garamond Initials
@@ -640,7 +640,7 @@ EBGaramondInitials
 0
 0
 29
-bodoni-classic/GFSBodoniClassic.otf
+GFSBodoniClassic.otf
 0
 1
 GFS BodoniClassic
@@ -663,7 +663,7 @@ GFSBodoniClassic-Regular
 0
 0
 30
-noto/NotoSerifGujarati-Bold.ttf
+NotoSerifGujarati-Bold.ttf
 0
 1
 Noto Serif Gujarati
@@ -685,7 +685,7 @@ NotoSerifGujarati-Bold
 0
 0
 31
-fonts/woff/ebgaramond/EBGaramond08-Regular.woff
+EBGaramond08-Regular.woff
 0
 1
 EB Garamond
@@ -707,7 +707,7 @@ EBGaramond08-Regular
 1
 256
 32
-adf/AccanthisADFStd-Bold.otf
+AccanthisADFStd-Bold.otf
 0
 1
 Accanthis ADF Std
@@ -729,7 +729,7 @@ AccanthisADFStd-Bold
 0
 0
 33
-noto/NotoSansOsage-Regular.ttf
+NotoSansOsage-Regular.ttf
 0
 1
 Noto Sans Osage
@@ -751,7 +751,7 @@ NotoSansOsage-Regular
 0
 0
 34
-baekmuk/gulim.ttf
+gulim.ttf
 0
 2
 Baekmuk Gulim
@@ -775,7 +775,7 @@ Baekmuk-Gulim
 0
 0
 35
-adf/GilliusADFNo2-Regular.otf
+GilliusADFNo2-Regular.otf
 0
 1
 Gillius ADF No2
@@ -821,7 +821,7 @@ IPAexMincho
 0
 0
 37
-tex-gyre/texgyreheros-bolditalic.otf
+texgyreheros-bolditalic.otf
 0
 1
 TeX Gyre Heros
@@ -844,7 +844,7 @@ TeXGyreHeros-BoldItalic
 4
 256
 38
-linux-libertine/LinLibertine_R.otf
+LinLibertine_R.otf
 0
 1
 Linux Libertine O
@@ -866,7 +866,7 @@ LinLibertineO
 0
 0
 39
-urw-base35/NimbusSans-Regular.otf
+NimbusSans-Regular.otf
 0
 1
 Nimbus Sans
@@ -889,7 +889,7 @@ NimbusSans-Regular
 0
 0
 40
-urw-base35/NimbusSansNarrow-Bold.otf
+NimbusSansNarrow-Bold.otf
 0
 1
 Nimbus Sans Narrow
@@ -912,7 +912,7 @@ NimbusSansNarrow-Bold
 0
 0
 41
-freefont/FreeMono.ttf
+FreeMono.ttf
 0
 1
 FreeMono
@@ -955,7 +955,7 @@ FreeMono
 0
 0
 42
-texlive-fonts-recommended/putb8a.pfb
+putb8a.pfb
 0
 1
 Utopia
@@ -977,7 +977,7 @@ Utopia-Bold
 0
 0
 43
-lm/lmmonolt10-boldoblique.otf
+lmmonolt10-boldoblique.otf
 0
 1
 Latin Modern Mono Light
@@ -1000,7 +1000,7 @@ LMMonoLt10-BoldOblique
 4
 256
 44
-gentium-basic/GenBkBasB.ttf
+GenBkBasB.ttf
 0
 1
 Gentium Book Basic
@@ -1022,7 +1022,7 @@ GentiumBookBasic-Bold
 0
 0
 45
-fonts/fonts-go/Go-Mono.ttf
+Go-Mono.ttf
 0
 1
 Go Mono
@@ -1044,7 +1044,7 @@ GoMono
 0
 0
 46
-gsfonts/n021024l.pfb
+n021024l.pfb
 0
 1
 Nimbus Roman No9 L
@@ -1066,7 +1066,7 @@ NimbusRomNo9L-MediItal
 0
 0
 47
-noto/NotoSans-Bold.ttf
+NotoSans-Bold.ttf
 0
 1
 Noto Sans
@@ -1088,7 +1088,7 @@ NotoSans-Bold
 0
 0
 48
-ebgaramond/EBGaramond-InitialsF2.otf
+EBGaramond-InitialsF2.otf
 0
 1
 EB Garamond Initials Fill2
@@ -1110,7 +1110,7 @@ EBGaramondInitialsF2
 0
 0
 49
-ebgaramond/EBGaramond-InitialsF1.ttf
+EBGaramond-InitialsF1.ttf
 0
 1
 EB Garamond Initials Fill1
@@ -1132,7 +1132,7 @@ EBGaramondInitialsF1
 0
 0
 50
-noto/NotoSansPhagsPa-Regular.ttf
+NotoSansPhagsPa-Regular.ttf
 0
 1
 Noto Sans PhagsPa
@@ -1154,7 +1154,7 @@ NotoSansPhagsPa-Regular
 0
 0
 51
-cantarell/Cantarell-Light.otf
+Cantarell-Light.otf
 0
 1
 Cantarell
@@ -1176,7 +1176,7 @@ Cantarell-Light
 0
 0
 52
-noto/NotoSans-Regular.ttf
+NotoSans-Regular.ttf
 0
 1
 Noto Sans
@@ -1198,7 +1198,7 @@ NotoSans-Regular
 0
 0
 53
-baskerville/GFSBaskerville.otf
+GFSBaskerville.otf
 0
 1
 GFS Baskerville
@@ -1221,7 +1221,7 @@ GFSBaskerville-Regular
 0
 0
 54
-noto/NotoSansTibetan-Regular.ttf
+NotoSansTibetan-Regular.ttf
 0
 1
 Noto Sans Tibetan
@@ -1243,7 +1243,7 @@ NotoSansTibetan
 0
 0
 55
-noto/NotoSansBengali-Regular.ttf
+NotoSansBengali-Regular.ttf
 0
 1
 Noto Sans Bengali
@@ -1265,7 +1265,7 @@ NotoSansBengali-Regular
 0
 0
 56
-tex-gyre/texgyrepagella-bolditalic.otf
+texgyrepagella-bolditalic.otf
 0
 1
 TeX Gyre Pagella
@@ -1287,7 +1287,7 @@ TeXGyrePagella-BoldItalic
 0
 0
 57
-ipafont-mincho/ipam.ttf
+ipam.ttf
 0
 2
 IPAMincho
@@ -1311,7 +1311,7 @@ IPAMincho
 0
 0
 58
-tex-gyre/texgyreschola-regular.otf
+texgyreschola-regular.otf
 0
 1
 TeX Gyre Schola
@@ -1334,7 +1334,7 @@ TeXGyreSchola-Regular
 1
 256
 59
-roboto/unhinted/RobotoTTF/Roboto-Bold.ttf
+Roboto-Bold.ttf
 0
 1
 Roboto
@@ -1356,7 +1356,7 @@ Roboto-Bold
 0
 0
 60
-texlive-fonts-recommended/bchb8a.pfb
+bchb8a.pfb
 0
 1
 Bitstream Charter
@@ -1378,7 +1378,7 @@ CharterBT-Bold
 0
 0
 61
-freefont/FreeSansBold.ttf
+FreeSansBold.ttf
 0
 1
 FreeSans
@@ -1456,7 +1456,7 @@ FreeSansBold
 0
 0
 62
-lm/lmmonoprop10-oblique.otf
+lmmonoprop10-oblique.otf
 0
 1
 Latin Modern Mono Prop
@@ -1479,7 +1479,7 @@ LMMonoProp10-Oblique
 2
 256
 63
-gentiumplus/GentiumPlus-R.ttf
+GentiumPlus-R.ttf
 0
 1
 Gentium Plus
@@ -1501,7 +1501,7 @@ GentiumPlus
 0
 0
 64
-tlwg/TlwgTypewriter-Oblique.otf
+TlwgTypewriter-Oblique.otf
 0
 1
 Tlwg Typewriter
@@ -1523,7 +1523,7 @@ TlwgTypewriter-Oblique
 0
 0
 65
-roboto/unhinted/RobotoCondensed-Bold.ttf
+RobotoCondensed-Bold.ttf
 0
 1
 Roboto Condensed
@@ -1545,7 +1545,7 @@ RobotoCondensed-Bold
 0
 0
 66
-open-sans/OpenSans-Semibold.ttf
+OpenSans-Semibold.ttf
 0
 1
 Open Sans
@@ -1567,7 +1567,7 @@ OpenSans-Semibold
 0
 0
 67
-lm/lmroman7-italic.otf
+lmroman7-italic.otf
 0
 1
 Latin Modern Roman
@@ -1590,7 +1590,7 @@ LMRoman7-Italic
 2
 256
 68
-noto/NotoSansLepcha-Regular.ttf
+NotoSansLepcha-Regular.ttf
 0
 1
 Noto Sans Lepcha
@@ -1612,7 +1612,7 @@ NotoSansLepcha-Regular
 0
 0
 69
-stix/STIXSizeOneSym-Regular.otf
+STIXSizeOneSym-Regular.otf
 0
 1
 STIXSizeOneSym
@@ -1634,7 +1634,7 @@ STIXSizeOneSym-Regular
 0
 0
 70
-roboto/unhinted/RobotoCondensed-Italic.ttf
+RobotoCondensed-Italic.ttf
 0
 1
 Roboto Condensed
@@ -1656,7 +1656,7 @@ RobotoCondensed-Italic
 0
 0
 71
-urw-base35/NimbusSans-Italic.otf
+NimbusSans-Italic.otf
 0
 1
 Nimbus Sans
@@ -1679,7 +1679,7 @@ NimbusSans-Italic
 0
 0
 72
-dejavu/DejaVuSerifCondensed-Bold.ttf
+DejaVuSerifCondensed-Bold.ttf
 0
 1
 DejaVu Serif
@@ -1701,7 +1701,7 @@ DejaVuSerifCondensed-Bold
 0
 0
 73
-tlwg/Garuda-Oblique.otf
+Garuda-Oblique.otf
 0
 1
 Garuda
@@ -1723,7 +1723,7 @@ Garuda-Oblique
 0
 0
 74
-urw-base35/NimbusMonoPS-Italic.t1
+NimbusMonoPS-Italic.t1
 0
 1
 Nimbus Mono PS
@@ -1745,7 +1745,7 @@ NimbusMonoPS-Italic
 0
 0
 75
-noto/NotoSansTagalog-Regular.ttf
+NotoSansTagalog-Regular.ttf
 0
 1
 Noto Sans Tagalog
@@ -1767,7 +1767,7 @@ NotoSansTagalog-Regular
 0
 0
 76
-noto/NotoSerifGurmukhi-Bold.ttf
+NotoSerifGurmukhi-Bold.ttf
 0
 1
 Noto Serif Gurmukhi
@@ -1789,7 +1789,7 @@ NotoSerifGurmukhi-Bold
 0
 0
 77
-urw-base35/URWBookman-DemiItalic.t1
+URWBookman-DemiItalic.t1
 0
 1
 URW Bookman
@@ -1811,7 +1811,7 @@ URWBookman-DemiItalic
 0
 0
 78
-noto/NotoSerifTibetan-Bold.ttf
+NotoSerifTibetan-Bold.ttf
 0
 1
 Noto Serif Tibetan
@@ -1833,7 +1833,7 @@ NotoSerifTibetan-Bold
 0
 0
 79
-lm/lmmonoslant10-regular.otf
+lmmonoslant10-regular.otf
 0
 1
 Latin Modern Mono Slanted
@@ -1856,7 +1856,7 @@ LMMonoSlant10-Regular
 1
 256
 80
-noto/NotoSerifBengali-Regular.ttf
+NotoSerifBengali-Regular.ttf
 0
 1
 Noto Serif Bengali
@@ -1878,7 +1878,7 @@ NotoSerifBengali-Regular
 0
 0
 81
-gentium-basic/GenBasI.ttf
+GenBasI.ttf
 0
 1
 Gentium Basic
@@ -1900,7 +1900,7 @@ GentiumBasic-Italic
 0
 0
 82
-noto/NotoSerif-Regular.ttf
+NotoSerif-Regular.ttf
 0
 1
 Noto Serif
@@ -1922,7 +1922,7 @@ NotoSerif-Regular
 0
 0
 83
-tlwg/TlwgTypist.otf
+TlwgTypist.otf
 0
 1
 Tlwg Typist
@@ -1944,7 +1944,7 @@ TlwgTypist
 0
 0
 84
-lato/Lato-Heavy.ttf
+Lato-Heavy.ttf
 0
 1
 Lato
@@ -1966,7 +1966,7 @@ Lato-Heavy
 0
 0
 85
-noto/NotoSansMiao-Regular.ttf
+NotoSansMiao-Regular.ttf
 0
 1
 Noto Sans Miao
@@ -1988,7 +1988,7 @@ NotoSansMiao-Regular
 0
 0
 86
-open-sans/OpenSans-ExtraBoldItalic.ttf
+OpenSans-ExtraBoldItalic.ttf
 0
 1
 Open Sans
@@ -2010,7 +2010,7 @@ OpenSans-ExtraboldItalic
 0
 0
 87
-unfonts-core/UnPilgiBold.ttf
+UnPilgiBold.ttf
 0
 2
 UnPilgi
@@ -2034,7 +2034,7 @@ UnPilgi-Bold
 0
 0
 88
-freefont/FreeSerif.otf
+FreeSerif.otf
 0
 1
 FreeSerif
@@ -2079,7 +2079,7 @@ FreeSerif
 0
 0
 89
-noto/NotoSansGlagolitic-Regular.ttf
+NotoSansGlagolitic-Regular.ttf
 0
 1
 Noto Sans Glagolitic
@@ -2101,7 +2101,7 @@ NotoSansGlagolitic-Regular
 0
 0
 90
-tex-gyre/texgyrepagella-bold.otf
+texgyrepagella-bold.otf
 0
 1
 TeX Gyre Pagella
@@ -2123,7 +2123,7 @@ TeXGyrePagella-Bold
 0
 0
 91
-urw-base35/NimbusRoman-BoldItalic.otf
+NimbusRoman-BoldItalic.otf
 0
 1
 Nimbus Roman
@@ -2146,7 +2146,7 @@ NimbusRoman-BoldItalic
 0
 0
 92
-stix/STIXNonUnicode-Bold.otf
+STIXNonUnicode-Bold.otf
 0
 1
 STIXNonUnicode
@@ -2168,7 +2168,7 @@ STIXNonUnicode-Bold
 0
 0
 93
-gsfonts/n022023l.pfb
+n022023l.pfb
 0
 1
 Nimbus Mono L
@@ -2190,7 +2190,7 @@ NimbusMonL-ReguObli
 0
 0
 94
-noto/NotoSansLinearA-Regular.ttf
+NotoSansLinearA-Regular.ttf
 0
 1
 Noto Sans Linear A
@@ -2212,7 +2212,7 @@ NotoSansLinearA-Regular
 0
 0
 95
-noto/NotoSansPauCinHau-Regular.ttf
+NotoSansPauCinHau-Regular.ttf
 0
 1
 Noto Sans Pau Cin Hau
@@ -2234,7 +2234,7 @@ NotoSansPauCinHau-Regular
 0
 0
 96
-noto/NotoSerifEthiopic-Regular.ttf
+NotoSerifEthiopic-Regular.ttf
 0
 1
 Noto Serif Ethiopic
@@ -2256,7 +2256,7 @@ NotoSerifEthiopic-Regular
 0
 0
 97
-gsfonts/n022004l.pfb
+n022004l.pfb
 0
 1
 Nimbus Mono L
@@ -2278,7 +2278,7 @@ NimbusMonL-Bold
 0
 0
 98
-lm/lmsans10-boldoblique.otf
+lmsans10-boldoblique.otf
 0
 1
 Latin Modern Sans
@@ -2301,7 +2301,7 @@ LMSans10-BoldOblique
 4
 256
 99
-noto/NotoSansLinearB-Regular.ttf
+NotoSansLinearB-Regular.ttf
 0
 1
 Noto Sans Linear B
@@ -2323,7 +2323,7 @@ NotoSansLinearB-Regular
 0
 0
 100
-dejavu/DejaVuSans-Bold.ttf
+DejaVuSans-Bold.ttf
 0
 1
 DejaVu Sans
@@ -2345,7 +2345,7 @@ DejaVuSans-Bold
 0
 0
 101
-lato/Lato-Light.ttf
+Lato-Light.ttf
 0
 1
 Lato
@@ -2367,7 +2367,7 @@ Lato-Light
 0
 0
 102
-dejavu/DejaVuMathTeXGyre.ttf
+DejaVuMathTeXGyre.ttf
 0
 1
 DejaVu Math TeX Gyre
@@ -2389,7 +2389,7 @@ DejaVuMathTeXGyre-Regular
 0
 0
 103
-noto/NotoSansKaithi-Regular.ttf
+NotoSansKaithi-Regular.ttf
 0
 1
 Noto Sans Kaithi
@@ -2411,7 +2411,7 @@ NotoSansKaithi-Regular
 0
 0
 104
-urw-base35/URWGothic-DemiOblique.otf
+URWGothic-DemiOblique.otf
 0
 1
 URW Gothic
@@ -2434,7 +2434,7 @@ URWGothic-DemiOblique
 0
 0
 105
-unfonts-extra/UnTaza.ttf
+UnTaza.ttf
 0
 2
 UnTaza
@@ -2458,7 +2458,7 @@ UnTaza
 0
 0
 106
-olga/GFSOlga.otf
+GFSOlga.otf
 0
 1
 GFS Olga
@@ -2481,7 +2481,7 @@ GFSOlga-Regular
 0
 0
 107
-tlwg/Norasi-BoldOblique.otf
+Norasi-BoldOblique.otf
 0
 1
 Norasi
@@ -2503,7 +2503,7 @@ Norasi-BoldOblique
 0
 0
 108
-adf/GilliusADF-Bold.otf
+GilliusADF-Bold.otf
 0
 1
 Gillius ADF
@@ -2525,7 +2525,7 @@ GilliusADF-Bold
 0
 0
 109
-noto/NotoSansGeorgian-Bold.ttf
+NotoSansGeorgian-Bold.ttf
 0
 1
 Noto Sans Georgian
@@ -2547,7 +2547,7 @@ NotoSansGeorgian-Bold
 0
 0
 110
-arphic-bsmi00lp/bsmi00lp.ttf
+bsmi00lp.ttf
 0
 2
 AR PL Mingti2L Big5
@@ -2571,7 +2571,7 @@ ShanHeiSun-Light
 0
 0
 111
-open-sans/OpenSans-Bold.ttf
+OpenSans-Bold.ttf
 0
 1
 Open Sans
@@ -2593,7 +2593,7 @@ OpenSans-Bold
 0
 0
 112
-ebgaramond/EBGaramond12-Regular.otf
+EBGaramond12-Regular.otf
 0
 1
 EB Garamond
@@ -2615,7 +2615,7 @@ EBGaramond12-Regular
 1
 256
 113
-stix/STIXSizeTwoSym-Bold.otf
+STIXSizeTwoSym-Bold.otf
 0
 1
 STIXSizeTwoSym
@@ -2637,7 +2637,7 @@ STIXSizeTwoSym-Bold
 0
 0
 114
-gsfonts/n022024l.pfb
+n022024l.pfb
 0
 1
 Nimbus Mono L
@@ -2659,7 +2659,7 @@ NimbusMonL-BoldObli
 0
 0
 115
-linux-libertine/LinLibertine_DR.otf
+LinLibertine_DR.otf
 0
 1
 Linux Libertine Display O
@@ -2681,7 +2681,7 @@ LinLibertineDisplayO
 0
 0
 116
-noto/NotoSerifDisplay-Italic.ttf
+NotoSerifDisplay-Italic.ttf
 0
 1
 Noto Serif Display
@@ -2703,7 +2703,7 @@ NotoSerifDisplay-Italic
 0
 0
 117
-noto/NotoSansOldPersian-Regular.ttf
+NotoSansOldPersian-Regular.ttf
 0
 1
 Noto Sans Old Persian
@@ -2725,7 +2725,7 @@ NotoSansOldPersian-Regular
 0
 0
 118
-urw-base35/NimbusRoman-Italic.t1
+NimbusRoman-Italic.t1
 0
 1
 Nimbus Roman
@@ -2747,7 +2747,7 @@ NimbusRoman-Italic
 0
 0
 119
-urw-base35/NimbusMonoPS-Regular.t1
+NimbusMonoPS-Regular.t1
 0
 1
 Nimbus Mono PS
@@ -2769,7 +2769,7 @@ NimbusMonoPS-Regular
 0
 0
 120
-noto/NotoSerifKhmer-Regular.ttf
+NotoSerifKhmer-Regular.ttf
 0
 1
 Noto Serif Khmer
@@ -2791,7 +2791,7 @@ NotoSerifKhmer-Regular
 0
 0
 121
-noto/NotoSansTamil-Bold.ttf
+NotoSansTamil-Bold.ttf
 0
 1
 Noto Sans Tamil
@@ -2813,7 +2813,7 @@ NotoSansTamil-Bold
 0
 0
 122
-urw-base35/NimbusSansNarrow-Regular.otf
+NimbusSansNarrow-Regular.otf
 0
 1
 Nimbus Sans Narrow
@@ -2836,7 +2836,7 @@ NimbusSansNarrow-Regular
 0
 0
 123
-ipaexfont-gothic/ipaexg.ttf
+ipaexg.ttf
 0
 2
 IPAexGothic
@@ -2860,7 +2860,7 @@ IPAexGothic
 0
 0
 124
-linux-libertine/LinLibertine_RB.otf
+LinLibertine_RB.otf
 0
 1
 Linux Libertine O
@@ -2882,7 +2882,7 @@ LinLibertineOB
 0
 0
 125
-stix/STIXIntegralsUpSm-Regular.otf
+STIXIntegralsUpSm-Regular.otf
 0
 1
 STIXIntegralsUpSm
@@ -2904,7 +2904,7 @@ STIXIntegralsUpSm-Regular
 0
 0
 126
-lm/lmsans8-oblique.otf
+lmsans8-oblique.otf
 0
 1
 Latin Modern Sans
@@ -2927,7 +2927,7 @@ LMSans8-Oblique
 2
 256
 127
-noto/NotoSansOgham-Regular.ttf
+NotoSansOgham-Regular.ttf
 0
 1
 Noto Sans Ogham
@@ -2949,7 +2949,7 @@ NotoSansOgham-Regular
 0
 0
 128
-open-sans/OpenSans-CondBold.ttf
+OpenSans-CondBold.ttf
 0
 1
 Open Sans Condensed
@@ -2971,7 +2971,7 @@ OpenSans-CondensedBold
 0
 0
 129
-stix-word/STIX-Italic.otf
+STIX-Italic.otf
 0
 1
 STIX
@@ -2993,7 +2993,7 @@ STIX-Italic
 0
 0
 130
-adf/GilliusADFNo2-Bold.otf
+GilliusADFNo2-Bold.otf
 0
 1
 Gillius ADF No2
@@ -3015,7 +3015,7 @@ GilliusADFNo2-Bold
 0
 0
 131
-noto/NotoSansDeseret-Regular.ttf
+NotoSansDeseret-Regular.ttf
 0
 1
 Noto Sans Deseret
@@ -3037,7 +3037,7 @@ NotoSansDeseret-Regular
 0
 0
 132
-fonts-hosny-amiri/Amiri-Bold.ttf
+Amiri-Bold.ttf
 0
 1
 Amiri
@@ -3059,7 +3059,7 @@ Amiri-Bold
 0
 0
 133
-neohellenic/GFSNeohellenicIt.otf
+GFSNeohellenicIt.otf
 0
 1
 GFS Neohellenic
@@ -3082,7 +3082,7 @@ GFSNeohellenic-Italic
 0
 0
 134
-noto/NotoSansHebrew-Regular.ttf
+NotoSansHebrew-Regular.ttf
 0
 1
 Noto Sans Hebrew
@@ -3104,7 +3104,7 @@ NotoSansHebrew-Regular
 0
 0
 135
-roboto/unhinted/RobotoTTF/Roboto-Light.ttf
+Roboto-Light.ttf
 0
 1
 Roboto
@@ -3126,7 +3126,7 @@ Roboto-Light
 0
 0
 136
-stix/STIXGeneral-BoldItalic.otf
+STIXGeneral-BoldItalic.otf
 0
 1
 STIXGeneral
@@ -3148,7 +3148,7 @@ STIXGeneral-BoldItalic
 0
 0
 137
-noto/NotoSansSymbols2-Regular.ttf
+NotoSansSymbols2-Regular.ttf
 0
 1
 Noto Sans Symbols2
@@ -3170,7 +3170,7 @@ NotoSansSymbols2-Regular
 0
 0
 138
-texlive-fonts-recommended/bchr8a.pfb
+bchr8a.pfb
 0
 1
 Bitstream Charter
@@ -3192,7 +3192,7 @@ CharterBT-Roman
 0
 0
 139
-lm/lmmonoproplt10-boldoblique.otf
+lmmonoproplt10-boldoblique.otf
 0
 1
 Latin Modern Mono Prop Light
@@ -3215,7 +3215,7 @@ LMMonoPropLt10-BoldOblique
 4
 256
 140
-tlwg/Kinnari-Italic.otf
+Kinnari-Italic.otf
 0
 1
 Kinnari
@@ -3237,7 +3237,7 @@ Kinnari-Italic
 0
 0
 141
-noto/NotoSansLisu-Regular.ttf
+NotoSansLisu-Regular.ttf
 0
 1
 Noto Sans Lisu
@@ -3259,7 +3259,7 @@ NotoSansLisu-Regular
 0
 0
 142
-lm/lmroman9-bold.otf
+lmroman9-bold.otf
 0
 1
 Latin Modern Roman
@@ -3282,7 +3282,7 @@ LMRoman9-Bold
 3
 256
 143
-noto/NotoSansGurmukhi-Bold.ttf
+NotoSansGurmukhi-Bold.ttf
 0
 1
 Noto Sans Gurmukhi
@@ -3304,7 +3304,7 @@ NotoSansGurmukhi-Bold
 0
 0
 144
-lm/lmsans9-oblique.otf
+lmsans9-oblique.otf
 0
 1
 Latin Modern Sans
@@ -3327,7 +3327,7 @@ LMSans9-Oblique
 2
 256
 145
-adf/UniversalisADFStd-CondItalic.otf
+UniversalisADFStd-CondItalic.otf
 0
 1
 Universalis ADF Std
@@ -3349,7 +3349,7 @@ UniversalisADFStd-CondItalic
 0
 0
 146
-fonts-hosny-amiri/Amiri-Slanted.ttf
+Amiri-Slanted.ttf
 0
 1
 Amiri
@@ -3371,7 +3371,7 @@ Amiri-Slanted
 0
 0
 147
-tlwg/Umpush-Oblique.otf
+Umpush-Oblique.otf
 0
 1
 Umpush
@@ -3393,7 +3393,7 @@ Umpush-Oblique
 0
 0
 148
-gsfonts/n019063l.pfb
+n019063l.pfb
 0
 1
 Nimbus Sans L
@@ -3415,7 +3415,7 @@ NimbusSanL-ReguCondItal
 0
 0
 149
-noto/NotoSansCanadianAboriginal-Bold.ttf
+NotoSansCanadianAboriginal-Bold.ttf
 0
 1
 Noto Sans Canadian Aboriginal
@@ -3437,7 +3437,7 @@ NotoSansCanadianAboriginal-Bold
 0
 0
 150
-noto/NotoSansHanunoo-Regular.ttf
+NotoSansHanunoo-Regular.ttf
 0
 1
 Noto Sans Hanunoo
@@ -3459,7 +3459,7 @@ NotoSansHanunoo-Regular
 0
 0
 151
-stix/STIXGeneral-Regular.otf
+STIXGeneral-Regular.otf
 0
 1
 STIXGeneral
@@ -3481,7 +3481,7 @@ STIXGeneral-Regular
 0
 0
 152
-lm/lmroman8-bold.otf
+lmroman8-bold.otf
 0
 1
 Latin Modern Roman
@@ -3504,7 +3504,7 @@ LMRoman8-Bold
 3
 256
 153
-tlwg/Kinnari-Oblique.otf
+Kinnari-Oblique.otf
 0
 1
 Kinnari
@@ -3526,7 +3526,7 @@ Kinnari-Oblique
 0
 0
 154
-tlwg/Sawasdee-BoldOblique.otf
+Sawasdee-BoldOblique.otf
 0
 1
 Sawasdee
@@ -3548,7 +3548,7 @@ Sawasdee-BoldOblique
 0
 0
 155
-gsfonts/n021004l.pfb
+n021004l.pfb
 0
 1
 Nimbus Roman No9 L
@@ -3570,7 +3570,7 @@ NimbusRomNo9L-Medi
 0
 0
 156
-padauk/Padauk-Bold.ttf
+Padauk-Bold.ttf
 0
 1
 Padauk
@@ -3592,7 +3592,7 @@ Padauk-Bold
 0
 0
 157
-tlwg/Umpush-BoldOblique.otf
+Umpush-BoldOblique.otf
 0
 1
 Umpush
@@ -3614,7 +3614,7 @@ Umpush-BoldOblique
 0
 0
 158
-tex-gyre/texgyreadventor-regular.otf
+texgyreadventor-regular.otf
 0
 1
 TeX Gyre Adventor
@@ -3636,7 +3636,7 @@ TeXGyreAdventor-Regular
 0
 0
 159
-noto/NotoSansMeroitic-Regular.ttf
+NotoSansMeroitic-Regular.ttf
 0
 1
 Noto Sans Meroitic
@@ -3658,7 +3658,7 @@ NotoSansMeroitic-Regular
 0
 0
 160
-cabin/Cabin-SemiBold.otf
+Cabin-SemiBold.otf
 0
 1
 Cabin
@@ -3681,7 +3681,7 @@ Cabin-SemiBold
 0
 0
 161
-noto/NotoMusic-Regular.ttf
+NotoMusic-Regular.ttf
 0
 1
 Noto Music
@@ -3703,7 +3703,7 @@ NotoMusic-Regular
 0
 0
 162
-lm/lmmonoproplt10-regular.otf
+lmmonoproplt10-regular.otf
 0
 1
 Latin Modern Mono Prop Light
@@ -3726,7 +3726,7 @@ LMMonoPropLt10-Regular
 1
 256
 163
-noto/NotoSansBengali-Bold.ttf
+NotoSansBengali-Bold.ttf
 0
 1
 Noto Sans Bengali
@@ -3748,7 +3748,7 @@ NotoSansBengali-Bold
 0
 0
 164
-freefont/FreeSerifBoldItalic.otf
+FreeSerifBoldItalic.otf
 0
 1
 FreeSerif
@@ -3826,7 +3826,7 @@ FreeSerifBoldItalic
 0
 0
 165
-lm/lmromandemi10-oblique.otf
+lmromandemi10-oblique.otf
 0
 1
 Latin Modern Roman Demi
@@ -3849,7 +3849,7 @@ LMRomanDemi10-Oblique
 2
 256
 166
-noto/NotoSansShavian-Regular.ttf
+NotoSansShavian-Regular.ttf
 0
 1
 Noto Sans Shavian
@@ -3871,7 +3871,7 @@ NotoSansShavian-Regular
 0
 0
 167
-unfonts-core/UnGraphicBold.ttf
+UnGraphicBold.ttf
 0
 2
 UnGraphic
@@ -3895,7 +3895,7 @@ UnGraphic-Bold
 0
 0
 168
-noto/NotoSerifSinhala-Regular.ttf
+NotoSerifSinhala-Regular.ttf
 0
 1
 Noto Serif Sinhala
@@ -3917,7 +3917,7 @@ NotoSerifSinhala-Regular
 0
 0
 169
-freefont/FreeSans.otf
+FreeSans.otf
 0
 1
 FreeSans
@@ -3960,7 +3960,7 @@ FreeSans
 0
 0
 170
-tlwg/TlwgTypo-BoldOblique.otf
+TlwgTypo-BoldOblique.otf
 0
 1
 Tlwg Typo
@@ -3982,7 +3982,7 @@ TlwgTypo-BoldOblique
 0
 0
 171
-noto/NotoSerifDevanagari-Bold.ttf
+NotoSerifDevanagari-Bold.ttf
 0
 1
 Noto Serif Devanagari
@@ -4004,7 +4004,7 @@ NotoSerifDevanagari-Bold
 0
 0
 172
-lm/lmmonolt10-regular.otf
+lmmonolt10-regular.otf
 0
 1
 Latin Modern Mono Light
@@ -4027,7 +4027,7 @@ LMMonoLt10-Regular
 1
 256
 173
-gsfonts/n019064l.pfb
+n019064l.pfb
 0
 1
 Nimbus Sans L
@@ -4049,7 +4049,7 @@ NimbusSanL-BoldCondItal
 0
 0
 174
-tlwg/TlwgMono-BoldOblique.otf
+TlwgMono-BoldOblique.otf
 0
 1
 Tlwg Mono
@@ -4071,7 +4071,7 @@ TlwgMono-BoldOblique
 0
 0
 175
-dejavu/DejaVuSerifCondensed-BoldItalic.ttf
+DejaVuSerifCondensed-BoldItalic.ttf
 0
 1
 DejaVu Serif
@@ -4093,7 +4093,7 @@ DejaVuSerifCondensed-BoldItalic
 0
 0
 176
-noto/NotoSansRejang-Regular.ttf
+NotoSansRejang-Regular.ttf
 0
 1
 Noto Sans Rejang
@@ -4115,7 +4115,7 @@ NotoSansRejang-Regular
 0
 0
 177
-adf/GilliusADF-Cond.otf
+GilliusADF-Cond.otf
 0
 1
 Gillius ADF
@@ -4137,7 +4137,7 @@ GilliusADF-Cond
 0
 0
 178
-noto/NotoSansOldHungarian-Regular.ttf
+NotoSansOldHungarian-Regular.ttf
 0
 1
 Noto Sans Old Hungarian
@@ -4159,7 +4159,7 @@ NotoSansOldHungarian-Regular
 0
 0
 179
-noto/NotoSerifArmenian-Bold.ttf
+NotoSerifArmenian-Bold.ttf
 0
 1
 Noto Serif Armenian
@@ -4181,7 +4181,7 @@ NotoSerifArmenian-Bold
 0
 0
 180
-noto/NotoSansHanifiRohingya-Regular.ttf
+NotoSansHanifiRohingya-Regular.ttf
 0
 1
 Noto Sans Hanifi Rohingya
@@ -4203,7 +4203,7 @@ NotoSansHanifiRohingya-Regular
 0
 0
 181
-noto/NotoSerifSinhala-Bold.ttf
+NotoSerifSinhala-Bold.ttf
 0
 1
 Noto Serif Sinhala
@@ -4225,7 +4225,7 @@ NotoSerifSinhala-Bold
 0
 0
 182
-noto/NotoSansTirhuta-Regular.ttf
+NotoSansTirhuta-Regular.ttf
 0
 1
 Noto Sans Tirhuta
@@ -4247,7 +4247,7 @@ NotoSansTirhuta-Regular
 0
 0
 183
-noto/NotoSerifDisplay-BoldItalic.ttf
+NotoSerifDisplay-BoldItalic.ttf
 0
 1
 Noto Serif Display
@@ -4269,7 +4269,7 @@ NotoSerifDisplay-BoldItalic
 0
 0
 184
-texlive-fonts-recommended/pcrbo8a.pfb
+pcrbo8a.pfb
 0
 1
 Courier
@@ -4291,7 +4291,7 @@ Courier-BoldItalic
 0
 0
 185
-noto/NotoSerifTamil-Regular.ttf
+NotoSerifTamil-Regular.ttf
 0
 1
 Noto Serif Tamil
@@ -4313,7 +4313,7 @@ NotoSerifTamil-Regular
 0
 0
 186
-urw-base35/URWGothic-Demi.t1
+URWGothic-Demi.t1
 0
 1
 URW Gothic
@@ -4335,7 +4335,7 @@ URWGothic-Demi
 0
 0
 187
-tex-gyre/texgyrepagella-italic.otf
+texgyrepagella-italic.otf
 0
 1
 TeX Gyre Pagella
@@ -4357,7 +4357,7 @@ TeXGyrePagella-Italic
 0
 0
 188
-linux-libertine/LinLibertine_I.otf
+LinLibertine_I.otf
 0
 1
 Linux Libertine Initials O
@@ -4379,7 +4379,7 @@ LinLibertineIO
 0
 0
 189
-cabin/Cabin-BoldItalic.otf
+Cabin-BoldItalic.otf
 0
 1
 Cabin
@@ -4402,7 +4402,7 @@ Cabin-BoldItalic
 0
 0
 190
-stix/STIXGeneral-Bold.otf
+STIXGeneral-Bold.otf
 0
 1
 STIXGeneral
@@ -4424,7 +4424,7 @@ STIXGeneral-Bold
 0
 0
 191
-noto/NotoSansTibetan-Bold.ttf
+NotoSansTibetan-Bold.ttf
 0
 1
 Noto Sans Tibetan
@@ -4446,7 +4446,7 @@ NotoSansTibetan-Bold
 0
 0
 192
-noto/NotoSansKhudawadi-Regular.ttf
+NotoSansKhudawadi-Regular.ttf
 0
 1
 Noto Sans Khudawadi
@@ -4468,7 +4468,7 @@ NotoSansKhudawadi-Regular
 0
 0
 193
-noto/NotoSansCoptic-Regular.ttf
+NotoSansCoptic-Regular.ttf
 0
 1
 Noto Sans Coptic
@@ -4490,7 +4490,7 @@ NotoSansCoptic-Regular
 0
 0
 194
-adf/UniversalisADFStd-BoldItalic.otf
+UniversalisADFStd-BoldItalic.otf
 0
 1
 Universalis ADF Std
@@ -4512,7 +4512,7 @@ UniversalisADFStd-BoldItalic
 0
 0
 195
-unfonts-core/UnDotumBold.ttf
+UnDotumBold.ttf
 0
 2
 UnDotum
@@ -4536,7 +4536,7 @@ UnDotum-Bold
 0
 0
 196
-lm/lmromandunh10-oblique.otf
+lmromandunh10-oblique.otf
 0
 1
 Latin Modern Roman Dunhill
@@ -4559,7 +4559,7 @@ LMRomanDunh10-Oblique
 2
 256
 197
-unfonts-core/UnGungseo.ttf
+UnGungseo.ttf
 0
 2
 UnGungseo
@@ -4583,7 +4583,7 @@ UnGungseo
 0
 0
 198
-tlwg/TlwgTypewriter.otf
+TlwgTypewriter.otf
 0
 1
 Tlwg Typewriter
@@ -4605,7 +4605,7 @@ TlwgTypewriter
 0
 0
 199
-adf/AccanthisADFStdNo3-BoldItalic.otf
+AccanthisADFStdNo3-BoldItalic.otf
 0
 1
 Accanthis ADF Std No3
@@ -4627,7 +4627,7 @@ AccanthisADFStdNo3-BoldItalic
 0
 0
 200
-tlwg/Loma.otf
+Loma.otf
 0
 1
 Loma
@@ -4649,7 +4649,7 @@ Loma
 0
 0
 201
-artemisia/GFSArtemisiaBoldIt.otf
+GFSArtemisiaBoldIt.otf
 0
 1
 GFS Didot
@@ -4672,7 +4672,7 @@ GFSArtemisia-BoldItalic
 0
 0
 202
-adf/GilliusADFNo2-Italic.otf
+GilliusADFNo2-Italic.otf
 0
 1
 Gillius ADF No2
@@ -4694,7 +4694,7 @@ GilliusADFNo2-Italic
 0
 0
 203
-noto/NotoSerifMalayalam-Bold.ttf
+NotoSerifMalayalam-Bold.ttf
 0
 1
 Noto Serif Malayalam
@@ -4716,7 +4716,7 @@ NotoSerifMalayalam-Bold
 0
 0
 204
-tlwg/TlwgTypo-Oblique.otf
+TlwgTypo-Oblique.otf
 0
 1
 Tlwg Typo
@@ -4738,7 +4738,7 @@ TlwgTypo-Oblique
 0
 0
 205
-lm/lmmono12-regular.otf
+lmmono12-regular.otf
 0
 1
 Latin Modern Mono
@@ -4761,7 +4761,7 @@ LMMono12-Regular
 1
 256
 206
-urw-base35/P052-Italic.otf
+P052-Italic.otf
 0
 1
 P052
@@ -4784,7 +4784,7 @@ P052-Italic
 0
 0
 207
-tex-gyre/texgyrebonum-bolditalic.otf
+texgyrebonum-bolditalic.otf
 0
 1
 TeX Gyre Bonum
@@ -4807,7 +4807,7 @@ TeXGyreBonum-BoldItalic
 4
 256
 208
-dejavu/DejaVuSansMono.ttf
+DejaVuSansMono.ttf
 0
 1
 DejaVu Sans Mono
@@ -4829,7 +4829,7 @@ DejaVuSansMono
 0
 0
 209
-open-sans/OpenSans-Light.ttf
+OpenSans-Light.ttf
 0
 1
 Open Sans
@@ -4851,7 +4851,7 @@ OpenSans-Light
 0
 0
 210
-fonts/woff/ebgaramond/EBGaramond12-AllSC.woff
+EBGaramond12-AllSC.woff
 0
 1
 EB Garamond 12 All SC
@@ -4873,7 +4873,7 @@ EBGaramond12-AllSC
 6
 256
 211
-tlwg/Kinnari-BoldItalic.otf
+Kinnari-BoldItalic.otf
 0
 1
 Kinnari
@@ -4895,7 +4895,7 @@ Kinnari-BoldItalic
 0
 0
 212
-stix-word/STIXMath-Regular.otf
+STIXMath-Regular.otf
 0
 1
 STIX Math
@@ -4918,7 +4918,7 @@ STIXMath-Regular
 0
 0
 213
-padauk/PadaukBook-Bold.ttf
+PadaukBook-Bold.ttf
 0
 1
 Padauk Book
@@ -4940,7 +4940,7 @@ PadaukBook-Bold
 0
 0
 214
-stix/STIXNonUnicode-Regular.otf
+STIXNonUnicode-Regular.otf
 0
 1
 STIXNonUnicode
@@ -4962,7 +4962,7 @@ STIXNonUnicode-Regular
 0
 0
 215
-noto/NotoSansInscriptionalPahlavi-Regular.ttf
+NotoSansInscriptionalPahlavi-Regular.ttf
 0
 1
 Noto Sans Inscriptional Pahlavi
@@ -4984,7 +4984,7 @@ NotoSansInscriptionalPahlavi-Regular
 0
 0
 216
-roboto/unhinted/RobotoTTF/Roboto-ThinItalic.ttf
+Roboto-ThinItalic.ttf
 0
 1
 Roboto
@@ -5006,7 +5006,7 @@ Roboto-ThinItalic
 0
 0
 217
-freefont/FreeMonoBoldOblique.ttf
+FreeMonoBoldOblique.ttf
 0
 1
 FreeMono
@@ -5082,7 +5082,7 @@ FreeMonoBoldOblique
 0
 0
 218
-unfonts-core/UnGraphic.ttf
+UnGraphic.ttf
 0
 2
 UnGraphic
@@ -5106,7 +5106,7 @@ UnGraphic
 0
 0
 219
-texlive-fonts-recommended/putr8a.pfb
+putr8a.pfb
 0
 1
 Utopia
@@ -5128,7 +5128,7 @@ Utopia-Regular
 0
 0
 220
-noto/NotoSansOldSogdian-Regular.ttf
+NotoSansOldSogdian-Regular.ttf
 0
 1
 Noto Sans Old Sogdian
@@ -5150,7 +5150,7 @@ NotoSansOldSogdian-Regular
 0
 0
 221
-tex-gyre/texgyreadventor-italic.otf
+texgyreadventor-italic.otf
 0
 1
 TeX Gyre Adventor
@@ -5172,7 +5172,7 @@ TeXGyreAdventor-Italic
 0
 0
 222
-tlwg/Laksaman-BoldItalic.otf
+Laksaman-BoldItalic.otf
 0
 1
 Laksaman
@@ -5194,7 +5194,7 @@ Laksaman-BoldItalic
 0
 0
 223
-cabin/Cabin-SemiBoldItalic.otf
+Cabin-SemiBoldItalic.otf
 0
 1
 Cabin
@@ -5217,7 +5217,7 @@ Cabin-SemiBoldItalic
 0
 0
 224
-ebgaramond/EBGaramondSC12-Regular.ttf
+EBGaramondSC12-Regular.ttf
 0
 1
 EB Garamond SC
@@ -5239,7 +5239,7 @@ EBGaramondSC12-Regular
 1
 256
 225
-tex-gyre-math/texgyreschola-math.otf
+texgyreschola-math.otf
 0
 1
 TeX Gyre Schola Math
@@ -5261,7 +5261,7 @@ TeXGyreScholaMath-Regular
 0
 0
 226
-adf/UniversalisADFStd-BoldCondIt.otf
+UniversalisADFStd-BoldCondIt.otf
 0
 1
 Universalis ADF Std
@@ -5283,7 +5283,7 @@ UniversalisADFStd-BoldCondIt
 0
 0
 227
-noto/NotoSansTaiLe-Regular.ttf
+NotoSansTaiLe-Regular.ttf
 0
 1
 Noto Sans Tai Le
@@ -5305,7 +5305,7 @@ NotoSansTaiLe-Regular
 0
 0
 228
-noto/NotoSansDisplay-Italic.ttf
+NotoSansDisplay-Italic.ttf
 0
 1
 Noto Sans Display
@@ -5327,7 +5327,7 @@ NotoSansDisplay-Italic
 0
 0
 229
-lm/lmmono10-regular.otf
+lmmono10-regular.otf
 0
 1
 Latin Modern Mono
@@ -5350,7 +5350,7 @@ LMMono10-Regular
 1
 256
 230
-linux-libertine/LinLibertine_M.otf
+LinLibertine_M.otf
 0
 1
 Linux Libertine Mono O
@@ -5372,7 +5372,7 @@ LinLibertineMO
 0
 0
 231
-urw-base35/URWBookman-LightItalic.t1
+URWBookman-LightItalic.t1
 0
 1
 URW Bookman
@@ -5394,7 +5394,7 @@ URWBookman-LightItalic
 0
 0
 232
-tex-gyre/texgyreheros-regular.otf
+texgyreheros-regular.otf
 0
 1
 TeX Gyre Heros
@@ -5417,7 +5417,7 @@ TeXGyreHeros-Regular
 1
 256
 233
-stix/STIXVariants-Bold.otf
+STIXVariants-Bold.otf
 0
 1
 STIXVariants
@@ -5439,7 +5439,7 @@ STIXVariants-Bold
 0
 0
 234
-noto/NotoSansMono-Bold.ttf
+NotoSansMono-Bold.ttf
 0
 1
 Noto Sans Mono
@@ -5461,7 +5461,7 @@ NotoSansMono-Bold
 0
 0
 235
-baekmuk/dotum.ttf
+dotum.ttf
 0
 2
 Baekmuk Dotum
@@ -5485,7 +5485,7 @@ Baekmuk-Dotum
 0
 0
 236
-noto/NotoSansOsmanya-Regular.ttf
+NotoSansOsmanya-Regular.ttf
 0
 1
 Noto Sans Osmanya
@@ -5507,7 +5507,7 @@ NotoSansOsmanya-Regular
 0
 0
 237
-adf/GilliusADFNo2-CondItalic.otf
+GilliusADFNo2-CondItalic.otf
 0
 1
 Gillius ADF No2
@@ -5529,7 +5529,7 @@ GilliusADFNo2-CondItalic
 0
 0
 238
-lm/lmsans10-oblique.otf
+lmsans10-oblique.otf
 0
 1
 Latin Modern Sans
@@ -5552,7 +5552,7 @@ LMSans10-Oblique
 2
 256
 239
-noto/NotoSansArabic-Bold.ttf
+NotoSansArabic-Bold.ttf
 0
 1
 Noto Sans Arabic
@@ -5574,7 +5574,7 @@ NotoSansArabic-Bold
 0
 0
 240
-complutum/GFSPolyglot.otf
+GFSPolyglot.otf
 0
 1
 GFS Complutum
@@ -5596,7 +5596,7 @@ GFSComplutum-Regular
 0
 0
 241
-lm/lmmonolt10-oblique.otf
+lmmonolt10-oblique.otf
 0
 1
 Latin Modern Mono Light
@@ -5619,7 +5619,7 @@ LMMonoLt10-Oblique
 2
 256
 242
-asana-math/Asana-Math.otf
+Asana-Math.otf
 0
 1
 Asana Math
@@ -5641,7 +5641,7 @@ Asana-Math
 0
 0
 243
-unfonts-core/UnDotum.ttf
+UnDotum.ttf
 0
 2
 UnDotum
@@ -5665,7 +5665,7 @@ UnDotum
 0
 0
 244
-gentium-basic/GenBasR.ttf
+GenBasR.ttf
 0
 1
 Gentium Basic
@@ -5687,7 +5687,7 @@ GentiumBasic
 0
 0
 245
-noto/NotoSerifTelugu-Bold.ttf
+NotoSerifTelugu-Bold.ttf
 0
 1
 Noto Serif Telugu
@@ -5709,7 +5709,7 @@ NotoSerifTelugu-Bold
 0
 0
 246
-lm/lmroman7-bold.otf
+lmroman7-bold.otf
 0
 1
 Latin Modern Roman
@@ -5732,7 +5732,7 @@ LMRoman7-Bold
 3
 256
 247
-lm/lmsansquot8-oblique.otf
+lmsansquot8-oblique.otf
 0
 1
 Latin Modern Sans Quotation
@@ -5755,7 +5755,7 @@ LMSansQuot8-Oblique
 2
 256
 248
-noto/NotoSansMalayalam-Regular.ttf
+NotoSansMalayalam-Regular.ttf
 0
 1
 Noto Sans Malayalam
@@ -5777,7 +5777,7 @@ NotoSansMalayalam-Regular
 0
 0
 249
-noto/NotoSerifThai-Bold.ttf
+NotoSerifThai-Bold.ttf
 0
 1
 Noto Serif Thai
@@ -5799,7 +5799,7 @@ NotoSerifThai-Bold
 0
 0
 250
-lm/lmsansdemicond10-oblique.otf
+lmsansdemicond10-oblique.otf
 0
 1
 Latin Modern Sans Demi Cond
@@ -5822,7 +5822,7 @@ LMSansDemiCond10-Oblique
 2
 256
 251
-lobstertwo/LobsterTwo-Bold.otf
+LobsterTwo-Bold.otf
 0
 1
 Lobster Two
@@ -5845,7 +5845,7 @@ LobsterTwo-Bold
 0
 0
 252
-freefont/FreeSansOblique.otf
+FreeSansOblique.otf
 0
 1
 FreeSans
@@ -5917,7 +5917,7 @@ FreeSansOblique
 0
 0
 253
-noto/NotoSansUgaritic-Regular.ttf
+NotoSansUgaritic-Regular.ttf
 0
 1
 Noto Sans Ugaritic
@@ -5939,7 +5939,7 @@ NotoSansUgaritic-Regular
 0
 0
 254
-noto/NotoSansSoraSompeng-Regular.ttf
+NotoSansSoraSompeng-Regular.ttf
 0
 1
 Noto Sans Sora Sompeng
@@ -5961,7 +5961,7 @@ NotoSansSoraSompeng-Regular
 0
 0
 255
-open-sans/OpenSans-ExtraBold.ttf
+OpenSans-ExtraBold.ttf
 0
 1
 Open Sans
@@ -5983,7 +5983,7 @@ OpenSans-Extrabold
 0
 0
 256
-noto/NotoSansIndicSiyaqNumbers-Regular.ttf
+NotoSansIndicSiyaqNumbers-Regular.ttf
 0
 1
 Noto Sans Indic Siyaq Numbers
@@ -6005,7 +6005,7 @@ NotoSansIndicSiyaqNumbers-Regular
 0
 0
 257
-stix/STIXIntegralsUpD-Bold.otf
+STIXIntegralsUpD-Bold.otf
 0
 1
 STIXIntegralsUpD
@@ -6027,7 +6027,7 @@ STIXIntegralsUpD-Bold
 0
 0
 258
-unfonts-extra/UnPen.ttf
+UnPen.ttf
 0
 2
 UnPen
@@ -6051,7 +6051,7 @@ UnPen
 0
 0
 259
-lm/lmroman6-bold.otf
+lmroman6-bold.otf
 0
 1
 Latin Modern Roman
@@ -6074,7 +6074,7 @@ LMRoman6-Bold
 3
 256
 260
-tlwg/Waree-Bold.otf
+Waree-Bold.otf
 0
 1
 Waree
@@ -6096,7 +6096,7 @@ Waree-Bold
 0
 0
 261
-freefont/FreeSerifBold.ttf
+FreeSerifBold.ttf
 0
 1
 FreeSerif
@@ -6176,7 +6176,7 @@ FreeSerifBold
 0
 0
 262
-comfortaa/Comfortaa-Light.ttf
+Comfortaa-Light.ttf
 0
 1
 Comfortaa
@@ -6198,7 +6198,7 @@ Comfortaa-Light
 0
 0
 263
-croscore/Cousine-Regular.ttf
+Cousine-Regular.ttf
 0
 1
 Cousine
@@ -6220,7 +6220,7 @@ Cousine
 0
 0
 264
-ipafont-mincho/ipamp.ttf
+ipamp.ttf
 0
 2
 IPAPMincho
@@ -6244,7 +6244,7 @@ IPAPMincho
 0
 0
 265
-lm/lmroman5-bold.otf
+lmroman5-bold.otf
 0
 1
 Latin Modern Roman
@@ -6267,7 +6267,7 @@ LMRoman5-Bold
 3
 256
 266
-noto/NotoSansKhmer-Bold.ttf
+NotoSansKhmer-Bold.ttf
 0
 1
 Noto Sans Khmer
@@ -6289,7 +6289,7 @@ NotoSansKhmer-Bold
 0
 0
 267
-adf/AccanthisADFStdNo2-Bold.otf
+AccanthisADFStdNo2-Bold.otf
 0
 1
 Accanthis ADF Std No2
@@ -6311,7 +6311,7 @@ AccanthisADFStdNo2-Bold
 0
 0
 268
-noto/NotoSerifLao-Regular.ttf
+NotoSerifLao-Regular.ttf
 0
 1
 Noto Serif Lao
@@ -6333,7 +6333,7 @@ NotoSerifLao-Regular
 0
 0
 269
-linux-libertine/LinBiolinum_R.otf
+LinBiolinum_R.otf
 0
 1
 Linux Biolinum O
@@ -6355,7 +6355,7 @@ LinBiolinumO
 0
 0
 270
-tlwg/Laksaman.otf
+Laksaman.otf
 0
 1
 Laksaman
@@ -6377,7 +6377,7 @@ Laksaman
 0
 0
 271
-lm/lmsans12-oblique.otf
+lmsans12-oblique.otf
 0
 1
 Latin Modern Sans
@@ -6400,7 +6400,7 @@ LMSans12-Oblique
 2
 256
 272
-adf/BerenisADFProMath-Regular.otf
+BerenisADFProMath-Regular.otf
 0
 1
 Berenis ADF Pro Math
@@ -6422,7 +6422,7 @@ BerenisADFProMath-Regular
 0
 0
 273
-noto/NotoSansGrantha-Regular.ttf
+NotoSansGrantha-Regular.ttf
 0
 1
 Noto Sans Grantha
@@ -6444,7 +6444,7 @@ NotoSansGrantha-Regular
 0
 0
 274
-urw-base35/P052-BoldItalic.t1
+P052-BoldItalic.t1
 0
 1
 P052
@@ -6466,7 +6466,7 @@ P052-BoldItalic
 0
 0
 275
-noto/NotoSansTakri-Regular.ttf
+NotoSansTakri-Regular.ttf
 0
 1
 Noto Sans Takri
@@ -6488,7 +6488,7 @@ NotoSansTakri-Regular
 0
 0
 276
-roboto/unhinted/RobotoTTF/Roboto-BlackItalic.ttf
+Roboto-BlackItalic.ttf
 0
 1
 Roboto
@@ -6510,7 +6510,7 @@ Roboto-BlackItalic
 0
 0
 277
-gentium/GentiumAlt-R.ttf
+GentiumAlt-R.ttf
 0
 1
 GentiumAlt
@@ -6532,7 +6532,7 @@ GentiumAlt
 0
 0
 278
-lm/lmsansquot8-regular.otf
+lmsansquot8-regular.otf
 0
 1
 Latin Modern Sans Quotation
@@ -6555,7 +6555,7 @@ LMSansQuot8-Regular
 1
 256
 279
-noto/NotoSansLao-Regular.ttf
+NotoSansLao-Regular.ttf
 0
 1
 Noto Sans Lao
@@ -6577,7 +6577,7 @@ NotoSansLao-Regular
 0
 0
 280
-lm/lmmonocaps10-regular.otf
+lmmonocaps10-regular.otf
 0
 1
 Latin Modern Mono Caps
@@ -6600,7 +6600,7 @@ LMMonoCaps10-Regular
 1
 256
 281
-noto/NotoSansAdlamUnjoined-Regular.ttf
+NotoSansAdlamUnjoined-Regular.ttf
 0
 1
 Noto Sans Adlam Unjoined
@@ -6622,7 +6622,7 @@ NotoSansAdlamUnjoined-Regular
 0
 0
 282
-adf/UniversalisADFStd-Regular.otf
+UniversalisADFStd-Regular.otf
 0
 1
 Universalis ADF Std
@@ -6644,7 +6644,7 @@ UniversalisADFStd-Regular
 0
 0
 283
-fonts/fonts-go/Go-Bold-Italic.ttf
+Go-Bold-Italic.ttf
 0
 1
 Go
@@ -6666,7 +6666,7 @@ Go-BoldItalic
 0
 0
 284
-noto/NotoSansSamaritan-Regular.ttf
+NotoSansSamaritan-Regular.ttf
 0
 1
 Noto Sans Samaritan
@@ -6688,7 +6688,7 @@ NotoSansSamaritan-Regular
 0
 0
 285
-freefont/FreeSansBoldOblique.otf
+FreeSansBoldOblique.otf
 0
 1
 FreeSans
@@ -6766,7 +6766,7 @@ FreeSansBoldOblique
 0
 0
 286
-lm/lmsansdemicond10-regular.otf
+lmsansdemicond10-regular.otf
 0
 1
 Latin Modern Sans Demi Cond
@@ -6789,7 +6789,7 @@ LMSansDemiCond10-Regular
 1
 256
 287
-cantarell/Cantarell-ExtraBold.otf
+Cantarell-ExtraBold.otf
 0
 1
 Cantarell
@@ -6811,7 +6811,7 @@ Cantarell-ExtraBold
 0
 0
 288
-freefont/FreeSerifItalic.ttf
+FreeSerifItalic.ttf
 0
 1
 FreeSerif
@@ -6861,7 +6861,7 @@ FreeSerif Cursief
 FreeSerif kursywa
 FreeSerif Itálico
 FreeSerif cursiv
-FreeSerif Курсив 
+FreeSerif Курсив
 FreeSerif Kurzíva
 FreeSerif ตัวเอียง
 FreeSerif İtalik
@@ -6887,7 +6887,7 @@ FreeSerifItalic
 0
 0
 289
-adf/AccanthisADFStdNo3-Bold.otf
+AccanthisADFStdNo3-Bold.otf
 0
 1
 Accanthis ADF Std No3
@@ -6909,7 +6909,7 @@ AccanthisADFStdNo3-Bold
 0
 0
 290
-noto/NotoSansCarian-Regular.ttf
+NotoSansCarian-Regular.ttf
 0
 1
 Noto Sans Carian
@@ -6931,7 +6931,7 @@ NotoSansCarian-Regular
 0
 0
 291
-adf/GilliusADF-Italic.otf
+GilliusADF-Italic.otf
 0
 1
 Gillius ADF
@@ -6953,7 +6953,7 @@ GilliusADF-Italic
 0
 0
 292
-lobstertwo/LobsterTwo-BoldItalic.otf
+LobsterTwo-BoldItalic.otf
 0
 1
 Lobster Two
@@ -6976,7 +6976,7 @@ LobsterTwo-BoldItalic
 0
 0
 293
-noto/NotoSerifTibetan-Regular.ttf
+NotoSerifTibetan-Regular.ttf
 0
 1
 Noto Serif Tibetan
@@ -6998,7 +6998,7 @@ NotoSerifTibetan-Regular
 0
 0
 294
-noto/NotoSansSyriac-Regular.ttf
+NotoSansSyriac-Regular.ttf
 0
 1
 Noto Sans Syriac
@@ -7020,7 +7020,7 @@ NotoSansSyriac-Regular
 0
 0
 295
-padauk/PadaukBook-Regular.ttf
+PadaukBook-Regular.ttf
 0
 1
 Padauk Book
@@ -7042,7 +7042,7 @@ PadaukBook-Regular
 0
 0
 296
-lm/lmsans12-regular.otf
+lmsans12-regular.otf
 0
 1
 Latin Modern Sans
@@ -7065,7 +7065,7 @@ LMSans12-Regular
 1
 256
 297
-noto/NotoSansPahawhHmong-Regular.ttf
+NotoSansPahawhHmong-Regular.ttf
 0
 1
 Noto Sans Pahawh Hmong
@@ -7087,7 +7087,7 @@ NotoSansPahawhHmong-Regular
 0
 0
 298
-adf/UniversalisADFStd-Italic.otf
+UniversalisADFStd-Italic.otf
 0
 1
 Universalis ADF Std
@@ -7109,7 +7109,7 @@ UniversalisADFStd-Italic
 0
 0
 299
-baekmuk/hline.ttf
+hline.ttf
 0
 2
 Baekmuk Headline
@@ -7133,7 +7133,7 @@ Baekmuk-Headline
 0
 0
 300
-fonts/fonts-go/Go-Mono-Italic.ttf
+Go-Mono-Italic.ttf
 0
 1
 Go Mono
@@ -7155,7 +7155,7 @@ GoMono-Italic
 0
 0
 301
-tlwg/Purisa-Bold.otf
+Purisa-Bold.otf
 0
 1
 Purisa
@@ -7177,7 +7177,7 @@ Purisa-Bold
 0
 0
 302
-lm/lmsans17-oblique.otf
+lmsans17-oblique.otf
 0
 1
 Latin Modern Sans
@@ -7200,7 +7200,7 @@ LMSans17-Oblique
 2
 256
 303
-noto/NotoSansOldNorthArabian-Regular.ttf
+NotoSansOldNorthArabian-Regular.ttf
 0
 1
 Noto Sans Old North Arabian
@@ -7222,7 +7222,7 @@ NotoSansOldNorthArabian-Regular
 0
 0
 304
-junicode/FoulisGreek.ttf
+FoulisGreek.ttf
 0
 1
 FoulisGreek
@@ -7244,7 +7244,7 @@ FoulisGreek
 0
 0
 305
-noto/NotoSansSiddham-Regular.ttf
+NotoSansSiddham-Regular.ttf
 0
 1
 Noto Sans Siddham
@@ -7266,7 +7266,7 @@ NotoSansSiddham-Regular
 0
 0
 306
-unfonts-core/UnDinaruLight.ttf
+UnDinaruLight.ttf
 0
 2
 UnDinaru
@@ -7291,7 +7291,7 @@ UnDinaru-Light
 0
 0
 307
-urw-base35/URWGothic-BookOblique.t1
+URWGothic-BookOblique.t1
 0
 1
 URW Gothic
@@ -7313,7 +7313,7 @@ URWGothic-BookOblique
 0
 0
 308
-noto/NotoSerifHebrew-Bold.ttf
+NotoSerifHebrew-Bold.ttf
 0
 1
 Noto Serif Hebrew
@@ -7335,7 +7335,7 @@ NotoSerifHebrew-Bold
 0
 0
 309
-tlwg/TlwgTypewriter-BoldOblique.otf
+TlwgTypewriter-BoldOblique.otf
 0
 1
 Tlwg Typewriter
@@ -7357,7 +7357,7 @@ TlwgTypewriter-BoldOblique
 0
 0
 310
-noto/NotoSansSylotiNagri-Regular.ttf
+NotoSansSylotiNagri-Regular.ttf
 0
 1
 Noto Sans Syloti Nagri
@@ -7379,7 +7379,7 @@ NotoSansSylotiNagri-Regular
 0
 0
 311
-noto/NotoSerifGeorgian-Bold.ttf
+NotoSerifGeorgian-Bold.ttf
 0
 1
 Noto Serif Georgian
@@ -7401,7 +7401,7 @@ NotoSerifGeorgian-Bold
 0
 0
 312
-noto/NotoSansModi-Regular.ttf
+NotoSansModi-Regular.ttf
 0
 1
 Noto Sans Modi
@@ -7423,7 +7423,7 @@ NotoSansModi-Regular
 0
 0
 313
-noto/NotoSansCypriot-Regular.ttf
+NotoSansCypriot-Regular.ttf
 0
 1
 Noto Sans Cypriot
@@ -7445,7 +7445,7 @@ NotoSansCypriot-Regular
 0
 0
 314
-noto/NotoSansMandaic-Regular.ttf
+NotoSansMandaic-Regular.ttf
 0
 1
 Noto Sans Mandaic
@@ -7467,7 +7467,7 @@ NotoSansMandaic-Regular
 0
 0
 315
-gsfonts/b018032l.pfb
+b018032l.pfb
 0
 1
 URW Bookman L
@@ -7489,7 +7489,7 @@ URWBookmanL-LighItal
 0
 0
 316
-linux-libertine/LinBiolinum_K.otf
+LinBiolinum_K.otf
 0
 1
 Linux Biolinum Keyboard O
@@ -7511,7 +7511,7 @@ LinBiolinumOKb
 0
 0
 317
-droid/DroidSansFallbackFull.ttf
+DroidSansFallbackFull.ttf
 0
 1
 Droid Sans Fallback
@@ -7533,7 +7533,7 @@ DroidSansFallback
 0
 0
 318
-lm/lmmono9-regular.otf
+lmmono9-regular.otf
 0
 1
 Latin Modern Mono
@@ -7556,7 +7556,7 @@ LMMono9-Regular
 1
 256
 319
-lm/lmroman17-regular.otf
+lmroman17-regular.otf
 0
 1
 Latin Modern Roman
@@ -7579,7 +7579,7 @@ LMRoman17-Regular
 1
 256
 320
-tlwg/Kinnari-Bold.otf
+Kinnari-Bold.otf
 0
 1
 Kinnari
@@ -7601,7 +7601,7 @@ Kinnari-Bold
 0
 0
 321
-urw-base35/Z003-MediumItalic.t1
+Z003-MediumItalic.t1
 0
 1
 Z003
@@ -7623,7 +7623,7 @@ Z003-MediumItalic
 0
 0
 322
-lm/lmsans10-regular.otf
+lmsans10-regular.otf
 0
 1
 Latin Modern Sans
@@ -7646,7 +7646,7 @@ LMSans10-Regular
 1
 256
 323
-noto/NotoSerifTamilSlanted-Bold.ttf
+NotoSerifTamilSlanted-Bold.ttf
 0
 1
 Noto Serif Tamil Slanted
@@ -7668,7 +7668,7 @@ NotoSerifTamilSlanted-Bold
 0
 0
 324
-tlwg/TlwgTypist-Oblique.otf
+TlwgTypist-Oblique.otf
 0
 1
 Tlwg Typist
@@ -7690,7 +7690,7 @@ TlwgTypist-Oblique
 0
 0
 325
-stix/STIXSizeFourSym-Bold.otf
+STIXSizeFourSym-Bold.otf
 0
 1
 STIXSizeFourSym
@@ -7712,7 +7712,7 @@ STIXSizeFourSym-Bold
 0
 0
 326
-gsfonts/n021003l.pfb
+n021003l.pfb
 0
 1
 Nimbus Roman No9 L
@@ -7734,7 +7734,7 @@ NimbusRomNo9L-Regu
 0
 0
 327
-noto/NotoSansBatak-Regular.ttf
+NotoSansBatak-Regular.ttf
 0
 1
 Noto Sans Batak
@@ -7756,7 +7756,7 @@ NotoSansBatak-Regular
 0
 0
 328
-freefont/FreeMonoBold.otf
+FreeMonoBold.otf
 0
 1
 FreeMono
@@ -7834,7 +7834,7 @@ FreeMonoBold
 0
 0
 329
-tex-gyre/texgyrecursor-bold.otf
+texgyrecursor-bold.otf
 0
 1
 TeX Gyre Cursor
@@ -7857,7 +7857,7 @@ TeXGyreCursor-Bold
 3
 256
 330
-fonts/fonts-go/Go-Mono-Bold.ttf
+Go-Mono-Bold.ttf
 0
 1
 Go Mono
@@ -7879,7 +7879,7 @@ GoMono-Bold
 0
 0
 331
-urw-base35/NimbusSans-BoldItalic.otf
+NimbusSans-BoldItalic.otf
 0
 1
 Nimbus Sans
@@ -7902,7 +7902,7 @@ NimbusSans-BoldItalic
 0
 0
 332
-noto/NotoSerif-Bold.ttf
+NotoSerif-Bold.ttf
 0
 1
 Noto Serif
@@ -7924,7 +7924,7 @@ NotoSerif-Bold
 0
 0
 333
-stix/STIXIntegralsD-Regular.otf
+STIXIntegralsD-Regular.otf
 0
 1
 STIXIntegralsD
@@ -7946,7 +7946,7 @@ STIXIntegralsD-Regular
 0
 0
 334
-lm/lmroman10-bolditalic.otf
+lmroman10-bolditalic.otf
 0
 1
 Latin Modern Roman
@@ -7969,7 +7969,7 @@ LMRoman10-BoldItalic
 4
 256
 335
-lm/lmmono8-regular.otf
+lmmono8-regular.otf
 0
 1
 Latin Modern Mono
@@ -7992,7 +7992,7 @@ LMMono8-Regular
 1
 256
 336
-ebgaramond/EBGaramondSC08-Regular.otf
+EBGaramondSC08-Regular.otf
 0
 1
 EB Garamond SC
@@ -8014,7 +8014,7 @@ EBGaramondSC08-Regular
 5
 256
 337
-lato/Lato-Black.ttf
+Lato-Black.ttf
 0
 1
 Lato
@@ -8036,7 +8036,7 @@ Lato-Black
 0
 0
 338
-noto/NotoSansTamilSupplement-Regular.ttf
+NotoSansTamilSupplement-Regular.ttf
 0
 1
 Noto Sans Tamil Supplement
@@ -8058,7 +8058,7 @@ NotoSansTamilSupplement-Regular
 0
 0
 339
-cantarell/Cantarell-Regular.otf
+Cantarell-Regular.otf
 0
 1
 Cantarell
@@ -8080,7 +8080,7 @@ Cantarell-Regular
 0
 0
 340
-lm/lmsans9-regular.otf
+lmsans9-regular.otf
 0
 1
 Latin Modern Sans
@@ -8103,7 +8103,7 @@ LMSans9-Regular
 1
 256
 341
-urw-base35/NimbusRoman-Regular.otf
+NimbusRoman-Regular.otf
 0
 1
 Nimbus Roman
@@ -8126,7 +8126,7 @@ NimbusRoman-Regular
 0
 0
 342
-noto/NotoSansGujarati-Regular.ttf
+NotoSansGujarati-Regular.ttf
 0
 1
 Noto Sans Gujarati
@@ -8148,7 +8148,7 @@ NotoSansGujarati
 0
 0
 343
-tlwg/Garuda.otf
+Garuda.otf
 0
 1
 Garuda
@@ -8170,7 +8170,7 @@ Garuda
 0
 0
 344
-urw-base35/C059-Bold.otf
+C059-Bold.otf
 0
 1
 C059
@@ -8193,7 +8193,7 @@ C059-Bold
 0
 0
 345
-stix/STIXIntegralsUp-Regular.otf
+STIXIntegralsUp-Regular.otf
 0
 1
 STIXIntegralsUp
@@ -8215,7 +8215,7 @@ STIXIntegralsUp-Regular
 0
 0
 346
-urw-base35/URWGothic-Book.t1
+URWGothic-Book.t1
 0
 1
 URW Gothic
@@ -8237,7 +8237,7 @@ URWGothic-Book
 0
 0
 347
-tlwg/Loma-BoldOblique.otf
+Loma-BoldOblique.otf
 0
 1
 Loma
@@ -8259,7 +8259,7 @@ Loma-BoldOblique
 0
 0
 348
-adf/GilliusADF-Regular.otf
+GilliusADF-Regular.otf
 0
 1
 Gillius ADF
@@ -8281,7 +8281,7 @@ GilliusADF-Regular
 0
 0
 349
-noto/NotoSans-Italic.ttf
+NotoSans-Italic.ttf
 0
 1
 Noto Sans
@@ -8303,7 +8303,7 @@ NotoSans-Italic
 0
 0
 350
-noto/NotoSansOldItalic-Regular.ttf
+NotoSansOldItalic-Regular.ttf
 0
 1
 Noto Sans Old Italic
@@ -8325,7 +8325,7 @@ NotoSansOldItalic-Regular
 0
 0
 351
-open-sans/OpenSans-CondLightItalic.ttf
+OpenSans-CondLightItalic.ttf
 0
 1
 Open Sans
@@ -8348,7 +8348,7 @@ OpenSans-CondensedLightItalic
 0
 0
 352
-lm/lmromanunsl10-regular.otf
+lmromanunsl10-regular.otf
 0
 1
 Latin Modern Roman Unslanted
@@ -8371,7 +8371,7 @@ LMRomanUnsl10-Regular
 1
 256
 353
-didot/GFSDidotItalic.otf
+GFSDidotItalic.otf
 0
 1
 GFS Didot
@@ -8394,7 +8394,7 @@ GFSDidot-Italic
 0
 0
 354
-urw-base35/NimbusSansNarrow-Oblique.otf
+NimbusSansNarrow-Oblique.otf
 0
 1
 Nimbus Sans Narrow
@@ -8417,7 +8417,7 @@ NimbusSansNarrow-Oblique
 0
 0
 355
-arphic-bkai00mp/bkai00mp.ttf
+bkai00mp.ttf
 0
 2
 AR PL KaitiM Big5
@@ -8441,7 +8441,7 @@ ZenKai-Medium
 0
 0
 356
-noto/NotoSansHebrew-Bold.ttf
+NotoSansHebrew-Bold.ttf
 0
 1
 Noto Sans Hebrew
@@ -8463,7 +8463,7 @@ NotoSansHebrew-Bold
 0
 0
 357
-adf/BerenisADFPro-BoldItalic.otf
+BerenisADFPro-BoldItalic.otf
 0
 1
 Berenis ADF Pro
@@ -8485,7 +8485,7 @@ BerenisADFPro-BoldItalic
 0
 0
 358
-noto/NotoSansPhoenician-Regular.ttf
+NotoSansPhoenician-Regular.ttf
 0
 1
 Noto Sans Phoenician
@@ -8507,7 +8507,7 @@ NotoSansPhoenician-Regular
 0
 0
 359
-lm/lmsans8-regular.otf
+lmsans8-regular.otf
 0
 1
 Latin Modern Sans
@@ -8530,7 +8530,7 @@ LMSans8-Regular
 1
 256
 360
-urw-base35/NimbusSansNarrow-BoldOblique.t1
+NimbusSansNarrow-BoldOblique.t1
 0
 1
 Nimbus Sans Narrow
@@ -8552,7 +8552,7 @@ NimbusSansNarrow-BoldOblique
 0
 0
 361
-gsfonts/n019003l.pfb
+n019003l.pfb
 0
 1
 Nimbus Sans L
@@ -8574,7 +8574,7 @@ NimbusSanL-Regu
 0
 0
 362
-gsfonts/d050000l.pfb
+d050000l.pfb
 0
 1
 Dingbats
@@ -8596,7 +8596,7 @@ Dingbats
 0
 0
 363
-tex-gyre/texgyreheroscn-bold.otf
+texgyreheroscn-bold.otf
 0
 1
 TeX Gyre Heros Cn
@@ -8619,7 +8619,7 @@ TeXGyreHerosCondensed-Bold
 3
 256
 364
-noto/NotoSerifAhom-Regular.ttf
+NotoSerifAhom-Regular.ttf
 0
 1
 Noto Serif Ahom
@@ -8641,7 +8641,7 @@ NotoSerifAhom-Regular
 0
 0
 365
-noto/NotoSerifBengali-Bold.ttf
+NotoSerifBengali-Bold.ttf
 0
 1
 Noto Serif Bengali
@@ -8663,7 +8663,7 @@ NotoSerifBengali-Bold
 0
 0
 366
-adf/GilliusADFNo2-BoldCond.otf
+GilliusADFNo2-BoldCond.otf
 0
 1
 Gillius ADF No2
@@ -8685,7 +8685,7 @@ GilliusADFNo2-BoldCond
 0
 0
 367
-noto/NotoSansBassaVah-Regular.ttf
+NotoSansBassaVah-Regular.ttf
 0
 1
 Noto Sans Bassa Vah
@@ -8707,7 +8707,7 @@ NotoSansBassaVah-Regular
 0
 0
 368
-gsfonts/n019024l.pfb
+n019024l.pfb
 0
 1
 Nimbus Sans L
@@ -8729,7 +8729,7 @@ NimbusSanL-BoldItal
 0
 0
 369
-noto/NotoMono-Regular.ttf
+NotoMono-Regular.ttf
 0
 1
 Noto Mono
@@ -8751,7 +8751,7 @@ NotoMono
 0
 0
 370
-noto/NotoSansDisplay-Bold.ttf
+NotoSansDisplay-Bold.ttf
 0
 1
 Noto Sans Display
@@ -8773,7 +8773,7 @@ NotoSansDisplay-Bold
 0
 0
 371
-noto/NotoSansLimbu-Regular.ttf
+NotoSansLimbu-Regular.ttf
 0
 1
 Noto Sans Limbu
@@ -8795,7 +8795,7 @@ NotoSansLimbu-Regular
 0
 0
 372
-noto/NotoSansTifinagh-Regular.ttf
+NotoSansTifinagh-Regular.ttf
 0
 1
 Noto Sans Tifinagh
@@ -8817,7 +8817,7 @@ NotoSansTifinagh-Regular
 0
 0
 373
-lm/lmmonocaps10-oblique.otf
+lmmonocaps10-oblique.otf
 0
 1
 Latin Modern Mono Caps
@@ -8840,7 +8840,7 @@ LMMonoCaps10-Oblique
 2
 256
 374
-tex-gyre-math/texgyrebonum-math.otf
+texgyrebonum-math.otf
 0
 1
 TeX Gyre Bonum Math
@@ -8862,7 +8862,7 @@ TeXGyreBonumMath-Regular
 0
 0
 375
-lm/lmroman12-regular.otf
+lmroman12-regular.otf
 0
 1
 Latin Modern Roman
@@ -8885,7 +8885,7 @@ LMRoman12-Regular
 1
 256
 376
-adf/AccanthisADFStdNo3-Italic.otf
+AccanthisADFStdNo3-Italic.otf
 0
 1
 Accanthis ADF Std No3
@@ -8907,7 +8907,7 @@ AccanthisADFStdNo3-Italic
 0
 0
 377
-gsfonts/z003034l.pfb
+z003034l.pfb
 0
 1
 URW Chancery L
@@ -8929,7 +8929,7 @@ URWChanceryL-MediItal
 0
 0
 378
-gentiumplus/GentiumPlusCompact-I.ttf
+GentiumPlusCompact-I.ttf
 0
 1
 Gentium Plus Compact
@@ -8951,7 +8951,7 @@ GentiumPlusCompact-Italic
 0
 0
 379
-noto/NotoSansLycian-Regular.ttf
+NotoSansLycian-Regular.ttf
 0
 1
 Noto Sans Lycian
@@ -8973,7 +8973,7 @@ NotoSansLycian-Regular
 0
 0
 380
-urw-base35/C059-Italic.t1
+C059-Italic.t1
 0
 1
 C059
@@ -8995,7 +8995,7 @@ C059-Italic
 0
 0
 381
-gsfonts/a010015l.pfb
+a010015l.pfb
 0
 1
 URW Gothic L
@@ -9017,7 +9017,7 @@ URWGothicL-Demi
 0
 0
 382
-noto/NotoSansDuployan-Regular.ttf
+NotoSansDuployan-Regular.ttf
 0
 1
 Noto Sans Duployan
@@ -9039,7 +9039,7 @@ NotoSansDuployan-Regular
 0
 0
 383
-lm/lmsans17-regular.otf
+lmsans17-regular.otf
 0
 1
 Latin Modern Sans
@@ -9062,7 +9062,7 @@ LMSans17-Regular
 1
 256
 384
-tlwg/Kinnari.otf
+Kinnari.otf
 0
 1
 Kinnari
@@ -9084,7 +9084,7 @@ Kinnari
 0
 0
 385
-lm/lmsansquot8-bold.otf
+lmsansquot8-bold.otf
 0
 1
 Latin Modern Sans Quotation
@@ -9107,7 +9107,7 @@ LMSansQuot8-Bold
 3
 256
 386
-fonts/fonts-go/Go-Regular.ttf
+Go-Regular.ttf
 0
 1
 Go
@@ -9129,7 +9129,7 @@ GoRegular
 0
 0
 387
-gsfonts/p052024l.pfb
+p052024l.pfb
 0
 1
 URW Palladio L
@@ -9151,7 +9151,7 @@ URWPalladioL-BoldItal
 0
 0
 388
-roboto/unhinted/RobotoTTF/Roboto-Thin.ttf
+Roboto-Thin.ttf
 0
 1
 Roboto
@@ -9173,7 +9173,7 @@ Roboto-Thin
 0
 0
 389
-noto/NotoSansAdlam-Regular.ttf
+NotoSansAdlam-Regular.ttf
 0
 1
 Noto Sans Adlam
@@ -9195,7 +9195,7 @@ NotoSansAdlam-Regular
 0
 0
 390
-tex-gyre-math/texgyrepagella-math.otf
+texgyrepagella-math.otf
 0
 1
 TeX Gyre Pagella Math
@@ -9217,7 +9217,7 @@ TeXGyrePagellaMath-Regular
 0
 0
 391
-noto/NotoSansBuhid-Regular.ttf
+NotoSansBuhid-Regular.ttf
 0
 1
 Noto Sans Buhid
@@ -9239,7 +9239,7 @@ NotoSansBuhid-Regular
 0
 0
 392
-cabin/Cabin-Bold.otf
+Cabin-Bold.otf
 0
 1
 Cabin
@@ -9262,7 +9262,7 @@ Cabin-Bold
 0
 0
 393
-stix/STIXIntegralsUp-Bold.otf
+STIXIntegralsUp-Bold.otf
 0
 1
 STIXIntegralsUp
@@ -9284,7 +9284,7 @@ STIXIntegralsUp-Bold
 0
 0
 394
-noto/NotoSansCanadianAboriginal-Regular.ttf
+NotoSansCanadianAboriginal-Regular.ttf
 0
 1
 Noto Sans Canadian Aboriginal
@@ -9306,7 +9306,7 @@ NotoSansCanadianAboriginal-Regular
 0
 0
 395
-tlwg/Norasi-Oblique.otf
+Norasi-Oblique.otf
 0
 1
 Norasi
@@ -9328,7 +9328,7 @@ Norasi-Oblique
 0
 0
 396
-adf/GilliusADF-BoldItalic.otf
+GilliusADF-BoldItalic.otf
 0
 1
 Gillius ADF
@@ -9350,7 +9350,7 @@ GilliusADF-BoldItalic
 0
 0
 397
-stix/STIXSizeFourSym-Regular.otf
+STIXSizeFourSym-Regular.otf
 0
 1
 STIXSizeFourSym
@@ -9372,7 +9372,7 @@ STIXSizeFourSym-Regular
 0
 0
 398
-gsfonts/n019004l.pfb
+n019004l.pfb
 0
 1
 Nimbus Sans L
@@ -9394,7 +9394,7 @@ NimbusSanL-Bold
 0
 0
 399
-tlwg/Umpush-Light.otf
+Umpush-Light.otf
 0
 1
 Umpush
@@ -9416,7 +9416,7 @@ Umpush-Light
 0
 0
 400
-tlwg/Umpush.otf
+Umpush.otf
 0
 1
 Umpush
@@ -9438,7 +9438,7 @@ Umpush
 0
 0
 401
-noto/NotoSansArmenian-Bold.ttf
+NotoSansArmenian-Bold.ttf
 0
 1
 Noto Sans Armenian
@@ -9460,7 +9460,7 @@ NotoSansArmenian-Bold
 0
 0
 402
-urw-base35/NimbusSans-Bold.otf
+NimbusSans-Bold.otf
 0
 1
 Nimbus Sans
@@ -9483,7 +9483,7 @@ NimbusSans-Bold
 0
 0
 403
-noto/NotoSansBamum-Regular.ttf
+NotoSansBamum-Regular.ttf
 0
 1
 Noto Sans Bamum
@@ -9505,7 +9505,7 @@ NotoSansBamum-Regular
 0
 0
 404
-noto/NotoSansYi-Regular.ttf
+NotoSansYi-Regular.ttf
 0
 1
 Noto Sans Yi
@@ -9527,7 +9527,7 @@ NotoSansYi-Regular
 0
 0
 405
-lm/lmroman10-regular.otf
+lmroman10-regular.otf
 0
 1
 Latin Modern Roman
@@ -9550,7 +9550,7 @@ LMRoman10-Regular
 1
 256
 406
-lato/Lato-ThinItalic.ttf
+Lato-ThinItalic.ttf
 0
 1
 Lato
@@ -9572,7 +9572,7 @@ Lato-ThinItalic
 0
 0
 407
-noto/NotoSerifEthiopic-Bold.ttf
+NotoSerifEthiopic-Bold.ttf
 0
 1
 Noto Serif Ethiopic
@@ -9594,7 +9594,7 @@ NotoSerifEthiopic-Bold
 0
 0
 408
-noto/NotoSansCaucasianAlbanian-Regular.ttf
+NotoSansCaucasianAlbanian-Regular.ttf
 0
 1
 Noto Sans Caucasian Albanian
@@ -9616,7 +9616,7 @@ NotoSansCaucasianAlbanian-Regular
 0
 0
 409
-adf/GilliusADFNo2-Cond.otf
+GilliusADFNo2-Cond.otf
 0
 1
 Gillius ADF No2
@@ -9638,7 +9638,7 @@ GilliusADFNo2-Cond
 0
 0
 410
-font-awesome/fontawesome-webfont.ttf
+fontawesome-webfont.ttf
 0
 1
 FontAwesome
@@ -9660,7 +9660,7 @@ FontAwesome
 0
 0
 411
-roboto/unhinted/RobotoTTF/Roboto-Regular.ttf
+Roboto-Regular.ttf
 0
 1
 Roboto
@@ -9682,7 +9682,7 @@ Roboto-Regular
 0
 0
 412
-noto/NotoSansDevanagari-Regular.ttf
+NotoSansDevanagari-Regular.ttf
 0
 1
 Noto Sans Devanagari
@@ -9704,7 +9704,7 @@ NotoSansDevanagari-Regular
 0
 0
 413
-noto/NotoSansTelugu-Bold.ttf
+NotoSansTelugu-Bold.ttf
 0
 1
 Noto Sans Telugu
@@ -9726,7 +9726,7 @@ NotoSansTelugu-Bold
 0
 0
 414
-lato/Lato-BoldItalic.ttf
+Lato-BoldItalic.ttf
 0
 1
 Lato
@@ -9748,7 +9748,7 @@ Lato-BoldItalic
 0
 0
 415
-noto/NotoSerif-BoldItalic.ttf
+NotoSerif-BoldItalic.ttf
 0
 1
 Noto Serif
@@ -9770,7 +9770,7 @@ NotoSerif-BoldItalic
 0
 0
 416
-crosextra/Carlito-Italic.ttf
+Carlito-Italic.ttf
 0
 1
 Carlito
@@ -9792,7 +9792,7 @@ Carlito-Italic
 0
 0
 417
-noto/NotoSansElbasan-Regular.ttf
+NotoSansElbasan-Regular.ttf
 0
 1
 Noto Sans Elbasan
@@ -9814,7 +9814,7 @@ NotoSansElbasan-Regular
 0
 0
 418
-tlwg/Waree.otf
+Waree.otf
 0
 1
 Waree
@@ -9836,7 +9836,7 @@ Waree
 0
 0
 419
-dejavu/DejaVuSans-ExtraLight.ttf
+DejaVuSans-ExtraLight.ttf
 0
 1
 DejaVu Sans
@@ -9858,7 +9858,7 @@ DejaVuSans-ExtraLight
 0
 0
 420
-croscore/Arimo-Italic.ttf
+Arimo-Italic.ttf
 0
 1
 Arimo
@@ -9880,7 +9880,7 @@ Arimo-Italic
 0
 0
 421
-stix/STIXIntegralsD-Bold.otf
+STIXIntegralsD-Bold.otf
 0
 1
 STIXIntegralsD
@@ -9902,7 +9902,7 @@ STIXIntegralsD-Bold
 0
 0
 422
-cantarell/Cantarell-Thin.otf
+Cantarell-Thin.otf
 0
 1
 Cantarell
@@ -9924,7 +9924,7 @@ Cantarell-Thin
 0
 0
 423
-dejavu/DejaVuSerifCondensed.ttf
+DejaVuSerifCondensed.ttf
 0
 1
 DejaVu Serif
@@ -9946,7 +9946,7 @@ DejaVuSerifCondensed
 0
 0
 424
-lm/lmmonoproplt10-oblique.otf
+lmmonoproplt10-oblique.otf
 0
 1
 Latin Modern Mono Prop Light
@@ -9969,7 +9969,7 @@ LMMonoPropLt10-Oblique
 2
 256
 425
-noto/NotoSansCham-Regular.ttf
+NotoSansCham-Regular.ttf
 0
 1
 Noto Sans Cham
@@ -9991,7 +9991,7 @@ NotoSansCham-Regular
 0
 0
 426
-junicode/Junicode-Bold.ttf
+Junicode-Bold.ttf
 0
 1
 Junicode
@@ -10013,7 +10013,7 @@ Junicode-Bold
 0
 0
 427
-roboto/unhinted/RobotoCondensed-BoldItalic.ttf
+RobotoCondensed-BoldItalic.ttf
 0
 1
 Roboto Condensed
@@ -10035,7 +10035,7 @@ RobotoCondensed-BoldItalic
 0
 0
 428
-adf/GilliusADF-BoldCond.otf
+GilliusADF-BoldCond.otf
 0
 1
 Gillius ADF
@@ -10057,7 +10057,7 @@ GilliusADF-BoldCond
 0
 0
 429
-noto/NotoSansJavanese-Bold.ttf
+NotoSansJavanese-Bold.ttf
 0
 1
 Noto Sans Javanese
@@ -10079,7 +10079,7 @@ NotoSansJavanese-Bold
 0
 0
 430
-adf/UniversalisADFStd-BoldCond.otf
+UniversalisADFStd-BoldCond.otf
 0
 1
 Universalis ADF Std
@@ -10101,7 +10101,7 @@ UniversalisADFStd-BoldCond
 0
 0
 431
-dejavu/DejaVuSans-BoldOblique.ttf
+DejaVuSans-BoldOblique.ttf
 0
 1
 DejaVu Sans
@@ -10123,7 +10123,7 @@ DejaVuSans-BoldOblique
 0
 0
 432
-noto/NotoSansBrahmi-Regular.ttf
+NotoSansBrahmi-Regular.ttf
 0
 1
 Noto Sans Brahmi
@@ -10145,7 +10145,7 @@ NotoSansBrahmi-Regular
 0
 0
 433
-noto/NotoSansPsalterPahlavi-Regular.ttf
+NotoSansPsalterPahlavi-Regular.ttf
 0
 1
 Noto Sans Psalter Pahlavi
@@ -10167,7 +10167,7 @@ NotoSansPsalterPahlavi-Regular
 0
 0
 434
-noto/NotoSerifHebrew-Regular.ttf
+NotoSerifHebrew-Regular.ttf
 0
 1
 Noto Serif Hebrew
@@ -10189,7 +10189,7 @@ NotoSerifHebrew-Regular
 0
 0
 435
-tlwg/Umpush-LightOblique.otf
+Umpush-LightOblique.otf
 0
 1
 Umpush
@@ -10211,7 +10211,7 @@ Umpush-LightOblique
 0
 0
 436
-tlwg/Sawasdee.otf
+Sawasdee.otf
 0
 1
 Sawasdee
@@ -10233,7 +10233,7 @@ Sawasdee
 0
 0
 437
-noto/NotoSansLydian-Regular.ttf
+NotoSansLydian-Regular.ttf
 0
 1
 Noto Sans Lydian
@@ -10255,7 +10255,7 @@ NotoSansLydian-Regular
 0
 0
 438
-noto/NotoSansJavanese-Regular.ttf
+NotoSansJavanese-Regular.ttf
 0
 1
 Noto Sans Javanese
@@ -10277,7 +10277,7 @@ NotoSansJavanese-Regular
 0
 0
 439
-linux-libertine/LinLibertine_RBI.otf
+LinLibertine_RBI.otf
 0
 1
 Linux Libertine O
@@ -10299,7 +10299,7 @@ LinLibertineOBI
 0
 0
 440
-noto/NotoSansEthiopic-Regular.ttf
+NotoSansEthiopic-Regular.ttf
 0
 1
 Noto Sans Ethiopic
@@ -10321,7 +10321,7 @@ NotoSansEthiopic-Regular
 0
 0
 441
-noto/NotoKufiArabic-Bold.ttf
+NotoKufiArabic-Bold.ttf
 0
 1
 Noto Kufi Arabic
@@ -10343,7 +10343,7 @@ NotoKufiArabic-Bold
 0
 0
 442
-dejavu/DejaVuSerif.ttf
+DejaVuSerif.ttf
 0
 1
 DejaVu Serif
@@ -10365,7 +10365,7 @@ DejaVuSerif
 0
 0
 443
-roboto/unhinted/RobotoCondensed-Light.ttf
+RobotoCondensed-Light.ttf
 0
 1
 Roboto Condensed
@@ -10387,7 +10387,7 @@ RobotoCondensed-Light
 0
 0
 444
-noto/NotoSansMro-Regular.ttf
+NotoSansMro-Regular.ttf
 0
 1
 Noto Sans Mro
@@ -10409,7 +10409,7 @@ NotoSansMro-Regular
 0
 0
 445
-tlwg/Loma-Bold.otf
+Loma-Bold.otf
 0
 1
 Loma
@@ -10431,7 +10431,7 @@ Loma-Bold
 0
 0
 446
-tex-gyre/texgyretermes-regular.otf
+texgyretermes-regular.otf
 0
 1
 TeX Gyre Termes
@@ -10454,7 +10454,7 @@ TeXGyreTermes-Regular
 1
 256
 447
-linux-libertine/LinBiolinum_RB.otf
+LinBiolinum_RB.otf
 0
 1
 Linux Biolinum O
@@ -10476,7 +10476,7 @@ LinBiolinumOB
 0
 0
 448
-noto/NotoSerifGeorgian-Regular.ttf
+NotoSerifGeorgian-Regular.ttf
 0
 1
 Noto Serif Georgian
@@ -10498,7 +10498,7 @@ NotoSerifGeorgian-Regular
 0
 0
 449
-tlwg/Norasi-Bold.otf
+Norasi-Bold.otf
 0
 1
 Norasi
@@ -10520,7 +10520,7 @@ Norasi-Bold
 0
 0
 450
-gsfonts/p052003l.pfb
+p052003l.pfb
 0
 1
 URW Palladio L
@@ -10542,7 +10542,7 @@ URWPalladioL-Roma
 0
 0
 451
-tex-gyre/texgyreheroscn-bolditalic.otf
+texgyreheroscn-bolditalic.otf
 0
 1
 TeX Gyre Heros Cn
@@ -10565,7 +10565,7 @@ TeXGyreHerosCondensed-BoldItalic
 4
 256
 452
-noto/NotoSansKharoshthi-Regular.ttf
+NotoSansKharoshthi-Regular.ttf
 0
 1
 Noto Sans Kharoshthi
@@ -10587,7 +10587,7 @@ NotoSansKharoshthi-Regular
 0
 0
 453
-open-sans/OpenSans-CondLight.ttf
+OpenSans-CondLight.ttf
 0
 1
 Open Sans
@@ -10610,7 +10610,7 @@ OpenSans-CondensedLight
 0
 0
 454
-neohellenic/GFSNeohellenicBoldIt.otf
+GFSNeohellenicBoldIt.otf
 0
 1
 GFS Neohellenic
@@ -10633,7 +10633,7 @@ GFSNeohellenic-BoldItalic
 0
 0
 455
-noto/NotoSansGurmukhi-Regular.ttf
+NotoSansGurmukhi-Regular.ttf
 0
 1
 Noto Sans Gurmukhi
@@ -10655,7 +10655,7 @@ NotoSansGurmukhi-Regular
 0
 0
 456
-urw-base35/NimbusMonoPS-BoldItalic.t1
+NimbusMonoPS-BoldItalic.t1
 0
 1
 Nimbus Mono PS
@@ -10677,7 +10677,7 @@ NimbusMonoPS-BoldItalic
 0
 0
 457
-noto/NotoSansAnatolianHieroglyphs-Regular.ttf
+NotoSansAnatolianHieroglyphs-Regular.ttf
 0
 1
 Noto Sans Anatolian Hieroglyphs
@@ -10699,7 +10699,7 @@ NotoSansAnatolianHieroglyphs-Regular
 0
 0
 458
-fonts/fonts-go/Go-Medium.ttf
+Go-Medium.ttf
 0
 1
 Go Medium
@@ -10721,7 +10721,7 @@ GoMedium
 0
 0
 459
-tlwg/Garuda-BoldOblique.otf
+Garuda-BoldOblique.otf
 0
 1
 Garuda
@@ -10743,7 +10743,7 @@ Garuda-BoldOblique
 0
 0
 460
-tlwg/TlwgMono-Oblique.otf
+TlwgMono-Oblique.otf
 0
 1
 Tlwg Mono
@@ -10765,7 +10765,7 @@ TlwgMono-Oblique
 0
 0
 461
-lm/lmromanslant10-bold.otf
+lmromanslant10-bold.otf
 0
 1
 Latin Modern Roman Slanted
@@ -10788,7 +10788,7 @@ LMRomanSlant10-Bold
 2
 256
 462
-unfonts-core/UnBatangBold.ttf
+UnBatangBold.ttf
 0
 2
 UnBatang
@@ -10812,7 +10812,7 @@ UnBatang-Bold
 0
 0
 463
-cabin/Cabin-Italic.otf
+Cabin-Italic.otf
 0
 1
 Cabin
@@ -10835,7 +10835,7 @@ Cabin-Italic
 0
 0
 464
-fonts/fonts-go/Go-Smallcaps-Italic.ttf
+Go-Smallcaps-Italic.ttf
 0
 1
 Go Smallcaps
@@ -10857,7 +10857,7 @@ GoSmallcaps-Italic
 0
 0
 465
-gsfonts/c059013l.pfb
+c059013l.pfb
 0
 1
 Century Schoolbook L
@@ -10879,7 +10879,7 @@ CenturySchL-Roma
 0
 0
 466
-gentium/Gentium-I.ttf
+Gentium-I.ttf
 0
 1
 Gentium
@@ -10901,7 +10901,7 @@ Gentium-Italic
 0
 0
 467
-noto/NotoSansSinhala-Bold.ttf
+NotoSansSinhala-Bold.ttf
 0
 1
 Noto Sans Sinhala
@@ -10923,7 +10923,7 @@ NotoSansSinhala-Bold
 0
 0
 468
-dejavu/DejaVuSansCondensed-Oblique.ttf
+DejaVuSansCondensed-Oblique.ttf
 0
 1
 DejaVu Sans
@@ -10945,7 +10945,7 @@ DejaVuSansCondensed-Oblique
 0
 0
 469
-tex-gyre/texgyreheroscn-regular.otf
+texgyreheroscn-regular.otf
 0
 1
 TeX Gyre Heros Cn
@@ -10968,7 +10968,7 @@ TeXGyreHerosCondensed-Regular
 1
 256
 470
-croscore/Cousine-BoldItalic.ttf
+Cousine-BoldItalic.ttf
 0
 1
 Cousine
@@ -10990,7 +10990,7 @@ Cousine-BoldItalic
 0
 0
 471
-stix/STIXVariants-Regular.otf
+STIXVariants-Regular.otf
 0
 1
 STIXVariants
@@ -11012,7 +11012,7 @@ STIXVariants-Regular
 0
 0
 472
-fonts/fonts-go/Go-Smallcaps.ttf
+Go-Smallcaps.ttf
 0
 1
 Go Smallcaps
@@ -11034,7 +11034,7 @@ GoSmallcaps
 0
 0
 473
-noto/NotoSansSinhala-Regular.ttf
+NotoSansSinhala-Regular.ttf
 0
 1
 Noto Sans Sinhala
@@ -11056,7 +11056,7 @@ NotoSansSinhala-Regular
 0
 0
 474
-unfonts-extra/UnJamoDotum.ttf
+UnJamoDotum.ttf
 0
 2
 UnJamoDotum
@@ -11080,7 +11080,7 @@ UnJamoDotum
 0
 0
 475
-freefont/FreeMonoOblique.ttf
+FreeMonoOblique.ttf
 0
 1
 FreeMono
@@ -11154,7 +11154,7 @@ FreeMonoOblique
 0
 0
 476
-roboto/unhinted/RobotoTTF/Roboto-BoldItalic.ttf
+Roboto-BoldItalic.ttf
 0
 1
 Roboto
@@ -11176,7 +11176,7 @@ Roboto-BoldItalic
 0
 0
 477
-lm-math/latinmodern-math.otf
+latinmodern-math.otf
 0
 1
 Latin Modern Math
@@ -11198,7 +11198,7 @@ LatinModernMath-Regular
 0
 0
 478
-linux-libertine/LinLibertine_RZI.otf
+LinLibertine_RZI.otf
 0
 1
 Linux Libertine O
@@ -11220,7 +11220,7 @@ LinLibertineOZI
 0
 0
 479
-lm/lmmonoproplt10-bold.otf
+lmmonoproplt10-bold.otf
 0
 1
 Latin Modern Mono Prop Light
@@ -11243,7 +11243,7 @@ LMMonoPropLt10-Bold
 3
 256
 480
-noto/NotoSansKhmer-Regular.ttf
+NotoSansKhmer-Regular.ttf
 0
 1
 Noto Sans Khmer
@@ -11265,7 +11265,7 @@ NotoSansKhmer-Regular
 0
 0
 481
-croscore/Tinos-Italic.ttf
+Tinos-Italic.ttf
 0
 1
 Tinos
@@ -11287,7 +11287,7 @@ Tinos-Italic
 0
 0
 482
-lm/lmroman12-italic.otf
+lmroman12-italic.otf
 0
 1
 Latin Modern Roman
@@ -11310,7 +11310,7 @@ LMRoman12-Italic
 2
 256
 483
-stix/STIXSizeThreeSym-Bold.otf
+STIXSizeThreeSym-Bold.otf
 0
 1
 STIXSizeThreeSym
@@ -11332,7 +11332,7 @@ STIXSizeThreeSym-Bold
 0
 0
 484
-noto/NotoSansCherokee-Regular.ttf
+NotoSansCherokee-Regular.ttf
 0
 1
 Noto Sans Cherokee
@@ -11354,7 +11354,7 @@ NotoSansCherokee-Regular
 0
 0
 485
-croscore/Arimo-BoldItalic.ttf
+Arimo-BoldItalic.ttf
 0
 1
 Arimo
@@ -11376,7 +11376,7 @@ Arimo-BoldItalic
 0
 0
 486
-noto/NotoSansBhaiksuki-Regular.ttf
+NotoSansBhaiksuki-Regular.ttf
 0
 1
 Noto Sans Bhaiksuki
@@ -11398,7 +11398,7 @@ NotoSansBhaiksuki-Regular
 0
 0
 487
-roboto/unhinted/RobotoTTF/Roboto-Italic.ttf
+Roboto-Italic.ttf
 0
 1
 Roboto
@@ -11420,7 +11420,7 @@ Roboto-Italic
 0
 0
 488
-noto/NotoSansDisplay-BoldItalic.ttf
+NotoSansDisplay-BoldItalic.ttf
 0
 1
 Noto Sans Display
@@ -11442,7 +11442,7 @@ NotoSansDisplay-BoldItalic
 0
 0
 489
-open-sans/OpenSans-Italic.ttf
+OpenSans-Italic.ttf
 0
 1
 Open Sans
@@ -11464,7 +11464,7 @@ OpenSans-Italic
 0
 0
 490
-stix/STIXSizeTwoSym-Regular.otf
+STIXSizeTwoSym-Regular.otf
 0
 1
 STIXSizeTwoSym
@@ -11486,7 +11486,7 @@ STIXSizeTwoSym-Regular
 0
 0
 491
-dejavu/DejaVuSansMono-Oblique.ttf
+DejaVuSansMono-Oblique.ttf
 0
 1
 DejaVu Sans Mono
@@ -11508,7 +11508,7 @@ DejaVuSansMono-Oblique
 0
 0
 492
-urw-base35/C059-Roman.otf
+C059-Roman.otf
 0
 1
 C059
@@ -11531,7 +11531,7 @@ C059-Roman
 0
 0
 493
-tlwg/TlwgTypist-BoldOblique.otf
+TlwgTypist-BoldOblique.otf
 0
 1
 Tlwg Typist
@@ -11553,7 +11553,7 @@ TlwgTypist-BoldOblique
 0
 0
 494
-didot/GFSDidotBoldItalic.otf
+GFSDidotBoldItalic.otf
 0
 1
 GFS Didot
@@ -11576,7 +11576,7 @@ GFSDidot-BoldItalic
 0
 0
 495
-junicode/Junicode.ttf
+Junicode.ttf
 0
 1
 Junicode
@@ -11598,7 +11598,7 @@ Junicode
 0
 0
 496
-noto/NotoSansNewa-Regular.ttf
+NotoSansNewa-Regular.ttf
 0
 1
 Noto Sans Newa
@@ -11620,7 +11620,7 @@ NotoSansNewa-Regular
 0
 0
 497
-roboto/unhinted/RobotoTTF/Roboto-MediumItalic.ttf
+Roboto-MediumItalic.ttf
 0
 1
 Roboto
@@ -11642,7 +11642,7 @@ Roboto-MediumItalic
 0
 0
 498
-cabin/Cabin-MediumItalic.otf
+Cabin-MediumItalic.otf
 0
 1
 Cabin
@@ -11665,7 +11665,7 @@ Cabin-MediumItalic
 0
 0
 499
-tlwg/Sawasdee-Bold.otf
+Sawasdee-Bold.otf
 0
 1
 Sawasdee
@@ -11687,7 +11687,7 @@ Sawasdee-Bold
 0
 0
 500
-dejavu/DejaVuSansCondensed.ttf
+DejaVuSansCondensed.ttf
 0
 1
 DejaVu Sans
@@ -11709,7 +11709,7 @@ DejaVuSansCondensed
 0
 0
 501
-didot/GFSDidotBold.otf
+GFSDidotBold.otf
 0
 1
 GFS Didot
@@ -11732,7 +11732,7 @@ GFSDidot-Bold
 0
 0
 502
-noto/NotoSansSymbols-Bold.ttf
+NotoSansSymbols-Bold.ttf
 0
 1
 Noto Sans Symbols
@@ -11754,7 +11754,7 @@ NotoSansSymbols-Bold
 0
 0
 503
-tex-gyre/texgyreheros-italic.otf
+texgyreheros-italic.otf
 0
 1
 TeX Gyre Heros
@@ -11777,7 +11777,7 @@ TeXGyreHeros-Italic
 2
 256
 504
-tex-gyre/texgyreschola-bolditalic.otf
+texgyreschola-bolditalic.otf
 0
 1
 TeX Gyre Schola
@@ -11800,7 +11800,7 @@ TeXGyreSchola-BoldItalic
 4
 256
 505
-urw-base35/P052-Bold.otf
+P052-Bold.otf
 0
 1
 P052
@@ -11823,7 +11823,7 @@ P052-Bold
 0
 0
 506
-urw-base35/NimbusMonoPS-Bold.t1
+NimbusMonoPS-Bold.t1
 0
 1
 Nimbus Mono PS
@@ -11845,7 +11845,7 @@ NimbusMonoPS-Bold
 0
 0
 507
-noto/NotoSansManichaean-Regular.ttf
+NotoSansManichaean-Regular.ttf
 0
 1
 Noto Sans Manichaean
@@ -11867,7 +11867,7 @@ NotoSansManichaean-Regular
 0
 0
 508
-noto/NotoSans-BoldItalic.ttf
+NotoSans-BoldItalic.ttf
 0
 1
 Noto Sans
@@ -11889,7 +11889,7 @@ NotoSans-BoldItalic
 0
 0
 509
-adf/GilliusADFNo2-BoldCondItalic.otf
+GilliusADFNo2-BoldCondItalic.otf
 0
 1
 Gillius ADF No2
@@ -11911,7 +11911,7 @@ GilliusADFNo2-BoldCondItalic
 0
 0
 510
-tex-gyre/texgyrecursor-bolditalic.otf
+texgyrecursor-bolditalic.otf
 0
 1
 TeX Gyre Cursor
@@ -11934,7 +11934,7 @@ TeXGyreCursor-BoldItalic
 4
 256
 511
-noto/NotoSansCuneiform-Regular.ttf
+NotoSansCuneiform-Regular.ttf
 0
 1
 Noto Sans Cuneiform
@@ -11956,7 +11956,7 @@ NotoSansCuneiform-Regular
 0
 0
 512
-croscore/Tinos-Bold.ttf
+Tinos-Bold.ttf
 0
 1
 Tinos
@@ -11978,7 +11978,7 @@ Tinos-Bold
 0
 0
 513
-ebgaramond/EBGaramond12-Italic.ttf
+EBGaramond12-Italic.ttf
 0
 1
 EB Garamond
@@ -12000,7 +12000,7 @@ EBGaramond12-Italic
 2
 256
 514
-tlwg/TlwgMono-Bold.otf
+TlwgMono-Bold.otf
 0
 1
 Tlwg Mono
@@ -12022,7 +12022,7 @@ TlwgMono-Bold
 0
 0
 515
-tlwg/Norasi-Italic.otf
+Norasi-Italic.otf
 0
 1
 Norasi
@@ -12044,7 +12044,7 @@ Norasi-Italic
 0
 0
 516
-noto/NotoSansMongolian-Regular.ttf
+NotoSansMongolian-Regular.ttf
 0
 1
 Noto Sans Mongolian
@@ -12066,7 +12066,7 @@ NotoSansMongolian-Regular
 0
 0
 517
-lato/Lato-Bold.ttf
+Lato-Bold.ttf
 0
 1
 Lato
@@ -12088,7 +12088,7 @@ Lato-Bold
 0
 0
 518
-crosextra/Caladea-Italic.ttf
+Caladea-Italic.ttf
 0
 1
 Caladea
@@ -12110,7 +12110,7 @@ Caladea-Italic
 0
 0
 519
-noto/NotoSansTamil-Regular.ttf
+NotoSansTamil-Regular.ttf
 0
 1
 Noto Sans Tamil
@@ -12132,7 +12132,7 @@ NotoSansTamil-Regular
 0
 0
 520
-tex-gyre/texgyreheros-bold.otf
+texgyreheros-bold.otf
 0
 1
 TeX Gyre Heros
@@ -12155,7 +12155,7 @@ TeXGyreHeros-Bold
 3
 256
 521
-noto/NotoSerifTelugu-Regular.ttf
+NotoSerifTelugu-Regular.ttf
 0
 1
 Noto Serif Telugu
@@ -12177,7 +12177,7 @@ NotoSerifTelugu-Regular
 0
 0
 522
-unfonts-core/UnPilgi.ttf
+UnPilgi.ttf
 0
 2
 UnPilgi
@@ -12201,7 +12201,7 @@ UnPilgi
 0
 0
 523
-lm/lmroman10-bold.otf
+lmroman10-bold.otf
 0
 1
 Latin Modern Roman
@@ -12224,7 +12224,7 @@ LMRoman10-Bold
 3
 256
 524
-stix/STIXSizeOneSym-Bold.otf
+STIXSizeOneSym-Bold.otf
 0
 1
 STIXSizeOneSym
@@ -12246,7 +12246,7 @@ STIXSizeOneSym-Bold
 0
 0
 525
-gsfonts/b018012l.pfb
+b018012l.pfb
 0
 1
 URW Bookman L
@@ -12268,7 +12268,7 @@ URWBookmanL-Ligh
 0
 0
 526
-texlive-fonts-recommended/putbi8a.pfb
+putbi8a.pfb
 0
 1
 Utopia
@@ -12290,7 +12290,7 @@ Utopia-BoldItalic
 0
 0
 527
-didot/GFSDidot.otf
+GFSDidot.otf
 0
 1
 GFS Didot
@@ -12313,7 +12313,7 @@ GFSDidot-Regular
 0
 0
 528
-gsfonts/n019043l.pfb
+n019043l.pfb
 0
 1
 Nimbus Sans L
@@ -12335,7 +12335,7 @@ NimbusSanL-ReguCond
 0
 0
 529
-fonts-hosny-amiri/Amiri-BoldSlanted.ttf
+Amiri-BoldSlanted.ttf
 0
 1
 Amiri
@@ -12357,7 +12357,7 @@ Amiri-BoldSlanted
 0
 0
 530
-dejavu/DejaVuSerifCondensed-Italic.ttf
+DejaVuSerifCondensed-Italic.ttf
 0
 1
 DejaVu Serif
@@ -12379,7 +12379,7 @@ DejaVuSerifCondensed-Italic
 0
 0
 531
-adf/UniversalisADFStd-Cond.otf
+UniversalisADFStd-Cond.otf
 0
 1
 Universalis ADF Std
@@ -12401,7 +12401,7 @@ UniversalisADFStd-Cond
 0
 0
 532
-tex-gyre/texgyrechorus-mediumitalic.otf
+texgyrechorus-mediumitalic.otf
 0
 1
 TeX Gyre Chorus
@@ -12424,7 +12424,7 @@ TeXGyreChorus-MediumItalic
 1
 256
 533
-lobstertwo/LobsterTwo-Regular.otf
+LobsterTwo-Regular.otf
 0
 1
 Lobster Two
@@ -12447,7 +12447,7 @@ LobsterTwo
 0
 0
 534
-unfonts-core/UnBatang.ttf
+UnBatang.ttf
 0
 2
 UnBatang
@@ -12471,7 +12471,7 @@ UnBatang
 0
 0
 535
-noto/NotoSansTaiViet-Regular.ttf
+NotoSansTaiViet-Regular.ttf
 0
 1
 Noto Sans Tai Viet
@@ -12493,7 +12493,7 @@ NotoSansTaiViet-Regular
 0
 0
 536
-neohellenic/GFSNeohellenic.otf
+GFSNeohellenic.otf
 0
 1
 GFS Neohellenic
@@ -12516,7 +12516,7 @@ GFSNeohellenic-Regular
 0
 0
 537
-tlwg/Kinnari-BoldOblique.otf
+Kinnari-BoldOblique.otf
 0
 1
 Kinnari
@@ -12538,7 +12538,7 @@ Kinnari-BoldOblique
 0
 0
 538
-gsfonts/c059033l.pfb
+c059033l.pfb
 0
 1
 Century Schoolbook L
@@ -12560,7 +12560,7 @@ CenturySchL-Ital
 0
 0
 539
-crosextra/Carlito-Regular.ttf
+Carlito-Regular.ttf
 0
 1
 Carlito
@@ -12582,7 +12582,7 @@ Carlito
 0
 0
 540
-noto/NotoSansCham-Bold.ttf
+NotoSansCham-Bold.ttf
 0
 1
 Noto Sans Cham
@@ -12604,7 +12604,7 @@ NotoSansCham-Bold
 0
 0
 541
-adf/UniversalisADFStd-Bold.otf
+UniversalisADFStd-Bold.otf
 0
 1
 Universalis ADF Std
@@ -12626,7 +12626,7 @@ UniversalisADFStd-Bold
 0
 0
 542
-gazis/GFSGazis.otf
+GFSGazis.otf
 0
 1
 GFS Gazis
@@ -12649,7 +12649,7 @@ GFSGazis-Regular
 0
 0
 543
-noto/NotoSansKannada-Bold.ttf
+NotoSansKannada-Bold.ttf
 0
 1
 Noto Sans Kannada
@@ -12671,7 +12671,7 @@ NotoSansKannada-Bold
 0
 0
 544
-noto/NotoSansMarchen-Regular.ttf
+NotoSansMarchen-Regular.ttf
 0
 1
 Noto Sans Marchen
@@ -12693,7 +12693,7 @@ NotoSansMarchen-Regular
 0
 0
 545
-tex-gyre/texgyrebonum-bold.otf
+texgyrebonum-bold.otf
 0
 1
 TeX Gyre Bonum
@@ -12716,7 +12716,7 @@ TeXGyreBonum-Bold
 3
 256
 546
-unfonts-extra/UnJamoNovel.ttf
+UnJamoNovel.ttf
 0
 2
 UnJamoNovel
@@ -12740,7 +12740,7 @@ UnJamoNovel
 0
 0
 547
-dejavu/DejaVuSerif-Bold.ttf
+DejaVuSerif-Bold.ttf
 0
 1
 DejaVu Serif
@@ -12762,7 +12762,7 @@ DejaVuSerif-Bold
 0
 0
 548
-arphic-gbsn00lp/gbsn00lp.ttf
+gbsn00lp.ttf
 0
 2
 AR PL SungtiL GB
@@ -12786,7 +12786,7 @@ BousungEG-Light-GB
 0
 0
 549
-noto/NotoSansMono-Regular.ttf
+NotoSansMono-Regular.ttf
 0
 1
 Noto Sans Mono
@@ -12808,7 +12808,7 @@ NotoSansMono-Regular
 0
 0
 550
-noto/NotoSansMultani-Regular.ttf
+NotoSansMultani-Regular.ttf
 0
 1
 Noto Sans Multani
@@ -12830,7 +12830,7 @@ NotoSansMultani-Regular
 0
 0
 551
-lm/lmmonoltcond10-regular.otf
+lmmonoltcond10-regular.otf
 0
 1
 Latin Modern Mono Light Cond
@@ -12853,7 +12853,7 @@ LMMonoLtCond10-Regular
 1
 256
 552
-noto/NotoSerifGujarati-Regular.ttf
+NotoSerifGujarati-Regular.ttf
 0
 1
 Noto Serif Gujarati
@@ -12875,7 +12875,7 @@ NotoSerifGujarati-Regular
 0
 0
 553
-tlwg/Purisa.otf
+Purisa.otf
 0
 1
 Purisa
@@ -12897,7 +12897,7 @@ Purisa
 0
 0
 554
-adf/BerenisADFPro-Italic.otf
+BerenisADFPro-Italic.otf
 0
 1
 Berenis ADF Pro
@@ -12919,7 +12919,7 @@ BerenisADFPro-Italic
 0
 0
 555
-urw-base35/D050000L.otf
+D050000L.otf
 0
 1
 D050000L
@@ -12941,7 +12941,7 @@ D050000L
 0
 0
 556
-lato/Lato-HairlineItalic.ttf
+Lato-HairlineItalic.ttf
 0
 1
 Lato
@@ -12963,7 +12963,7 @@ Lato-HairlineItalic
 0
 0
 557
-urw-base35/C059-BdIta.otf
+C059-BdIta.otf
 0
 1
 C059
@@ -12986,7 +12986,7 @@ C059-BdIta
 0
 0
 558
-lm/lmroman12-bold.otf
+lmroman12-bold.otf
 0
 1
 Latin Modern Roman
@@ -13009,7 +13009,7 @@ LMRoman12-Bold
 3
 256
 559
-gentiumplus/GentiumPlusCompact-R.ttf
+GentiumPlusCompact-R.ttf
 0
 1
 Gentium Plus Compact
@@ -13031,7 +13031,7 @@ GentiumPlusCompact
 0
 0
 560
-lato/Lato-LightItalic.ttf
+Lato-LightItalic.ttf
 0
 1
 Lato
@@ -13053,7 +13053,7 @@ Lato-LightItalic
 0
 0
 561
-stix-word/STIX-Regular.otf
+STIX-Regular.otf
 0
 1
 STIX
@@ -13075,7 +13075,7 @@ STIX-Regular
 0
 0
 562
-dejavu/DejaVuSerif-BoldItalic.ttf
+DejaVuSerif-BoldItalic.ttf
 0
 1
 DejaVu Serif
@@ -13097,7 +13097,7 @@ DejaVuSerif-BoldItalic
 0
 0
 563
-stix/STIXGeneral-Italic.otf
+STIXGeneral-Italic.otf
 0
 1
 STIXGeneral
@@ -13119,7 +13119,7 @@ STIXGeneral-Italic
 0
 0
 564
-lato/Lato-MediumItalic.ttf
+Lato-MediumItalic.ttf
 0
 1
 Lato
@@ -13141,7 +13141,7 @@ Lato-MediumItalic
 0
 0
 565
-noto/NotoSansImperialAramaic-Regular.ttf
+NotoSansImperialAramaic-Regular.ttf
 0
 1
 Noto Sans Imperial Aramaic
@@ -13163,7 +13163,7 @@ NotoSansImperialAramaic-Regular
 0
 0
 566
-dejavu/DejaVuSansMono-Bold.ttf
+DejaVuSansMono-Bold.ttf
 0
 1
 DejaVu Sans Mono
@@ -13185,7 +13185,7 @@ DejaVuSansMono-Bold
 0
 0
 567
-noto/NotoSansWarangCiti-Regular.ttf
+NotoSansWarangCiti-Regular.ttf
 0
 1
 Noto Sans Warang Citi
@@ -13207,7 +13207,7 @@ NotoSansWarangCiti-Regular
 0
 0
 568
-noto/NotoSansDevanagari-Bold.ttf
+NotoSansDevanagari-Bold.ttf
 0
 1
 Noto Sans Devanagari
@@ -13229,7 +13229,7 @@ NotoSansDevanagari-Bold
 0
 0
 569
-stix/STIXIntegralsSm-Bold.otf
+STIXIntegralsSm-Bold.otf
 0
 1
 STIXIntegralsSm
@@ -13251,7 +13251,7 @@ STIXIntegralsSm-Bold
 0
 0
 570
-open-sans/OpenSans-SemiboldItalic.ttf
+OpenSans-SemiboldItalic.ttf
 0
 1
 Open Sans
@@ -13273,7 +13273,7 @@ OpenSans-SemiboldItalic
 0
 0
 571
-adf/AccanthisADFStdNo2-Italic.otf
+AccanthisADFStdNo2-Italic.otf
 0
 1
 Accanthis ADF Std No2
@@ -13295,7 +13295,7 @@ AccanthisADFStdNo2-Italic
 0
 0
 572
-noto/NotoSansThaana-Bold.ttf
+NotoSansThaana-Bold.ttf
 0
 1
 Noto Sans Thaana
@@ -13317,7 +13317,7 @@ NotoSansThaana-Bold
 0
 0
 573
-noto/NotoSansGothic-Regular.ttf
+NotoSansGothic-Regular.ttf
 0
 1
 Noto Sans Gothic
@@ -13339,7 +13339,7 @@ NotoSansGothic-Regular
 0
 0
 574
-lm/lmsansquot8-boldoblique.otf
+lmsansquot8-boldoblique.otf
 0
 1
 Latin Modern Sans Quotation
@@ -13362,7 +13362,7 @@ LMSansQuot8-BoldOblique
 4
 256
 575
-adf/AccanthisADFStdNo2-Regular.otf
+AccanthisADFStdNo2-Regular.otf
 0
 1
 Accanthis ADF Std No2
@@ -13384,7 +13384,7 @@ AccanthisADFStdNo2-Regular
 0
 0
 576
-gsfonts/n021023l.pfb
+n021023l.pfb
 0
 1
 Nimbus Roman No9 L
@@ -13406,7 +13406,7 @@ NimbusRomNo9L-ReguItal
 0
 0
 577
-tlwg/Laksaman-Italic.otf
+Laksaman-Italic.otf
 0
 1
 Laksaman
@@ -13428,7 +13428,7 @@ Laksaman-Italic
 0
 0
 578
-fonts-hosny-amiri/AmiriQuran.ttf
+AmiriQuran.ttf
 0
 1
 Amiri Quran
@@ -13450,7 +13450,7 @@ AmiriQuran-Regular
 0
 0
 579
-stix-word/STIX-BoldItalic.otf
+STIX-BoldItalic.otf
 0
 1
 STIX
@@ -13472,7 +13472,7 @@ STIX-BoldItalic
 0
 0
 580
-adf/GilliusADF-BoldCondItalic.otf
+GilliusADF-BoldCondItalic.otf
 0
 1
 Gillius ADF
@@ -13494,7 +13494,7 @@ GilliusADF-BoldCondItalic
 0
 0
 581
-lm/lmmonoltcond10-oblique.otf
+lmmonoltcond10-oblique.otf
 0
 1
 Latin Modern Mono Light Cond
@@ -13517,7 +13517,7 @@ LMMonoLtCond10-Oblique
 2
 256
 582
-urw-base35/URWBookman-Demi.t1
+URWBookman-Demi.t1
 0
 1
 URW Bookman
@@ -13539,7 +13539,7 @@ URWBookman-Demi
 0
 0
 583
-urw-base35/NimbusRoman-Bold.t1
+NimbusRoman-Bold.t1
 0
 1
 Nimbus Roman
@@ -13561,7 +13561,7 @@ NimbusRoman-Bold
 0
 0
 584
-tlwg/TlwgTypist-Bold.otf
+TlwgTypist-Bold.otf
 0
 1
 Tlwg Typist
@@ -13583,7 +13583,7 @@ TlwgTypist-Bold
 0
 0
 585
-noto/NotoNaskhArabic-Regular.ttf
+NotoNaskhArabic-Regular.ttf
 0
 1
 Noto Naskh Arabic
@@ -13605,7 +13605,7 @@ NotoNaskhArabic
 0
 0
 586
-tlwg/Sawasdee-Oblique.otf
+Sawasdee-Oblique.otf
 0
 1
 Sawasdee
@@ -13627,7 +13627,7 @@ Sawasdee-Oblique
 0
 0
 587
-gentium-basic/GenBkBasI.ttf
+GenBkBasI.ttf
 0
 1
 Gentium Book Basic
@@ -13649,7 +13649,7 @@ GentiumBookBasic-Italic
 0
 0
 588
-lm/lmromandemi10-regular.otf
+lmromandemi10-regular.otf
 0
 1
 Latin Modern Roman Demi
@@ -13672,7 +13672,7 @@ LMRomanDemi10-Regular
 1
 256
 589
-crosextra/Caladea-BoldItalic.ttf
+Caladea-BoldItalic.ttf
 0
 1
 Caladea
@@ -13694,7 +13694,7 @@ Caladea-BoldItalic
 0
 0
 590
-junicode/Junicode-BoldItalic.ttf
+Junicode-BoldItalic.ttf
 0
 1
 Junicode
@@ -13716,7 +13716,7 @@ Junicode-BoldItalic
 0
 0
 591
-noto/NotoSansHatran-Regular.ttf
+NotoSansHatran-Regular.ttf
 0
 1
 Noto Sans Hatran
@@ -13738,7 +13738,7 @@ NotoSansHatran-Regular
 0
 0
 592
-tlwg/Norasi.otf
+Norasi.otf
 0
 1
 Norasi
@@ -13760,7 +13760,7 @@ Norasi
 0
 0
 593
-lm/lmmono10-italic.otf
+lmmono10-italic.otf
 0
 1
 Latin Modern Mono
@@ -13783,7 +13783,7 @@ LMMono10-Italic
 2
 256
 594
-noto/NotoSansAvestan-Regular.ttf
+NotoSansAvestan-Regular.ttf
 0
 1
 Noto Sans Avestan
@@ -13805,7 +13805,7 @@ NotoSansAvestan-Regular
 0
 0
 595
-tex-gyre/texgyreadventor-bold.otf
+texgyreadventor-bold.otf
 0
 1
 TeX Gyre Adventor
@@ -13827,7 +13827,7 @@ TeXGyreAdventor-Bold
 0
 0
 596
-gsfonts/n019044l.pfb
+n019044l.pfb
 0
 1
 Nimbus Sans L
@@ -13849,7 +13849,7 @@ NimbusSanL-BoldCond
 0
 0
 597
-noto/NotoSansNKo-Regular.ttf
+NotoSansNKo-Regular.ttf
 0
 1
 Noto Sans NKo
@@ -13871,7 +13871,7 @@ NotoSansNKo-Regular
 0
 0
 598
-linux-libertine/LinLibertine_RZ.otf
+LinLibertine_RZ.otf
 0
 1
 Linux Libertine O
@@ -13893,7 +13893,7 @@ LinLibertineOZ
 0
 0
 599
-noto/NotoSansEthiopic-Bold.ttf
+NotoSansEthiopic-Bold.ttf
 0
 1
 Noto Sans Ethiopic
@@ -13915,7 +13915,7 @@ NotoSansEthiopic-Bold
 0
 0
 600
-gsfonts/b018015l.pfb
+b018015l.pfb
 0
 1
 URW Bookman L
@@ -13937,7 +13937,7 @@ URWBookmanL-DemiBold
 0
 0
 601
-noto/NotoSansOldTurkic-Regular.ttf
+NotoSansOldTurkic-Regular.ttf
 0
 1
 Noto Sans Old Turkic
@@ -13959,7 +13959,7 @@ NotoSansOldTurkic-Regular
 0
 0
 602
-tlwg/Purisa-BoldOblique.otf
+Purisa-BoldOblique.otf
 0
 1
 Purisa
@@ -13981,7 +13981,7 @@ Purisa-BoldOblique
 0
 0
 603
-noto/NotoSansSaurashtra-Regular.ttf
+NotoSansSaurashtra-Regular.ttf
 0
 1
 Noto Sans Saurashtra
@@ -14003,7 +14003,7 @@ NotoSansSaurashtra-Regular
 0
 0
 604
-lm/lmsans10-bold.otf
+lmsans10-bold.otf
 0
 1
 Latin Modern Sans
@@ -14026,7 +14026,7 @@ LMSans10-Bold
 3
 256
 605
-noto/NotoSansOldPermic-Regular.ttf
+NotoSansOldPermic-Regular.ttf
 0
 1
 Noto Sans Old Permic
@@ -14048,7 +14048,7 @@ NotoSansOldPermic-Regular
 0
 0
 606
-gsfonts/p052023l.pfb
+p052023l.pfb
 0
 1
 URW Palladio L
@@ -14070,7 +14070,7 @@ URWPalladioL-Ital
 0
 0
 607
-tex-gyre/texgyrecursor-regular.otf
+texgyrecursor-regular.otf
 0
 1
 TeX Gyre Cursor
@@ -14093,7 +14093,7 @@ TeXGyreCursor-Regular
 1
 256
 608
-adf/BerenisADFPro-Regular.otf
+BerenisADFPro-Regular.otf
 0
 1
 Berenis ADF Pro
@@ -14115,7 +14115,7 @@ BerenisADFPro-Regular
 0
 0
 609
-adf/AccanthisADFStdNo3-Regular.otf
+AccanthisADFStdNo3-Regular.otf
 0
 1
 Accanthis ADF Std No3
@@ -14137,7 +14137,7 @@ AccanthisADFStdNo3-Regular
 0
 0
 610
-croscore/Cousine-Italic.ttf
+Cousine-Italic.ttf
 0
 1
 Cousine
@@ -14159,7 +14159,7 @@ Cousine-Italic
 0
 0
 611
-open-sans/OpenSans-LightItalic.ttf
+OpenSans-LightItalic.ttf
 0
 1
 Open Sans
@@ -14181,7 +14181,7 @@ OpenSansLight-Italic
 0
 0
 612
-crosextra/Carlito-BoldItalic.ttf
+Carlito-BoldItalic.ttf
 0
 1
 Carlito
@@ -14203,7 +14203,7 @@ Carlito-BoldItalic
 0
 0
 613
-fonts-hosny-amiri/AmiriQuranColored.ttf
+AmiriQuranColored.ttf
 0
 1
 Amiri Quran Colored
@@ -14225,7 +14225,7 @@ AmiriQuranColored-Regular
 0
 0
 614
-roboto/unhinted/RobotoTTF/Roboto-Black.ttf
+Roboto-Black.ttf
 0
 1
 Roboto
@@ -14247,7 +14247,7 @@ Roboto-Black
 0
 0
 615
-crosextra/Carlito-Bold.ttf
+Carlito-Bold.ttf
 0
 1
 Carlito
@@ -14269,7 +14269,7 @@ Carlito-Bold
 0
 0
 616
-noto/NotoSansTelugu-Regular.ttf
+NotoSansTelugu-Regular.ttf
 0
 1
 Noto Sans Telugu
@@ -14291,7 +14291,7 @@ NotoSansTelugu-Regular
 0
 0
 617
-fonts/fonts-go/Go-Medium-Italic.ttf
+Go-Medium-Italic.ttf
 0
 1
 Go Medium
@@ -14313,7 +14313,7 @@ GoMedium-Italic
 0
 0
 618
-lm/lmroman9-italic.otf
+lmroman9-italic.otf
 0
 1
 Latin Modern Roman
@@ -14336,7 +14336,7 @@ LMRoman9-Italic
 2
 256
 619
-noto/NotoSansOlChiki-Regular.ttf
+NotoSansOlChiki-Regular.ttf
 0
 1
 Noto Sans Ol Chiki
@@ -14358,7 +14358,7 @@ NotoSansOlChiki-Regular
 0
 0
 620
-noto/NotoSansTagbanwa-Regular.ttf
+NotoSansTagbanwa-Regular.ttf
 0
 1
 Noto Sans Tagbanwa
@@ -14380,7 +14380,7 @@ NotoSansTagbanwa-Regular
 0
 0
 621
-tlwg/TlwgTypo-Bold.otf
+TlwgTypo-Bold.otf
 0
 1
 Tlwg Typo
@@ -14402,7 +14402,7 @@ TlwgTypo-Bold
 0
 0
 622
-gentium-basic/GenBkBasBI.ttf
+GenBkBasBI.ttf
 0
 1
 Gentium Book Basic
@@ -14424,7 +14424,7 @@ GentiumBookBasic-BoldItalic
 0
 0
 623
-croscore/Tinos-BoldItalic.ttf
+Tinos-BoldItalic.ttf
 0
 1
 Tinos
@@ -14446,7 +14446,7 @@ Tinos-BoldItalic
 0
 0
 624
-noto/NotoSansMyanmar-Bold.ttf
+NotoSansMyanmar-Bold.ttf
 0
 1
 Noto Sans Myanmar
@@ -14468,7 +14468,7 @@ NotoSansMyanmar-Bold
 0
 0
 625
-noto/NotoSansNabataean-Regular.ttf
+NotoSansNabataean-Regular.ttf
 0
 1
 Noto Sans Nabataean
@@ -14490,7 +14490,7 @@ NotoSansNabataean-Regular
 0
 0
 626
-tlwg/Purisa-Oblique.otf
+Purisa-Oblique.otf
 0
 1
 Purisa
@@ -14512,7 +14512,7 @@ Purisa-Oblique
 0
 0
 627
-stix/STIXSizeThreeSym-Regular.otf
+STIXSizeThreeSym-Regular.otf
 0
 1
 STIXSizeThreeSym
@@ -14534,7 +14534,7 @@ STIXSizeThreeSym-Regular
 0
 0
 628
-open-sans/OpenSans-BoldItalic.ttf
+OpenSans-BoldItalic.ttf
 0
 1
 Open Sans
@@ -14556,7 +14556,7 @@ OpenSans-BoldItalic
 0
 0
 629
-texlive-fonts-recommended/pcrb8a.pfb
+pcrb8a.pfb
 0
 1
 Courier
@@ -14578,7 +14578,7 @@ Courier-Bold
 0
 0
 630
-noto/NotoSerifArmenian-Regular.ttf
+NotoSerifArmenian-Regular.ttf
 0
 1
 Noto Serif Armenian
@@ -14600,7 +14600,7 @@ NotoSerifArmenian-Regular
 0
 0
 631
-noto/NotoSerifDisplay-Regular.ttf
+NotoSerifDisplay-Regular.ttf
 0
 1
 Noto Serif Display
@@ -14622,7 +14622,7 @@ NotoSerifDisplay-Regular
 0
 0
 632
-gsfonts/a010035l.pfb
+a010035l.pfb
 0
 1
 URW Gothic L
@@ -14644,7 +14644,7 @@ URWGothicL-DemiObli
 0
 0
 633
-dejavu/DejaVuSans.ttf
+DejaVuSans.ttf
 0
 1
 DejaVu Sans
@@ -14666,7 +14666,7 @@ DejaVuSans
 0
 0
 634
-arphic-gkai00mp/gkai00mp.ttf
+gkai00mp.ttf
 0
 2
 AR PL KaitiM GB
@@ -14690,7 +14690,7 @@ GBZenKai-Medium
 0
 0
 635
-lm/lmromanslant8-regular.otf
+lmromanslant8-regular.otf
 0
 1
 Latin Modern Roman Slanted
@@ -14713,7 +14713,7 @@ LMRomanSlant8-Regular
 1
 256
 636
-stix/STIXNonUnicode-Italic.otf
+STIXNonUnicode-Italic.otf
 0
 1
 STIXNonUnicode
@@ -14735,7 +14735,7 @@ STIXNonUnicode-Italic
 0
 0
 637
-tex-gyre/texgyrebonum-regular.otf
+texgyrebonum-regular.otf
 0
 1
 TeX Gyre Bonum
@@ -14758,7 +14758,7 @@ TeXGyreBonum-Regular
 1
 256
 638
-gsfonts/n022003l.pfb
+n022003l.pfb
 0
 1
 Nimbus Mono L
@@ -14780,7 +14780,7 @@ NimbusMonL-Regu
 0
 0
 639
-tex-gyre/texgyreheroscn-italic.otf
+texgyreheroscn-italic.otf
 0
 1
 TeX Gyre Heros Cn
@@ -14803,7 +14803,7 @@ TeXGyreHerosCondensed-Italic
 2
 256
 640
-didot-classic/GFSDidotClassic.otf
+GFSDidotClassic.otf
 0
 1
 GFS Didot Classic
@@ -14825,7 +14825,7 @@ GFSDidotClassic-Regular
 0
 0
 641
-adf/BerenisADFPro-Bold.otf
+BerenisADFPro-Bold.otf
 0
 1
 Berenis ADF Pro
@@ -14847,7 +14847,7 @@ BerenisADFPro-Bold
 0
 0
 642
-lm/lmromanslant12-regular.otf
+lmromanslant12-regular.otf
 0
 1
 Latin Modern Roman Slanted
@@ -14870,7 +14870,7 @@ LMRomanSlant12-Regular
 1
 256
 643
-theokritos/GFSTheokritos.otf
+GFSTheokritos.otf
 0
 1
 GFS Theokritos
@@ -14892,7 +14892,7 @@ GFSTheokritos-Regular
 0
 0
 644
-cabin/Cabin-Regular.otf
+Cabin-Regular.otf
 0
 1
 Cabin
@@ -14915,7 +14915,7 @@ Cabin-Regular
 0
 0
 645
-tex-gyre/texgyreschola-italic.otf
+texgyreschola-italic.otf
 0
 1
 TeX Gyre Schola
@@ -14938,7 +14938,7 @@ TeXGyreSchola-Italic
 2
 256
 646
-noto/NotoSerifDogra-Regular.ttf
+NotoSerifDogra-Regular.ttf
 0
 1
 Noto Serif Dogra
@@ -14960,7 +14960,7 @@ NotoSerifDogra-Regular
 0
 0
 647
-tlwg/Laksaman-Bold.otf
+Laksaman-Bold.otf
 0
 1
 Laksaman
@@ -14982,7 +14982,7 @@ Laksaman-Bold
 0
 0
 648
-croscore/Arimo-Regular.ttf
+Arimo-Regular.ttf
 0
 1
 Arimo
@@ -15004,7 +15004,7 @@ Arimo
 0
 0
 649
-lm/lmromanslant9-regular.otf
+lmromanslant9-regular.otf
 0
 1
 Latin Modern Roman Slanted
@@ -15027,7 +15027,7 @@ LMRomanSlant9-Regular
 1
 256
 650
-gsfonts/n019023l.pfb
+n019023l.pfb
 0
 1
 Nimbus Sans L
@@ -15049,7 +15049,7 @@ NimbusSanL-ReguItal
 0
 0
 651
-lato/Lato-BlackItalic.ttf
+Lato-BlackItalic.ttf
 0
 1
 Lato
@@ -15071,7 +15071,7 @@ Lato-BlackItalic
 0
 0
 652
-noto/NotoSansMayanNumerals-Regular.ttf
+NotoSansMayanNumerals-Regular.ttf
 0
 1
 Noto Sans Mayan Numerals
@@ -15093,7 +15093,7 @@ NotoSansMayanNumerals-Regular
 0
 0
 653
-lm/lmroman10-italic.otf
+lmroman10-italic.otf
 0
 1
 Latin Modern Roman
@@ -15116,7 +15116,7 @@ LMRoman10-Italic
 2
 256
 654
-noto/NotoSansInscriptionalParthian-Regular.ttf
+NotoSansInscriptionalParthian-Regular.ttf
 0
 1
 Noto Sans Inscriptional Parthian
@@ -15138,7 +15138,7 @@ NotoSansInscriptionalParthian-Regular
 0
 0
 655
-noto/NotoSerifTangut-Regular.ttf
+NotoSerifTangut-Regular.ttf
 0
 1
 Noto Serif Tangut
@@ -15160,7 +15160,7 @@ NotoSerifTangut-Regular
 0
 0
 656
-ipafont-gothic/ipagp.ttf
+ipagp.ttf
 0
 2
 IPAPGothic
@@ -15184,7 +15184,7 @@ IPAPGothic
 0
 0
 657
-noto/NotoSansMahajani-Regular.ttf
+NotoSansMahajani-Regular.ttf
 0
 1
 Noto Sans Mahajani
@@ -15206,7 +15206,7 @@ NotoSansMahajani-Regular
 0
 0
 658
-noto/NotoSansNewTaiLue-Regular.ttf
+NotoSansNewTaiLue-Regular.ttf
 0
 1
 Noto Sans New Tai Lue
@@ -15228,7 +15228,7 @@ NotoSansNewTaiLue-Regular
 0
 0
 659
-noto/NotoSansRunic-Regular.ttf
+NotoSansRunic-Regular.ttf
 0
 1
 Noto Sans Runic
@@ -15250,7 +15250,7 @@ NotoSansRunic-Regular
 0
 0
 660
-lm/lmmonoprop10-regular.otf
+lmmonoprop10-regular.otf
 0
 1
 Latin Modern Mono Prop
@@ -15273,7 +15273,7 @@ LMMonoProp10-Regular
 1
 256
 661
-noto/NotoSerifKannada-Bold.ttf
+NotoSerifKannada-Bold.ttf
 0
 1
 Noto Serif Kannada
@@ -15295,7 +15295,7 @@ NotoSerifKannada-Bold
 0
 0
 662
-stix/STIXSizeFiveSym-Regular.otf
+STIXSizeFiveSym-Regular.otf
 0
 1
 STIXSizeFiveSym
@@ -15317,7 +15317,7 @@ STIXSizeFiveSym-Regular
 0
 0
 663
-noto/NotoSansSymbols-Regular.ttf
+NotoSansSymbols-Regular.ttf
 0
 1
 Noto Sans Symbols
@@ -15339,7 +15339,7 @@ NotoSansSymbols-Regular
 0
 0
 664
-tex-gyre-math/texgyretermes-math.otf
+texgyretermes-math.otf
 0
 1
 TeX Gyre Termes Math
@@ -15361,7 +15361,7 @@ TeXGyreTermesMath-Regular
 0
 0
 665
-gentium/GentiumAlt-I.ttf
+GentiumAlt-I.ttf
 0
 1
 GentiumAlt
@@ -15383,7 +15383,7 @@ GentiumAlt-Italic
 0
 0
 666
-roboto/unhinted/RobotoCondensed-Regular.ttf
+RobotoCondensed-Regular.ttf
 0
 1
 Roboto Condensed
@@ -15405,7 +15405,7 @@ RobotoCondensed-Regular
 0
 0
 667
-open-sans/OpenSans-Regular.ttf
+OpenSans-Regular.ttf
 0
 1
 Open Sans
@@ -15427,7 +15427,7 @@ OpenSans
 0
 0
 668
-lm/lmromancaps10-oblique.otf
+lmromancaps10-oblique.otf
 0
 1
 Latin Modern Roman Caps
@@ -15450,7 +15450,7 @@ LMRomanCaps10-Oblique
 2
 256
 669
-lm/lmromanslant10-regular.otf
+lmromanslant10-regular.otf
 0
 1
 Latin Modern Roman Slanted
@@ -15473,7 +15473,7 @@ LMRomanSlant10-Regular
 1
 256
 670
-tlwg/Loma-Oblique.otf
+Loma-Oblique.otf
 0
 1
 Loma
@@ -15495,7 +15495,7 @@ Loma-Oblique
 0
 0
 671
-noto/NotoSansKhojki-Regular.ttf
+NotoSansKhojki-Regular.ttf
 0
 1
 Noto Sans Khojki
@@ -15517,7 +15517,7 @@ NotoSansKhojki-Regular
 0
 0
 672
-lato/Lato-Thin.ttf
+Lato-Thin.ttf
 0
 1
 Lato
@@ -15539,7 +15539,7 @@ Lato-Thin
 0
 0
 673
-roboto/unhinted/RobotoCondensed-LightItalic.ttf
+RobotoCondensed-LightItalic.ttf
 0
 1
 Roboto Condensed
@@ -15561,7 +15561,7 @@ RobotoCondensed-LightItalic
 0
 0
 674
-noto/NotoSerifTamilSlanted-Regular.ttf
+NotoSerifTamilSlanted-Regular.ttf
 0
 1
 Noto Serif Tamil Slanted
@@ -15583,7 +15583,7 @@ NotoSerifTamilSlanted-Regular
 0
 0
 675
-fonts-hosny-amiri/Amiri-Regular.ttf
+Amiri-Regular.ttf
 0
 1
 Amiri
@@ -15605,7 +15605,7 @@ Amiri-Regular
 0
 0
 676
-unfonts-extra/UnYetgul.ttf
+UnYetgul.ttf
 0
 2
 UnYetgul
@@ -15630,7 +15630,7 @@ UnYetgul
 0
 0
 677
-tlwg/Waree-Oblique.otf
+Waree-Oblique.otf
 0
 1
 Waree
@@ -15652,7 +15652,7 @@ Waree-Oblique
 0
 0
 678
-croscore/Arimo-Bold.ttf
+Arimo-Bold.ttf
 0
 1
 Arimo
@@ -15674,7 +15674,7 @@ Arimo-Bold
 0
 0
 679
-noto/NotoKufiArabic-Regular.ttf
+NotoKufiArabic-Regular.ttf
 0
 1
 Noto Kufi Arabic
@@ -15696,7 +15696,7 @@ NotoKufiArabic-Regular
 0
 0
 680
-unfonts-core/UnDinaru.ttf
+UnDinaru.ttf
 0
 2
 UnDinaru
@@ -15720,7 +15720,7 @@ UnDinaru
 0
 0
 681
-noto/NotoSansMath-Regular.ttf
+NotoSansMath-Regular.ttf
 0
 1
 Noto Sans Math
@@ -15742,7 +15742,7 @@ NotoSansMath-Regular
 0
 0
 682
-unfonts-extra/UnJamoSora.ttf
+UnJamoSora.ttf
 0
 2
 UnJamoSora
@@ -15766,7 +15766,7 @@ UnJamoSora
 0
 0
 683
-tex-gyre/texgyreschola-bold.otf
+texgyreschola-bold.otf
 0
 1
 TeX Gyre Schola
@@ -15789,7 +15789,7 @@ TeXGyreSchola-Bold
 3
 256
 684
-noto/NotoSerif-Italic.ttf
+NotoSerif-Italic.ttf
 0
 1
 Noto Serif
@@ -15811,7 +15811,7 @@ NotoSerif-Italic
 0
 0
 685
-comfortaa/Comfortaa-Bold.ttf
+Comfortaa-Bold.ttf
 0
 1
 Comfortaa
@@ -15833,7 +15833,7 @@ Comfortaa-Bold
 0
 0
 686
-noto/NotoSansDisplay-Regular.ttf
+NotoSansDisplay-Regular.ttf
 0
 1
 Noto Sans Display
@@ -15855,7 +15855,7 @@ NotoSansDisplay-Regular
 0
 0
 687
-noto/NotoSansVai-Regular.ttf
+NotoSansVai-Regular.ttf
 0
 1
 Noto Sans Vai
@@ -15877,7 +15877,7 @@ NotoSansVai-Regular
 0
 0
 688
-crosextra/Caladea-Regular.ttf
+Caladea-Regular.ttf
 0
 1
 Caladea
@@ -15899,7 +15899,7 @@ Caladea-Regular
 0
 0
 689
-noto/NotoSerifKhmer-Bold.ttf
+NotoSerifKhmer-Bold.ttf
 0
 1
 Noto Serif Khmer
@@ -15921,7 +15921,7 @@ NotoSerifKhmer-Bold
 0
 0
 690
-lm/lmmonolt10-bold.otf
+lmmonolt10-bold.otf
 0
 1
 Latin Modern Mono Light
@@ -15944,7 +15944,7 @@ LMMonoLt10-Bold
 3
 256
 691
-fonts/fonts-go/Go-Bold.ttf
+Go-Bold.ttf
 0
 1
 Go
@@ -15966,7 +15966,7 @@ Go-Bold
 0
 0
 692
-noto/NotoSansThai-Regular.ttf
+NotoSansThai-Regular.ttf
 0
 1
 Noto Sans Thai
@@ -15988,7 +15988,7 @@ NotoSansThai-Regular
 0
 0
 693
-tlwg/TlwgTypewriter-Bold.otf
+TlwgTypewriter-Bold.otf
 0
 1
 Tlwg Typewriter
@@ -16010,7 +16010,7 @@ TlwgTypewriter-Bold
 0
 0
 694
-noto/NotoSansBuginese-Regular.ttf
+NotoSansBuginese-Regular.ttf
 0
 1
 Noto Sans Buginese
@@ -16032,7 +16032,7 @@ NotoSansBuginese-Regular
 0
 0
 695
-tlwg/Umpush-Bold.otf
+Umpush-Bold.otf
 0
 1
 Umpush
@@ -16054,7 +16054,7 @@ Umpush-Bold
 0
 0
 696
-noto/NotoSerifThai-Regular.ttf
+NotoSerifThai-Regular.ttf
 0
 1
 Noto Serif Thai
@@ -16076,7 +16076,7 @@ NotoSerifThai-Regular
 0
 0
 697
-unfonts-extra/UnPenheulim.ttf
+UnPenheulim.ttf
 0
 2
 UnPenheulim
@@ -16100,7 +16100,7 @@ UnPenheulim
 0
 0
 698
-stix/STIXIntegralsUpD-Regular.otf
+STIXIntegralsUpD-Regular.otf
 0
 1
 STIXIntegralsUpD
@@ -16122,7 +16122,7 @@ STIXIntegralsUpD-Regular
 0
 0
 699
-lobstertwo/LobsterTwo-Italic.otf
+LobsterTwo-Italic.otf
 0
 1
 Lobster Two
@@ -16145,7 +16145,7 @@ LobsterTwo-Italic
 0
 0
 700
-unfonts-extra/UnPilgia.ttf
+UnPilgia.ttf
 0
 2
 UnPilgia
@@ -16169,7 +16169,7 @@ UnPilgia
 0
 0
 701
-noto/NotoSansGujarati-Bold.ttf
+NotoSansGujarati-Bold.ttf
 0
 1
 Noto Sans Gujarati
@@ -16191,7 +16191,7 @@ NotoSansGujarati-Bold
 0
 0
 702
-unfonts-extra/UnJamoBatang.ttf
+UnJamoBatang.ttf
 0
 2
 UnJamoBatang
@@ -16215,7 +16215,7 @@ UnJamoBatang
 0
 0
 703
-tex-gyre/texgyretermes-bold.otf
+texgyretermes-bold.otf
 0
 1
 TeX Gyre Termes
@@ -16238,7 +16238,7 @@ TeXGyreTermes-Bold
 3
 256
 704
-porson/GFSPorson.otf
+GFSPorson.otf
 0
 1
 GFS Porson
@@ -16261,7 +16261,7 @@ GFSPorson-Regular
 0
 0
 705
-artemisia/GFSArtemisiaIt.otf
+GFSArtemisiaIt.otf
 0
 1
 GFS Artemisia
@@ -16284,7 +16284,7 @@ GFSArtemisia-Italic
 0
 0
 706
-noto/NotoSansMendeKikakui-Regular.ttf
+NotoSansMendeKikakui-Regular.ttf
 0
 1
 Noto Sans Mende Kikakui
@@ -16306,7 +16306,7 @@ NotoSansMendeKikakui-Regular
 0
 0
 707
-gentium-basic/GenBasBI.ttf
+GenBasBI.ttf
 0
 1
 Gentium Basic
@@ -16328,7 +16328,7 @@ GentiumBasic-BoldItalic
 0
 0
 708
-noto/NotoSerifDevanagari-Regular.ttf
+NotoSerifDevanagari-Regular.ttf
 0
 1
 Noto Serif Devanagari
@@ -16350,7 +16350,7 @@ NotoSerifDevanagari-Regular
 0
 0
 709
-gsfonts/s050000l.pfb
+s050000l.pfb
 0
 1
 Standard Symbols L
@@ -16372,7 +16372,7 @@ StandardSymL
 0
 0
 710
-lm/lmroman7-regular.otf
+lmroman7-regular.otf
 0
 1
 Latin Modern Roman
@@ -16395,7 +16395,7 @@ LMRoman7-Regular
 1
 256
 711
-lato/Lato-HeavyItalic.ttf
+Lato-HeavyItalic.ttf
 0
 1
 Lato
@@ -16417,7 +16417,7 @@ Lato-HeavyItalic
 0
 0
 712
-baekmuk/batang.ttf
+batang.ttf
 0
 2
 Baekmuk Batang
@@ -16441,7 +16441,7 @@ Baekmuk-Batang
 0
 0
 713
-lm/lmroman8-italic.otf
+lmroman8-italic.otf
 0
 1
 Latin Modern Roman
@@ -16464,7 +16464,7 @@ LMRoman8-Italic
 2
 256
 714
-lm/lmromanslant17-regular.otf
+lmromanslant17-regular.otf
 0
 1
 Latin Modern Roman Slanted
@@ -16487,7 +16487,7 @@ LMRomanSlant17-Regular
 1
 256
 715
-unfonts-extra/UnVada.ttf
+UnVada.ttf
 0
 2
 UnVada
@@ -16511,7 +16511,7 @@ UnVada
 0
 0
 716
-roboto/unhinted/RobotoCondensed-MediumItalic.ttf
+RobotoCondensed-MediumItalic.ttf
 0
 1
 Roboto Condensed
@@ -16533,7 +16533,7 @@ RobotoCondensed-MediumItalic
 0
 0
 717
-dejavu/DejaVuSansMono-BoldOblique.ttf
+DejaVuSansMono-BoldOblique.ttf
 0
 1
 DejaVu Sans Mono
@@ -16555,7 +16555,7 @@ DejaVuSansMono-BoldOblique
 0
 0
 718
-lm/lmroman6-regular.otf
+lmroman6-regular.otf
 0
 1
 Latin Modern Roman
@@ -16578,7 +16578,7 @@ LMRoman6-Regular
 1
 256
 719
-tlwg/Waree-BoldOblique.otf
+Waree-BoldOblique.otf
 0
 1
 Waree
@@ -16600,7 +16600,7 @@ Waree-BoldOblique
 0
 0
 720
-tex-gyre/texgyretermes-bolditalic.otf
+texgyretermes-bolditalic.otf
 0
 1
 TeX Gyre Termes
@@ -16623,7 +16623,7 @@ TeXGyreTermes-BoldItalic
 4
 256
 721
-noto/NotoSerifBalinese-Regular.ttf
+NotoSerifBalinese-Regular.ttf
 0
 1
 Noto Serif Balinese
@@ -16645,7 +16645,7 @@ NotoSerifBalinese-Regular
 0
 0
 722
-adf/AccanthisADFStd-Regular.otf
+AccanthisADFStd-Regular.otf
 0
 1
 Accanthis ADF Std
@@ -16667,7 +16667,7 @@ AccanthisADFStd-Regular
 0
 0
 723
-cabin/Cabin-Medium.otf
+Cabin-Medium.otf
 0
 1
 Cabin
@@ -16690,7 +16690,7 @@ Cabin-Medium
 0
 0
 724
-lato/Lato-Medium.ttf
+Lato-Medium.ttf
 0
 1
 Lato
@@ -16712,7 +16712,7 @@ Lato-Medium
 0
 0
 725
-junicode/Junicode-Italic.ttf
+Junicode-Italic.ttf
 0
 1
 Junicode
@@ -16734,7 +16734,7 @@ Junicode-Italic
 0
 0
 726
-noto/NotoSerifLao-Bold.ttf
+NotoSerifLao-Bold.ttf
 0
 1
 Noto Serif Lao
@@ -16756,7 +16756,7 @@ NotoSerifLao-Bold
 0
 0
 727
-linux-libertine/LinBiolinum_RI.otf
+LinBiolinum_RI.otf
 0
 1
 Linux Biolinum O
@@ -16778,7 +16778,7 @@ LinBiolinumOI
 0
 0
 728
-noto/NotoSansPalmyrene-Regular.ttf
+NotoSansPalmyrene-Regular.ttf
 0
 1
 Noto Sans Palmyrene
@@ -16800,7 +16800,7 @@ NotoSansPalmyrene-Regular
 0
 0
 729
-noto/NotoSansTaiTham-Regular.ttf
+NotoSansTaiTham-Regular.ttf
 0
 1
 Noto Sans Tai Tham
@@ -16822,7 +16822,7 @@ NotoSansTaiTham
 0
 0
 730
-noto/NotoSansSundanese-Regular.ttf
+NotoSansSundanese-Regular.ttf
 0
 1
 Noto Sans Sundanese
@@ -16844,7 +16844,7 @@ NotoSansSundanese-Regular
 0
 0
 731
-artemisia/GFSArtemisiaBold.otf
+GFSArtemisiaBold.otf
 0
 1
 GFS Artemisia
@@ -16867,7 +16867,7 @@ GFSArtemisia-Bold
 0
 0
 732
-stix/STIXIntegralsUpSm-Bold.otf
+STIXIntegralsUpSm-Bold.otf
 0
 1
 STIXIntegralsUpSm
@@ -16889,7 +16889,7 @@ STIXIntegralsUpSm-Bold
 0
 0
 733
-gentium-basic/GenBasB.ttf
+GenBasB.ttf
 0
 1
 Gentium Basic
@@ -16911,7 +16911,7 @@ GentiumBasic-Bold
 0
 0
 734
-crosextra/Caladea-Bold.ttf
+Caladea-Bold.ttf
 0
 1
 Caladea
@@ -16933,7 +16933,7 @@ Caladea-Bold
 0
 0
 735
-noto/NotoSansMeeteiMayek-Regular.ttf
+NotoSansMeeteiMayek-Regular.ttf
 0
 1
 Noto Sans Meetei Mayek
@@ -16955,7 +16955,7 @@ NotoSansMeeteiMayek-Regular
 0
 0
 736
-lm/lmroman5-regular.otf
+lmroman5-regular.otf
 0
 1
 Latin Modern Roman
@@ -16978,7 +16978,7 @@ LMRoman5-Regular
 1
 256
 737
-gsfonts/c059016l.pfb
+c059016l.pfb
 0
 1
 Century Schoolbook L
@@ -17000,7 +17000,7 @@ CenturySchL-Bold
 0
 0
 738
-roboto/unhinted/RobotoTTF/Roboto-LightItalic.ttf
+Roboto-LightItalic.ttf
 0
 1
 Roboto
@@ -17022,7 +17022,7 @@ Roboto-LightItalic
 0
 0
 739
-adf/GilliusADF-CondItalic.otf
+GilliusADF-CondItalic.otf
 0
 1
 Gillius ADF
@@ -17044,7 +17044,7 @@ GilliusADF-CondItalic
 0
 0
 740
-gsfonts/p052004l.pfb
+p052004l.pfb
 0
 1
 URW Palladio L
@@ -17066,7 +17066,7 @@ URWPalladioL-Bold
 0
 0
 741
-gsfonts/a010033l.pfb
+a010033l.pfb
 0
 1
 URW Gothic L
@@ -17088,7 +17088,7 @@ URWGothicL-BookObli
 0
 0
 742
-noto/NotoSansArmenian-Regular.ttf
+NotoSansArmenian-Regular.ttf
 0
 1
 Noto Sans Armenian
@@ -17110,7 +17110,7 @@ NotoSansArmenian-Regular
 0
 0
 743
-dejavu/DejaVuSansCondensed-BoldOblique.ttf
+DejaVuSansCondensed-BoldOblique.ttf
 0
 1
 DejaVu Sans
@@ -17132,7 +17132,7 @@ DejaVuSansCondensed-BoldOblique
 0
 0
 744
-solomos/GFSSolomos.otf
+GFSSolomos.otf
 0
 1
 GFS Solomos
@@ -17154,7 +17154,7 @@ GFSSolomos-Regular
 0
 0
 745
-noto/NotoSansLao-Bold.ttf
+NotoSansLao-Bold.ttf
 0
 1
 Noto Sans Lao
@@ -17176,7 +17176,7 @@ NotoSansLao-Bold
 0
 0
 746
-noto/NotoNastaliqUrdu-Bold.ttf
+NotoNastaliqUrdu-Bold.ttf
 0
 1
 Noto Nastaliq Urdu
@@ -17198,7 +17198,7 @@ NotoNastaliqUrdu-Bold
 0
 0
 747
-tlwg/TlwgTypo.otf
+TlwgTypo.otf
 0
 1
 Tlwg Typo
@@ -17220,7 +17220,7 @@ TlwgTypo
 0
 0
 748
-texlive-fonts-recommended/pcrro8a.pfb
+pcrro8a.pfb
 0
 1
 Courier
@@ -17242,7 +17242,7 @@ Courier-Italic
 0
 0
 749
-noto/NotoSansOriya-Bold.ttf
+NotoSansOriya-Bold.ttf
 0
 1
 Noto Sans Oriya
@@ -17264,7 +17264,7 @@ NotoSansOriya-Bold
 0
 0
 750
-noto/NotoSerifMalayalam-Regular.ttf
+NotoSerifMalayalam-Regular.ttf
 0
 1
 Noto Serif Malayalam
@@ -17286,7 +17286,7 @@ NotoSerifMalayalam-Regular
 0
 0
 751
-noto/NotoSerifGurmukhi-Regular.ttf
+NotoSerifGurmukhi-Regular.ttf
 0
 1
 Noto Serif Gurmukhi
@@ -17308,7 +17308,7 @@ NotoSerifGurmukhi-Regular
 0
 0
 752
-adf/AccanthisADFStd-Italic.otf
+AccanthisADFStd-Italic.otf
 0
 1
 Accanthis ADF Std
@@ -17330,7 +17330,7 @@ AccanthisADFStd-Italic
 0
 0
 753
-texlive-fonts-recommended/bchri8a.pfb
+bchri8a.pfb
 0
 1
 Bitstream Charter
@@ -17352,7 +17352,7 @@ CharterBT-Italic
 0
 0
 754
-noto/NotoSansOldSouthArabian-Regular.ttf
+NotoSansOldSouthArabian-Regular.ttf
 0
 1
 Noto Sans Old South Arabian
@@ -17374,7 +17374,7 @@ NotoSansOldSouthArabian-Regular
 0
 0
 755
-dejavu/DejaVuSans-Oblique.ttf
+DejaVuSans-Oblique.ttf
 0
 1
 DejaVu Sans
@@ -17396,7 +17396,7 @@ DejaVuSans-Oblique
 0
 0
 756
-noto/NotoSerifMyanmar-Bold.ttf
+NotoSerifMyanmar-Bold.ttf
 0
 1
 Noto Serif Myanmar
@@ -17418,7 +17418,7 @@ NotoSerifMyanmar-Bold
 0
 0
 757
-noto/NotoSansThai-Bold.ttf
+NotoSansThai-Bold.ttf
 0
 1
 Noto Sans Thai
@@ -17440,7 +17440,7 @@ NotoSansThai-Bold
 0
 0
 758
-lato/Lato-Regular.ttf
+Lato-Regular.ttf
 0
 1
 Lato
@@ -17462,7 +17462,7 @@ Lato-Regular
 0
 0
 759
-tlwg/Garuda-Bold.otf
+Garuda-Bold.otf
 0
 1
 Garuda
@@ -17484,7 +17484,7 @@ Garuda-Bold
 0
 0
 760
-noto/NotoNaskhArabic-Bold.ttf
+NotoNaskhArabic-Bold.ttf
 0
 1
 Noto Naskh Arabic
@@ -17506,7 +17506,7 @@ NotoNaskhArabic-Bold
 0
 0
 761
-lato/Lato-SemiboldItalic.ttf
+Lato-SemiboldItalic.ttf
 0
 1
 Lato
@@ -17528,7 +17528,7 @@ Lato-SemiboldItalic
 0
 0
 762
-fonts/fonts-go/Go-Mono-Bold-Italic.ttf
+Go-Mono-Bold-Italic.ttf
 0
 1
 Go Mono
@@ -17550,7 +17550,7 @@ GoMono-BoldItalic
 0
 0
 763
-lato/Lato-Semibold.ttf
+Lato-Semibold.ttf
 0
 1
 Lato
@@ -17572,7 +17572,7 @@ Lato-Semibold
 0
 0
 764
-noto/NotoSansMalayalam-Bold.ttf
+NotoSansMalayalam-Bold.ttf
 0
 1
 Noto Sans Malayalam
@@ -17594,7 +17594,7 @@ NotoSansMalayalam-Bold
 0
 0
 765
-roboto/unhinted/RobotoCondensed-Medium.ttf
+RobotoCondensed-Medium.ttf
 0
 1
 Roboto Condensed
@@ -17616,7 +17616,7 @@ RobotoCondensed-Medium
 0
 0
 766
-adf/AccanthisADFStd-BoldItalic.otf
+AccanthisADFStd-BoldItalic.otf
 0
 1
 Accanthis ADF Std
@@ -17638,7 +17638,7 @@ AccanthisADFStd-BoldItalic
 0
 0
 767
-lm/lmroman9-regular.otf
+lmroman9-regular.otf
 0
 1
 Latin Modern Roman
@@ -17661,7 +17661,7 @@ LMRoman9-Regular
 1
 256
 768
-stix-word/STIX-Bold.otf
+STIX-Bold.otf
 0
 1
 STIX
@@ -17683,7 +17683,7 @@ STIX-Bold
 0
 0
 769
-comfortaa/Comfortaa-Regular.ttf
+Comfortaa-Regular.ttf
 0
 1
 Comfortaa
@@ -17705,7 +17705,7 @@ Comfortaa-Regular
 0
 0
 770
-noto/NotoSansChakma-Regular.ttf
+NotoSansChakma-Regular.ttf
 0
 1
 Noto Sans Chakma
@@ -17727,7 +17727,7 @@ NotoSansChakma-Regular
 0
 0
 771
-lm/lmromancaps10-regular.otf
+lmromancaps10-regular.otf
 0
 1
 Latin Modern Roman Caps
@@ -17750,7 +17750,7 @@ LMRomanCaps10-Regular
 1
 256
 772
-noto/NotoSansSharada-Regular.ttf
+NotoSansSharada-Regular.ttf
 0
 1
 Noto Sans Sharada
@@ -17772,7 +17772,7 @@ NotoSansSharada-Regular
 0
 0
 773
-tex-gyre/texgyrepagella-regular.otf
+texgyrepagella-regular.otf
 0
 1
 TeX Gyre Pagella
@@ -17794,7 +17794,7 @@ TeXGyrePagella-Regular
 0
 0
 774
-linux-libertine/LinLibertine_RI.otf
+LinLibertine_RI.otf
 0
 1
 Linux Libertine O
@@ -17816,7 +17816,7 @@ LinLibertineOI
 0
 0
 775
-fonts/fonts-go/Go-Italic.ttf
+Go-Italic.ttf
 0
 1
 Go
@@ -17838,7 +17838,7 @@ Go-Italic
 0
 0
 776
-gentium-basic/GenBkBasR.ttf
+GenBkBasR.ttf
 0
 1
 Gentium Book Basic
@@ -17860,7 +17860,7 @@ GentiumBookBasic
 0
 0
 777
-noto/NotoSansMyanmar-Regular.ttf
+NotoSansMyanmar-Regular.ttf
 0
 1
 Noto Sans Myanmar
@@ -17882,7 +17882,7 @@ NotoSansMyanmar-Regular
 0
 0
 778
-tlwg/TlwgMono.otf
+TlwgMono.otf
 0
 1
 Tlwg Mono
@@ -17904,7 +17904,7 @@ TlwgMono
 0
 0
 779
-artemisia/GFSArtemisia.otf
+GFSArtemisia.otf
 0
 1
 GFS Artemisia
@@ -17927,7 +17927,7 @@ GFSArtemisia-Regular
 0
 0
 780
-adf/AccanthisADFStdNo2-BoldItalic.otf
+AccanthisADFStdNo2-BoldItalic.otf
 0
 1
 Accanthis ADF Std No2
@@ -17949,7 +17949,7 @@ AccanthisADFStdNo2-BoldItalic
 0
 0
 781
-lm/lmroman8-regular.otf
+lmroman8-regular.otf
 0
 1
 Latin Modern Roman
@@ -17972,7 +17972,7 @@ LMRoman8-Regular
 1
 256
 782
-noto/NotoNastaliqUrdu-Regular.ttf
+NotoNastaliqUrdu-Regular.ttf
 0
 1
 Noto Nastaliq Urdu
@@ -17994,7 +17994,7 @@ NotoNastaliqUrdu-Regular
 0
 0
 783
-tex-gyre-math/texgyredejavu-math.otf
+texgyredejavu-math.otf
 0
 1
 TeX Gyre DejaVu Math
@@ -18016,7 +18016,7 @@ TeXGyreDejaVuMath-Regular
 0
 0
 784
-tex-gyre/texgyrebonum-italic.otf
+texgyrebonum-italic.otf
 0
 1
 TeX Gyre Bonum
@@ -18039,7 +18039,7 @@ TeXGyreBonum-Italic
 2
 256
 785
-gentiumplus/GentiumPlus-I.ttf
+GentiumPlus-I.ttf
 0
 1
 Gentium Plus
@@ -18061,7 +18061,7 @@ GentiumPlus-Italic
 0
 0
 786
-texlive-fonts-recommended/pcrr8a.pfb
+pcrr8a.pfb
 0
 1
 Courier
@@ -18083,7 +18083,7 @@ Courier
 0
 0
 787
-tex-gyre/texgyrecursor-italic.otf
+texgyrecursor-italic.otf
 0
 1
 TeX Gyre Cursor
@@ -18106,7 +18106,7 @@ TeXGyreCursor-Italic
 2
 256
 788
-stix/STIXNonUnicode-BoldItalic.otf
+STIXNonUnicode-BoldItalic.otf
 0
 1
 STIXNonUnicode
@@ -18128,7 +18128,7 @@ STIXNonUnicode-BoldItalic
 0
 0
 789
-neohellenic/GFSNeohellenicBold.otf
+GFSNeohellenicBold.otf
 0
 1
 GFS Neohellenic
@@ -18151,7 +18151,7 @@ GFSNeohellenic-Bold
 0
 0
 790
-tex-gyre/texgyreadventor-bolditalic.otf
+texgyreadventor-bolditalic.otf
 0
 1
 TeX Gyre Adventor
@@ -18173,7 +18173,7 @@ TeXGyreAdventor-BoldItalic
 0
 0
 791
-cantarell/Cantarell-Bold.otf
+Cantarell-Bold.otf
 0
 1
 Cantarell
@@ -18195,7 +18195,7 @@ Cantarell-Bold
 0
 0
 792
-noto/NotoSerifTamil-Bold.ttf
+NotoSerifTamil-Bold.ttf
 0
 1
 Noto Serif Tamil
@@ -18217,7 +18217,7 @@ NotoSerifTamil-Bold
 0
 0
 793
-noto/NotoSansOriya-Regular.ttf
+NotoSansOriya-Regular.ttf
 0
 1
 Noto Sans Oriya
@@ -18239,7 +18239,7 @@ NotoSansOriya
 0
 0
 794
-lm/lmromandunh10-regular.otf
+lmromandunh10-regular.otf
 0
 1
 Latin Modern Roman Dunhill
@@ -18262,7 +18262,7 @@ LMRomanDunh10-Regular
 1
 256
 795
-unfonts-core/UnDinaruBold.ttf
+UnDinaruBold.ttf
 0
 2
 UnDinaru
@@ -18286,7 +18286,7 @@ UnDinaru-Bold
 0
 0
 796
-noto/NotoSansEgyptianHieroglyphs-Regular.ttf
+NotoSansEgyptianHieroglyphs-Regular.ttf
 0
 1
 Noto Sans Egyptian Hieroglyphs
@@ -18308,7 +18308,7 @@ NotoSansEgyptianHieroglyphs-Regular
 0
 0
 797
-unfonts-extra/UnShinmun.ttf
+UnShinmun.ttf
 0
 2
 UnShinmun
@@ -18332,7 +18332,7 @@ UnShinmun
 0
 0
 798
-padauk/Padauk-Regular.ttf
+Padauk-Regular.ttf
 0
 1
 Padauk
@@ -18354,7 +18354,7 @@ Padauk-Regular
 0
 0
 799
-dejavu/DejaVuSansCondensed-Bold.ttf
+DejaVuSansCondensed-Bold.ttf
 0
 1
 DejaVu Sans
@@ -18376,7 +18376,7 @@ DejaVuSansCondensed-Bold
 0
 0
 800
-gsfonts/b018035l.pfb
+b018035l.pfb
 0
 1
 URW Bookman L
@@ -18398,7 +18398,7 @@ URWBookmanL-DemiBoldItal
 0
 0
 801
-noto/NotoSansThaana-Regular.ttf
+NotoSansThaana-Regular.ttf
 0
 1
 Noto Sans Thaana
