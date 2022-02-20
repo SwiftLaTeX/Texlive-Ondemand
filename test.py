@@ -1,8 +1,10 @@
-import re
-
-regex = re.compile(r'[^a-zA-Z0-9 _\-\.]')
-
-def san(name):
-    return regex.sub('', name)
-
-print(san("../../hello"))
+import pykpathsea_xetex
+import os
+fp = open("dump2.txt")
+for line in fp:
+    line = line.strip()
+    base = os.path.basename(line)
+    if line.endswith(".woff"):
+        ans = pykpathsea_xetex.find_file(base, 36)
+        if ans:
+            print(line)
