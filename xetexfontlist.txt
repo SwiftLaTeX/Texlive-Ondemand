@@ -1,0 +1,18421 @@
+0
+STIXIntegralsSm-Regular.otf
+0
+1
+STIXIntegralsSm
+1
+Regular
+1
+STIXIntegralsSm-Regular
+STIXIntegralsSm-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+1
+ipag.ttf
+0
+2
+IPAGothic
+IPAゴシック
+1
+Regular
+2
+IPAGothic
+IPAゴシック
+IPAGothic
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+2
+GilliusADFNo2-BoldItalic.otf
+0
+1
+Gillius ADF No2
+1
+Bold Italic
+1
+GilliusADFNo2-BoldItalic
+GilliusADFNo2-BoldItalic
+
+700
+5
+176
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+3
+NotoSansArabic-Regular.ttf
+0
+1
+Noto Sans Arabic
+1
+Regular
+1
+Noto Sans Arabic Regular
+NotoSansArabic-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+4
+Tinos-Regular.ttf
+0
+1
+Tinos
+1
+Regular
+1
+Tinos
+Tinos
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+5
+putri8a.pfb
+0
+1
+Utopia
+1
+Italic
+1
+Utopia Italic
+Utopia-Italic
+
+80
+100
+100
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+6
+EBGaramond08-Italic.woff
+0
+1
+EB Garamond
+1
+08 Italic
+1
+EB Garamond 08 Italic
+EBGaramond08-Italic
+
+400
+5
+249
+0
+0
+1
+8.030000
+0.000000
+9.435250
+2
+256
+7
+StandardSymbolsPS.otf
+0
+1
+Standard Symbols PS
+1
+Regular
+1
+Standard Symbols PS
+StandardSymbolsPS
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+8
+texgyretermes-italic.otf
+0
+1
+TeX Gyre Termes
+1
+Italic
+2
+TeX Gyre Termes Italic
+TeXGyreTermes-Italic
+TeXGyreTermes-Italic
+
+400
+5
+267
+0
+0
+1
+10.037500
+5.018750
+20.075000
+2
+256
+9
+P052-Roman.t1
+0
+1
+P052
+1
+Roman
+1
+P052 Roman
+P052-Roman
+
+100
+100
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+10
+bchbi8a.pfb
+0
+1
+Bitstream Charter
+1
+Bold Italic
+1
+Bitstream Charter Bold Italic
+CharterBT-BoldItalic
+
+200
+100
+100
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+11
+Roboto-Medium.ttf
+0
+1
+Roboto
+1
+Medium
+1
+Roboto Medium
+Roboto-Medium
+
+500
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+12
+NotoSansKayahLi-Regular.ttf
+0
+1
+Noto Sans Kayah Li
+1
+Regular
+1
+Noto Sans Kayah Li Regular
+NotoSansKayahLi-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+13
+NotoSansGeorgian-Regular.ttf
+0
+1
+Noto Sans Georgian
+1
+Regular
+1
+Noto Sans Georgian Regular
+NotoSansGeorgian-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+14
+NotoSerifMyanmar-Regular.ttf
+0
+1
+Noto Serif Myanmar
+1
+Regular
+1
+Noto Serif Myanmar Regular
+NotoSerifMyanmar-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+15
+Lato-Hairline.ttf
+0
+1
+Lato
+1
+Hairline
+1
+Lato Hairline
+Lato-Hairline
+
+100
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+16
+NotoSansKannada-Regular.ttf
+0
+1
+Noto Sans Kannada
+1
+Regular
+1
+Noto Sans Kannada Regular
+NotoSansKannada-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+17
+NotoSerifKannada-Regular.ttf
+0
+1
+Noto Serif Kannada
+1
+Regular
+1
+Noto Serif Kannada Regular
+NotoSerifKannada-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+18
+Lato-Italic.ttf
+0
+1
+Lato
+1
+Italic
+1
+Lato Italic
+Lato-Italic
+
+400
+5
+122
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+19
+c059036l.pfb
+0
+1
+Century Schoolbook L
+1
+Bold Italic
+1
+Century Schoolbook L Bold Italic
+CenturySchL-BoldItal
+
+200
+100
+100
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+20
+NotoSerifDisplay-Bold.ttf
+0
+1
+Noto Serif Display
+1
+Bold
+1
+Noto Serif Display Bold
+NotoSerifDisplay-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+21
+Norasi-BoldItalic.otf
+0
+1
+Norasi
+1
+Bold Italic
+1
+Norasi Bold Italic
+Norasi-BoldItalic
+
+700
+5
+277
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+22
+DejaVuSerif-Italic.ttf
+0
+1
+DejaVu Serif
+1
+Italic
+1
+DejaVu Serif Italic
+DejaVuSerif-Italic
+
+400
+5
+194
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+23
+Gentium-R.ttf
+0
+1
+Gentium
+1
+Regular
+1
+Gentium
+Gentium
+
+400
+5
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+24
+Cousine-Bold.ttf
+0
+1
+Cousine
+1
+Bold
+1
+Cousine Bold
+Cousine-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+25
+URWBookman-Light.t1
+0
+1
+URW Bookman
+1
+Light
+1
+URW Bookman Light
+URWBookman-Light
+
+50
+100
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+26
+NotoSansCherokee-Bold.ttf
+0
+1
+Noto Sans Cherokee
+1
+Bold
+1
+Noto Sans Cherokee Bold
+NotoSansCherokee-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+27
+a010013l.pfb
+0
+1
+URW Gothic L
+1
+Book
+1
+URW Gothic L Book
+URWGothicL-Book
+
+75
+100
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+28
+EBGaramond-Initials.woff
+0
+1
+EB Garamond Initials
+1
+Regular
+1
+EB Garamond Initials
+EBGaramondInitials
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+29
+GFSBodoniClassic.otf
+0
+1
+GFS BodoniClassic
+1
+Regular
+2
+GFS BodoniClassic
+GFSBodoniClassic-Regular
+GFSBodoniClassic-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+30
+NotoSerifGujarati-Bold.ttf
+0
+1
+Noto Serif Gujarati
+1
+Bold
+1
+Noto Serif Gujarati Bold
+NotoSerifGujarati-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+31
+EBGaramond08-Regular.woff
+0
+1
+EB Garamond
+1
+08 Regular
+1
+EB Garamond 08 Regular
+EBGaramond08-Regular
+
+400
+5
+0
+1
+0
+0
+8.030000
+0.000000
+9.435250
+1
+256
+32
+AccanthisADFStd-Bold.otf
+0
+1
+Accanthis ADF Std
+1
+Bold
+1
+AccanthisADFStd-Bold
+AccanthisADFStd-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+33
+NotoSansOsage-Regular.ttf
+0
+1
+Noto Sans Osage
+1
+Regular
+1
+Noto Sans Osage Regular
+NotoSansOsage-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+34
+gulim.ttf
+0
+2
+Baekmuk Gulim
+백묵 굴림
+1
+Regular
+2
+Baekmuk Gulim
+백묵 굴림
+Baekmuk-Gulim
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+35
+GilliusADFNo2-Regular.otf
+0
+1
+Gillius ADF No2
+1
+Regular
+1
+GilliusADFNo2-Regular
+GilliusADFNo2-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+36
+fonts-japanese-mincho.ttf
+0
+2
+IPAexMincho
+IPAex明朝
+1
+Regular
+2
+IPAexMincho
+IPAex明朝
+IPAexMincho
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+37
+texgyreheros-bolditalic.otf
+0
+1
+TeX Gyre Heros
+1
+Bold Italic
+2
+TeX Gyre Heros Bold Italic
+TeXGyreHeros-BoldItalic
+TeXGyreHeros-BoldItalic
+
+700
+5
+212
+0
+1
+1
+10.037500
+5.018750
+20.075000
+4
+256
+38
+LinLibertine_R.otf
+0
+1
+Linux Libertine O
+1
+Regular
+1
+Linux Libertine O
+LinLibertineO
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+39
+NimbusSans-Regular.otf
+0
+1
+Nimbus Sans
+1
+Regular
+2
+Nimbus Sans
+NimbusSans-Regular
+NimbusSans-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+40
+NimbusSansNarrow-Bold.otf
+0
+1
+Nimbus Sans Narrow
+1
+Bold
+2
+Nimbus Sans Narrow Bold
+NimbusSansNarrow-Bold
+NimbusSansNarrow-Bold
+
+700
+4
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+41
+FreeMono.ttf
+0
+1
+FreeMono
+22
+Regular
+нормален
+normal
+obyčejné
+Standard
+µεσαία
+Normal
+Normaali
+Normál
+Normale
+Standaard
+Normalny
+Обычный
+Normálne
+menengah
+прямій
+navadno
+vidējs
+normalusis
+thường
+Arrunta
+सामान्य
+1
+FreeMono
+FreeMono
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+42
+putb8a.pfb
+0
+1
+Utopia
+1
+Bold
+1
+Utopia Bold
+Utopia-Bold
+
+200
+100
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+43
+lmmonolt10-boldoblique.otf
+0
+1
+Latin Modern Mono Light
+1
+10 Bold Oblique
+2
+Latin Modern Mono Light 10 Bold Oblique
+LMMonoLt10-BoldOblique
+LMMonoLt10-BoldOblique
+
+700
+5
+166
+0
+1
+1
+10.037500
+5.018750
+20.075000
+4
+256
+44
+GenBkBasB.ttf
+0
+1
+Gentium Book Basic
+1
+Bold
+1
+Gentium Book Basic Bold
+GentiumBookBasic-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+45
+Go-Mono.ttf
+0
+1
+Go Mono
+1
+Regular
+1
+Go Mono
+GoMono
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+46
+n021024l.pfb
+0
+1
+Nimbus Roman No9 L
+1
+Medium Italic
+1
+Nimbus Roman No9 L Medium Italic
+NimbusRomNo9L-MediItal
+
+200
+100
+100
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+47
+NotoSans-Bold.ttf
+0
+1
+Noto Sans
+1
+Bold
+1
+Noto Sans Bold
+NotoSans-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+48
+EBGaramond-InitialsF2.otf
+0
+1
+EB Garamond Initials Fill2
+1
+Regular
+1
+EB Garamond Initials Fill2
+EBGaramondInitialsF2
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+49
+EBGaramond-InitialsF1.ttf
+0
+1
+EB Garamond Initials Fill1
+1
+Regular
+1
+EB Garamond Initials Fill1
+EBGaramondInitialsF1
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+50
+NotoSansPhagsPa-Regular.ttf
+0
+1
+Noto Sans PhagsPa
+1
+Regular
+1
+Noto Sans PhagsPa Regular
+NotoSansPhagsPa-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+51
+Cantarell-Light.otf
+0
+1
+Cantarell
+1
+Light
+1
+Cantarell Light
+Cantarell-Light
+
+300
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+52
+NotoSans-Regular.ttf
+0
+1
+Noto Sans
+1
+Regular
+1
+Noto Sans Regular
+NotoSans-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+53
+GFSBaskerville.otf
+0
+1
+GFS Baskerville
+1
+Regular
+2
+GFS Baskerville Regular
+GFSBaskerville-Regular
+GFSBaskerville-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+54
+NotoSansTibetan-Regular.ttf
+0
+1
+Noto Sans Tibetan
+1
+Regular
+1
+Noto Sans Tibetan
+NotoSansTibetan
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+55
+NotoSansBengali-Regular.ttf
+0
+1
+Noto Sans Bengali
+1
+Regular
+1
+Noto Sans Bengali Regular
+NotoSansBengali-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+56
+texgyrepagella-bolditalic.otf
+0
+1
+TeX Gyre Pagella
+1
+Bold Italic
+1
+TeXGyrePagella-BoldItalic
+TeXGyrePagella-BoldItalic
+
+700
+5
+176
+0
+1
+1
+10.037500
+0.000000
+0.000000
+0
+0
+57
+ipam.ttf
+0
+2
+IPAMincho
+IPA明朝
+1
+Regular
+2
+IPAMincho
+IPA明朝
+IPAMincho
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+58
+texgyreschola-regular.otf
+0
+1
+TeX Gyre Schola
+1
+Regular
+2
+TeX Gyre Schola
+TeXGyreSchola-Regular
+TeXGyreSchola-Regular
+
+400
+5
+0
+1
+0
+0
+10.037500
+5.018750
+20.075000
+1
+256
+59
+Roboto-Bold.ttf
+0
+1
+Roboto
+1
+Bold
+1
+Roboto Bold
+Roboto-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+60
+bchb8a.pfb
+0
+1
+Bitstream Charter
+1
+Bold
+1
+Bitstream Charter Bold
+CharterBT-Bold
+
+200
+100
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+61
+FreeSansBold.ttf
+0
+1
+FreeSans
+29
+Bold
+получерен
+negreta
+tučné
+fed
+Fett
+Έντονα
+Negrita
+Lihavoitu
+Gras
+Félkövér
+Grassetto
+Vet
+Halvfet
+Pogrubiony
+Negrito
+gros
+Полужирный
+Tučné
+Fet
+Kalın
+huruf tebal
+жирний
+Krepko
+treknraksts
+pusjuodis
+đậm
+Lodia
+धृष्ट
+29
+FreeSans Bold
+FreeSans получерен
+FreeSans negreta
+FreeSans tučné
+FreeSans fed
+FreeSans Fett
+Free Sans Έντονα
+FreeSans Negrita
+FreeSans Lihavoitu
+FreeSans Gras
+FreeSans Félkövér
+FreeSans Grassetto
+FreeSans Vet
+FreeSans Halvfet
+FreeSans Pogrubiony
+FreeSans Negrito
+FreeSans gros
+FreeSans Полужирный
+FreeSans Tučné
+FreeSans Fet
+FreeSans Kalın
+FreeSans huruf tebal
+FreeSans жирний
+FreeSans Krepko
+FreeSans treknraksts
+FreeSans pusjuodis
+FreeSans đậm
+FreeSans Lodia
+FreeSans धृष्ट
+FreeSansBold
+
+600
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+62
+lmmonoprop10-oblique.otf
+0
+1
+Latin Modern Mono Prop
+1
+10 Oblique
+2
+Latin Modern Mono Prop 10 Oblique
+LMMonoProp10-Oblique
+LMMonoProp10-Oblique
+
+400
+5
+166
+0
+0
+1
+10.037500
+5.018750
+20.075000
+2
+256
+63
+GentiumPlus-R.ttf
+0
+1
+Gentium Plus
+1
+Regular
+1
+Gentium Plus
+GentiumPlus
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+64
+TlwgTypewriter-Oblique.otf
+0
+1
+Tlwg Typewriter
+1
+Oblique
+1
+Tlwg Typewriter Oblique
+TlwgTypewriter-Oblique
+
+400
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+65
+RobotoCondensed-Bold.ttf
+0
+1
+Roboto Condensed
+1
+Bold
+1
+Roboto Condensed Bold
+RobotoCondensed-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+66
+OpenSans-Semibold.ttf
+0
+1
+Open Sans
+1
+Semibold
+1
+Open Sans Semibold
+OpenSans-Semibold
+
+600
+5
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+67
+lmroman7-italic.otf
+0
+1
+Latin Modern Roman
+1
+7 Italic
+2
+Latin Modern Roman 7 Italic
+LMRoman7-Italic
+LMRoman7-Italic
+
+400
+5
+249
+0
+0
+1
+7.026250
+4.015000
+7.528125
+2
+256
+68
+NotoSansLepcha-Regular.ttf
+0
+1
+Noto Sans Lepcha
+1
+Regular
+1
+Noto Sans Lepcha Regular
+NotoSansLepcha-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+69
+STIXSizeOneSym-Regular.otf
+0
+1
+STIXSizeOneSym
+1
+Regular
+1
+STIXSizeOneSym-Regular
+STIXSizeOneSym-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+70
+RobotoCondensed-Italic.ttf
+0
+1
+Roboto Condensed
+1
+Italic
+1
+Roboto Condensed Italic
+RobotoCondensed-Italic
+
+400
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+71
+NimbusSans-Italic.otf
+0
+1
+Nimbus Sans
+1
+Italic
+2
+Nimbus Sans Italic
+NimbusSans-Italic
+NimbusSans-Italic
+
+400
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+72
+DejaVuSerifCondensed-Bold.ttf
+0
+1
+DejaVu Serif
+1
+Condensed Bold
+1
+DejaVu Serif Condensed Bold
+DejaVuSerifCondensed-Bold
+
+700
+4
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+73
+Garuda-Oblique.otf
+0
+1
+Garuda
+1
+Oblique
+1
+Garuda Oblique
+Garuda-Oblique
+
+400
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+74
+NimbusMonoPS-Italic.t1
+0
+1
+Nimbus Mono PS
+1
+Italic
+1
+Nimbus Mono PS Italic
+NimbusMonoPS-Italic
+
+80
+100
+100
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+75
+NotoSansTagalog-Regular.ttf
+0
+1
+Noto Sans Tagalog
+1
+Regular
+1
+Noto Sans Tagalog Regular
+NotoSansTagalog-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+76
+NotoSerifGurmukhi-Bold.ttf
+0
+1
+Noto Serif Gurmukhi
+1
+Bold
+1
+Noto Serif Gurmukhi Bold
+NotoSerifGurmukhi-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+77
+URWBookman-DemiItalic.t1
+0
+1
+URW Bookman
+1
+Demi Italic
+1
+URW Bookman Demi Italic
+URWBookman-DemiItalic
+
+180
+100
+100
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+78
+NotoSerifTibetan-Bold.ttf
+0
+1
+Noto Serif Tibetan
+1
+Bold
+1
+Noto Serif Tibetan Bold
+NotoSerifTibetan-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+79
+lmmonoslant10-regular.otf
+0
+1
+Latin Modern Mono Slanted
+1
+10 Regular
+2
+Latin Modern Mono Slanted 10 Regular
+LMMonoSlant10-Regular
+LMMonoSlant10-Regular
+
+400
+5
+166
+1
+0
+0
+10.037500
+5.018750
+20.075000
+1
+256
+80
+NotoSerifBengali-Regular.ttf
+0
+1
+Noto Serif Bengali
+1
+Regular
+1
+Noto Serif Bengali Regular
+NotoSerifBengali-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+81
+GenBasI.ttf
+0
+1
+Gentium Basic
+1
+Italic
+1
+Gentium Basic Italic
+GentiumBasic-Italic
+
+400
+5
+140
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+82
+NotoSerif-Regular.ttf
+0
+1
+Noto Serif
+1
+Regular
+1
+Noto Serif Regular
+NotoSerif-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+83
+TlwgTypist.otf
+0
+1
+Tlwg Typist
+1
+Regular
+1
+Tlwg Typist
+TlwgTypist
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+84
+Lato-Heavy.ttf
+0
+1
+Lato
+1
+Heavy
+1
+Lato Heavy
+Lato-Heavy
+
+800
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+85
+NotoSansMiao-Regular.ttf
+0
+1
+Noto Sans Miao
+1
+Regular
+1
+Noto Sans Miao Regular
+NotoSansMiao-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+86
+OpenSans-ExtraBoldItalic.ttf
+0
+1
+Open Sans
+1
+Extrabold Italic
+1
+Open Sans Extrabold Italic
+OpenSans-ExtraboldItalic
+
+800
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+87
+UnPilgiBold.ttf
+0
+2
+UnPilgi
+은 필기
+1
+Bold
+2
+Un Pilgi Bold
+굵은 은 필기
+UnPilgi-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+88
+FreeSerif.otf
+0
+1
+FreeSerif
+24
+Regular
+нормален
+normal
+obyčejné
+Mittel
+µεσαία
+Normal
+Normaali
+Normál
+Normale
+Gemiddeld
+odmiana zwykła
+Обычный
+Normálne
+ปกติ
+menengah
+прямій
+Navadno
+vidējs
+normalusis
+عادی
+vừa
+Arrunta
+सामान्य
+1
+FreeSerif
+FreeSerif
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+89
+NotoSansGlagolitic-Regular.ttf
+0
+1
+Noto Sans Glagolitic
+1
+Regular
+1
+Noto Sans Glagolitic Regular
+NotoSansGlagolitic-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+90
+texgyrepagella-bold.otf
+0
+1
+TeX Gyre Pagella
+1
+Bold
+1
+TeXGyrePagella-Bold
+TeXGyrePagella-Bold
+
+700
+5
+0
+0
+1
+0
+10.037500
+0.000000
+0.000000
+0
+0
+91
+NimbusRoman-BoldItalic.otf
+0
+1
+Nimbus Roman
+1
+Bold Italic
+2
+Nimbus Roman Bold Italic
+NimbusRoman-BoldItalic
+NimbusRoman-BoldItalic
+
+700
+5
+273
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+92
+STIXNonUnicode-Bold.otf
+0
+1
+STIXNonUnicode
+1
+Bold
+1
+STIXNonUnicode-Bold
+STIXNonUnicode-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+93
+n022023l.pfb
+0
+1
+Nimbus Mono L
+1
+Regular Oblique
+1
+Nimbus Mono L Regular Oblique
+NimbusMonL-ReguObli
+
+80
+100
+110
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+94
+NotoSansLinearA-Regular.ttf
+0
+1
+Noto Sans Linear A
+1
+Regular
+1
+Noto Sans Linear A Regular
+NotoSansLinearA-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+95
+NotoSansPauCinHau-Regular.ttf
+0
+1
+Noto Sans Pau Cin Hau
+1
+Regular
+1
+Noto Sans Pau Cin Hau Regular
+NotoSansPauCinHau-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+96
+NotoSerifEthiopic-Regular.ttf
+0
+1
+Noto Serif Ethiopic
+1
+Regular
+1
+Noto Serif Ethiopic Regular
+NotoSerifEthiopic-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+97
+n022004l.pfb
+0
+1
+Nimbus Mono L
+1
+Bold
+1
+Nimbus Mono L Bold
+NimbusMonL-Bold
+
+200
+100
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+98
+lmsans10-boldoblique.otf
+0
+1
+Latin Modern Sans
+1
+10 Bold Oblique
+2
+Latin Modern Sans 10 Bold Oblique
+LMSans10-BoldOblique
+LMSans10-BoldOblique
+
+700
+5
+212
+0
+1
+1
+10.037500
+5.018750
+20.075000
+4
+256
+99
+NotoSansLinearB-Regular.ttf
+0
+1
+Noto Sans Linear B
+1
+Regular
+1
+Noto Sans Linear B Regular
+NotoSansLinearB-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+100
+DejaVuSans-Bold.ttf
+0
+1
+DejaVu Sans
+1
+Bold
+1
+DejaVu Sans Bold
+DejaVuSans-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+101
+Lato-Light.ttf
+0
+1
+Lato
+1
+Light
+1
+Lato Light
+Lato-Light
+
+300
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+102
+DejaVuMathTeXGyre.ttf
+0
+1
+DejaVu Math TeX Gyre
+1
+Regular
+1
+DejaVuMathTeXGyre-Regular
+DejaVuMathTeXGyre-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+103
+NotoSansKaithi-Regular.ttf
+0
+1
+Noto Sans Kaithi
+1
+Regular
+1
+Noto Sans Kaithi Regular
+NotoSansKaithi-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+104
+URWGothic-DemiOblique.otf
+0
+1
+URW Gothic
+1
+Demi Oblique
+2
+URW Gothic Demi Oblique
+URWGothic-DemiOblique
+URWGothic-DemiOblique
+
+600
+5
+185
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+105
+UnTaza.ttf
+0
+2
+UnTaza
+은 타자
+1
+Regular
+2
+Un Taza
+은 타자
+UnTaza
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+106
+GFSOlga.otf
+0
+1
+GFS Olga
+1
+Regular
+2
+GFS Olga
+GFSOlga-Regular
+GFSOlga-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+107
+Norasi-BoldOblique.otf
+0
+1
+Norasi
+1
+Bold Oblique
+1
+Norasi Bold Oblique
+Norasi-BoldOblique
+
+700
+5
+212
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+108
+GilliusADF-Bold.otf
+0
+1
+Gillius ADF
+1
+Bold
+1
+GilliusADF-Bold
+GilliusADF-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+109
+NotoSansGeorgian-Bold.ttf
+0
+1
+Noto Sans Georgian
+1
+Bold
+1
+Noto Sans Georgian Bold
+NotoSansGeorgian-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+110
+bsmi00lp.ttf
+0
+2
+AR PL Mingti2L Big5
+文鼎ＰＬ細上海宋
+1
+Regular
+2
+AR PL Mingti2L Big5
+文鼎ＰＬ細上海宋
+ShanHeiSun-Light
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+111
+OpenSans-Bold.ttf
+0
+1
+Open Sans
+1
+Bold
+1
+Open Sans Bold
+OpenSans-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+112
+EBGaramond12-Regular.otf
+0
+1
+EB Garamond
+1
+12 Regular
+1
+EB Garamond 12 Regular
+EBGaramond12-Regular
+
+400
+5
+0
+1
+0
+0
+12.045000
+9.535625
+120.450000
+1
+256
+113
+STIXSizeTwoSym-Bold.otf
+0
+1
+STIXSizeTwoSym
+1
+Bold
+1
+STIXSizeTwoSym-Bold
+STIXSizeTwoSym-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+114
+n022024l.pfb
+0
+1
+Nimbus Mono L
+1
+Bold Oblique
+1
+Nimbus Mono L Bold Oblique
+NimbusMonL-BoldObli
+
+200
+100
+110
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+115
+LinLibertine_DR.otf
+0
+1
+Linux Libertine Display O
+1
+Regular
+1
+Linux Libertine Display O
+LinLibertineDisplayO
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+116
+NotoSerifDisplay-Italic.ttf
+0
+1
+Noto Serif Display
+1
+Italic
+1
+Noto Serif Display Italic
+NotoSerifDisplay-Italic
+
+400
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+117
+NotoSansOldPersian-Regular.ttf
+0
+1
+Noto Sans Old Persian
+1
+Regular
+1
+Noto Sans Old Persian Regular
+NotoSansOldPersian-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+118
+NimbusRoman-Italic.t1
+0
+1
+Nimbus Roman
+1
+Italic
+1
+Nimbus Roman Italic
+NimbusRoman-Italic
+
+80
+100
+100
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+119
+NimbusMonoPS-Regular.t1
+0
+1
+Nimbus Mono PS
+1
+Regular
+1
+Nimbus Mono PS Regular
+NimbusMonoPS-Regular
+
+80
+100
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+120
+NotoSerifKhmer-Regular.ttf
+0
+1
+Noto Serif Khmer
+1
+Regular
+1
+Noto Serif Khmer Regular
+NotoSerifKhmer-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+121
+NotoSansTamil-Bold.ttf
+0
+1
+Noto Sans Tamil
+1
+Bold
+1
+Noto Sans Tamil Bold
+NotoSansTamil-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+122
+NimbusSansNarrow-Regular.otf
+0
+1
+Nimbus Sans Narrow
+1
+Regular
+2
+Nimbus Sans Narrow
+NimbusSansNarrow-Regular
+NimbusSansNarrow-Regular
+
+400
+4
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+123
+ipaexg.ttf
+0
+2
+IPAexGothic
+IPAexゴシック
+1
+Regular
+2
+IPAexGothic
+IPAexゴシック
+IPAexGothic
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+124
+LinLibertine_RB.otf
+0
+1
+Linux Libertine O
+1
+Bold
+1
+Linux Libertine O Bold
+LinLibertineOB
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+125
+STIXIntegralsUpSm-Regular.otf
+0
+1
+STIXIntegralsUpSm
+1
+Regular
+1
+STIXIntegralsUpSm-Regular
+STIXIntegralsUpSm-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+126
+lmsans8-oblique.otf
+0
+1
+Latin Modern Sans
+1
+8 Oblique
+2
+Latin Modern Sans 8 Oblique
+LMSans8-Oblique
+LMSans8-Oblique
+
+400
+5
+212
+0
+0
+1
+8.030000
+4.015000
+8.531875
+2
+256
+127
+NotoSansOgham-Regular.ttf
+0
+1
+Noto Sans Ogham
+1
+Regular
+1
+Noto Sans Ogham Regular
+NotoSansOgham-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+128
+OpenSans-CondBold.ttf
+0
+1
+Open Sans Condensed
+1
+Bold
+1
+Open Sans Condensed Bold
+OpenSans-CondensedBold
+
+700
+3
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+129
+STIX-Italic.otf
+0
+1
+STIX
+1
+Italic
+1
+STIX-Italic
+STIX-Italic
+
+400
+5
+292
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+130
+GilliusADFNo2-Bold.otf
+0
+1
+Gillius ADF No2
+1
+Bold
+1
+GilliusADFNo2-Bold
+GilliusADFNo2-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+131
+NotoSansDeseret-Regular.ttf
+0
+1
+Noto Sans Deseret
+1
+Regular
+1
+Noto Sans Deseret Regular
+NotoSansDeseret-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+132
+Amiri-Bold.ttf
+0
+1
+Amiri
+1
+Bold
+1
+Amiri Bold
+Amiri-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+133
+GFSNeohellenicIt.otf
+0
+1
+GFS Neohellenic
+1
+Italic
+2
+GFS Neohellenic Italic
+GFSNeohellenic-Italic
+GFSNeohellenic-Italic
+
+400
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+134
+NotoSansHebrew-Regular.ttf
+0
+1
+Noto Sans Hebrew
+1
+Regular
+1
+Noto Sans Hebrew Regular
+NotoSansHebrew-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+135
+Roboto-Light.ttf
+0
+1
+Roboto
+1
+Light
+1
+Roboto Light
+Roboto-Light
+
+300
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+136
+STIXGeneral-BoldItalic.otf
+0
+1
+STIXGeneral
+1
+Bold Italic
+1
+STIXGeneral-BoldItalic
+STIXGeneral-BoldItalic
+
+700
+5
+292
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+137
+NotoSansSymbols2-Regular.ttf
+0
+1
+Noto Sans Symbols2
+1
+Regular
+1
+Noto Sans Symbols2 Regular
+NotoSansSymbols2-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+138
+bchr8a.pfb
+0
+1
+Bitstream Charter
+1
+Regular
+1
+Bitstream Charter Regular
+CharterBT-Roman
+
+80
+100
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+139
+lmmonoproplt10-boldoblique.otf
+0
+1
+Latin Modern Mono Prop Light
+1
+10 BoldOblique
+2
+Latin Modern Mono Prop Light 10 BoldOblique
+LMMonoPropLt10-BoldOblique
+LMMonoPropLt10-BoldOblique
+
+700
+5
+166
+0
+1
+1
+10.037500
+5.018750
+20.075000
+4
+256
+140
+Kinnari-Italic.otf
+0
+1
+Kinnari
+1
+Italic
+1
+Kinnari Italic
+Kinnari-Italic
+
+400
+5
+277
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+141
+NotoSansLisu-Regular.ttf
+0
+1
+Noto Sans Lisu
+1
+Regular
+1
+Noto Sans Lisu Regular
+NotoSansLisu-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+142
+lmroman9-bold.otf
+0
+1
+Latin Modern Roman
+1
+9 Bold
+2
+Latin Modern Roman 9 Bold
+LMRoman9-Bold
+LMRoman9-Bold
+
+700
+5
+0
+0
+1
+0
+9.033750
+8.531875
+9.535625
+3
+256
+143
+NotoSansGurmukhi-Bold.ttf
+0
+1
+Noto Sans Gurmukhi
+1
+Bold
+1
+Noto Sans Gurmukhi Bold
+NotoSansGurmukhi-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+144
+lmsans9-oblique.otf
+0
+1
+Latin Modern Sans
+1
+9 Oblique
+2
+Latin Modern Sans 9 Oblique
+LMSans9-Oblique
+LMSans9-Oblique
+
+400
+5
+212
+0
+0
+1
+9.033750
+8.531875
+9.535625
+2
+256
+145
+UniversalisADFStd-CondItalic.otf
+0
+1
+Universalis ADF Std
+1
+Cond Italic
+1
+UniversalisADFStd-CondItalic
+UniversalisADFStd-CondItalic
+
+400
+3
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+146
+Amiri-Slanted.ttf
+0
+1
+Amiri
+1
+Slanted
+1
+Amiri Slanted
+Amiri-Slanted
+
+400
+5
+-176
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+147
+Umpush-Oblique.otf
+0
+1
+Umpush
+1
+Oblique
+1
+Umpush Oblique
+Umpush-Oblique
+
+400
+5
+176
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+148
+n019063l.pfb
+0
+1
+Nimbus Sans L
+1
+Regular Condensed Italic
+1
+Nimbus Sans L Regular Condensed Italic
+NimbusSanL-ReguCondItal
+
+80
+75
+100
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+149
+NotoSansCanadianAboriginal-Bold.ttf
+0
+1
+Noto Sans Canadian Aboriginal
+1
+Bold
+1
+Noto Sans Canadian Aboriginal Bold
+NotoSansCanadianAboriginal-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+150
+NotoSansHanunoo-Regular.ttf
+0
+1
+Noto Sans Hanunoo
+1
+Regular
+1
+Noto Sans Hanunoo Regular
+NotoSansHanunoo-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+151
+STIXGeneral-Regular.otf
+0
+1
+STIXGeneral
+1
+Regular
+1
+STIXGeneral-Regular
+STIXGeneral-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+152
+lmroman8-bold.otf
+0
+1
+Latin Modern Roman
+1
+8 Bold
+2
+Latin Modern Roman 8 Bold
+LMRoman8-Bold
+LMRoman8-Bold
+
+700
+5
+0
+0
+1
+0
+8.030000
+7.528125
+8.531875
+3
+256
+153
+Kinnari-Oblique.otf
+0
+1
+Kinnari
+1
+Oblique
+1
+Kinnari Oblique
+Kinnari-Oblique
+
+400
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+154
+Sawasdee-BoldOblique.otf
+0
+1
+Sawasdee
+1
+Bold Oblique
+1
+Sawasdee Bold Oblique
+Sawasdee-BoldOblique
+
+700
+5
+212
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+155
+n021004l.pfb
+0
+1
+Nimbus Roman No9 L
+1
+Medium
+1
+Nimbus Roman No9 L Medium
+NimbusRomNo9L-Medi
+
+200
+100
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+156
+Padauk-Bold.ttf
+0
+1
+Padauk
+1
+Bold
+1
+Padauk Bold
+Padauk-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+157
+Umpush-BoldOblique.otf
+0
+1
+Umpush
+1
+Bold Oblique
+1
+Umpush Bold Oblique
+Umpush-BoldOblique
+
+700
+5
+176
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+158
+texgyreadventor-regular.otf
+0
+1
+TeX Gyre Adventor
+1
+Regular
+1
+TeXGyreAdventor-Regular
+TeXGyreAdventor-Regular
+
+400
+5
+0
+1
+0
+0
+10.037500
+0.000000
+0.000000
+0
+0
+159
+NotoSansMeroitic-Regular.ttf
+0
+1
+Noto Sans Meroitic
+1
+Regular
+1
+Noto Sans Meroitic Regular
+NotoSansMeroitic-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+160
+Cabin-SemiBold.otf
+0
+1
+Cabin
+1
+SemiBold
+2
+Cabin SemiBold
+Cabin-SemiBold
+Cabin-SemiBold
+
+600
+5
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+161
+NotoMusic-Regular.ttf
+0
+1
+Noto Music
+1
+Regular
+1
+Noto Music Regular
+NotoMusic-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+162
+lmmonoproplt10-regular.otf
+0
+1
+Latin Modern Mono Prop Light
+1
+10 Regular
+2
+Latin Modern Mono Prop Light 10 Regular
+LMMonoPropLt10-Regular
+LMMonoPropLt10-Regular
+
+400
+5
+0
+1
+0
+0
+10.037500
+5.018750
+20.075000
+1
+256
+163
+NotoSansBengali-Bold.ttf
+0
+1
+Noto Sans Bengali
+1
+Bold
+1
+Noto Sans Bengali Bold
+NotoSansBengali-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+164
+FreeSerifBoldItalic.otf
+0
+1
+FreeSerif
+29
+Bold Italic
+получерен курсивен
+negreta cursiva
+tučné kurzíva
+fed kursiv
+Fett-Kursiv
+Negrita Cursiva
+Lihavoitu Kursivoi
+Gras Italique
+Félkövér dőlt
+Grassetto Corsivo
+Vet Cursief
+Halvfet Kursiv
+Pogrubiona kursywa
+Negrito Itálico
+gros cursiv
+Обычный Курсив
+Tučná kurzíva
+Fet Kursiv
+ตัวเอียงหนา
+Kalın İtalik
+huruf tebal kursif
+жирний курсив
+Polkrepko Pežeče
+treknais kursīvs
+pusjuodis kursyvas
+nghiêng đậm
+Lodi etzana
+धृष्ट-तिरछा
+29
+FreeSerif Bold Italic
+FreeSerif получерен курсивен
+FreeSerif negreta cursiva
+FreeSerif tučné kurzíva
+FreeSerif fed kursiv
+FreeSerif Fett-Kursiv
+FreeSerif Negrita Cursiva
+FreeSerif Lihavoitu Kursivoi
+FreeSerif Gras Italique
+FreeSerif Félkövér dőlt
+FreeSerif Grassetto Corsivo
+FreeSerif Vet Cursief
+FreeSerif Halvfet Kursiv
+FreeSerif Pogrubiona kursywa
+FreeSerif Negrito Itálico
+FreeSerif gros cursiv
+FreeSerif Обычный Курсив
+FreeSerif Tučná kurzíva
+FreeSerif Fet Kursiv
+FreeSerif ตัวเอียงหนา
+FreeSerif Kalın İtalik
+FreeSerif huruf tebal kursif
+FreeSerif жирний курсив
+FreeSerif Polkrepko Pežeče
+FreeSerif treknais kursīvs
+FreeSerif pusjuodis kursyvas
+FreeSerif nghiêng đậm
+FreeSerif Lodi etzana
+FreeSerif धृष्ट-तिरछा
+FreeSerifBoldItalic
+
+700
+5
+273
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+165
+lmromandemi10-oblique.otf
+0
+1
+Latin Modern Roman Demi
+1
+10 Oblique
+2
+Latin Modern Roman Demi 10 Oblique
+LMRomanDemi10-Oblique
+LMRomanDemi10-Oblique
+
+600
+5
+166
+0
+0
+1
+10.037500
+5.018750
+20.075000
+2
+256
+166
+NotoSansShavian-Regular.ttf
+0
+1
+Noto Sans Shavian
+1
+Regular
+1
+Noto Sans Shavian Regular
+NotoSansShavian-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+167
+UnGraphicBold.ttf
+0
+2
+UnGraphic
+은 그래픽
+1
+Bold
+2
+Un Graphic Bold
+굵은 은 그래픽
+UnGraphic-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+168
+NotoSerifSinhala-Regular.ttf
+0
+1
+Noto Serif Sinhala
+1
+Regular
+1
+Noto Serif Sinhala Regular
+NotoSerifSinhala-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+169
+FreeSans.otf
+0
+1
+FreeSans
+22
+Regular
+нормален
+Normal
+obyčejné
+normal
+Mittel
+µεσαία
+Normaali
+Normál
+Medio
+Gemiddeld
+Odmiana Zwykła
+Обычный
+Normálne
+menengah
+прямій
+Navadno
+vidējs
+normalusis
+vừa
+Arrunta
+सामान्य
+1
+FreeSans
+FreeSans
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+170
+TlwgTypo-BoldOblique.otf
+0
+1
+Tlwg Typo
+1
+Bold Oblique
+1
+Tlwg Typo Bold Oblique
+TlwgTypo-BoldOblique
+
+700
+5
+212
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+171
+NotoSerifDevanagari-Bold.ttf
+0
+1
+Noto Serif Devanagari
+1
+Bold
+1
+Noto Serif Devanagari Bold
+NotoSerifDevanagari-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+172
+lmmonolt10-regular.otf
+0
+1
+Latin Modern Mono Light
+1
+10 Regular
+2
+Latin Modern Mono Light 10 Regular
+LMMonoLt10-Regular
+LMMonoLt10-Regular
+
+400
+5
+0
+1
+0
+0
+10.037500
+5.018750
+20.075000
+1
+256
+173
+n019064l.pfb
+0
+1
+Nimbus Sans L
+1
+Bold Condensed Italic
+1
+Nimbus Sans L Bold Condensed Italic
+NimbusSanL-BoldCondItal
+
+200
+75
+100
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+174
+TlwgMono-BoldOblique.otf
+0
+1
+Tlwg Mono
+1
+Bold Oblique
+1
+Tlwg Mono Bold Oblique
+TlwgMono-BoldOblique
+
+700
+5
+212
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+175
+DejaVuSerifCondensed-BoldItalic.ttf
+0
+1
+DejaVu Serif
+1
+Condensed Bold Italic
+1
+DejaVu Serif Condensed Bold Italic
+DejaVuSerifCondensed-BoldItalic
+
+700
+4
+194
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+176
+NotoSansRejang-Regular.ttf
+0
+1
+Noto Sans Rejang
+1
+Regular
+1
+Noto Sans Rejang Regular
+NotoSansRejang-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+177
+GilliusADF-Cond.otf
+0
+1
+Gillius ADF
+1
+Condensed
+1
+GilliusADF-Cond
+GilliusADF-Cond
+
+400
+3
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+178
+NotoSansOldHungarian-Regular.ttf
+0
+1
+Noto Sans Old Hungarian
+1
+Regular
+1
+Noto Sans Old Hungarian Regular
+NotoSansOldHungarian-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+179
+NotoSerifArmenian-Bold.ttf
+0
+1
+Noto Serif Armenian
+1
+Bold
+1
+Noto Serif Armenian Bold
+NotoSerifArmenian-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+180
+NotoSansHanifiRohingya-Regular.ttf
+0
+1
+Noto Sans Hanifi Rohingya
+1
+Regular
+1
+Noto Sans Hanifi Rohingya Regular
+NotoSansHanifiRohingya-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+181
+NotoSerifSinhala-Bold.ttf
+0
+1
+Noto Serif Sinhala
+1
+Bold
+1
+Noto Serif Sinhala Bold
+NotoSerifSinhala-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+182
+NotoSansTirhuta-Regular.ttf
+0
+1
+Noto Sans Tirhuta
+1
+Regular
+1
+Noto Sans Tirhuta Regular
+NotoSansTirhuta-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+183
+NotoSerifDisplay-BoldItalic.ttf
+0
+1
+Noto Serif Display
+1
+Bold Italic
+1
+Noto Serif Display Bold Italic
+NotoSerifDisplay-BoldItalic
+
+700
+5
+212
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+184
+pcrbo8a.pfb
+0
+1
+Courier
+1
+Bold Italic
+1
+Courier Bold Italic
+Courier-BoldItalic
+
+200
+100
+100
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+185
+NotoSerifTamil-Regular.ttf
+0
+1
+Noto Serif Tamil
+1
+Regular
+1
+Noto Serif Tamil Regular
+NotoSerifTamil-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+186
+URWGothic-Demi.t1
+0
+1
+URW Gothic
+1
+Demi
+1
+URW Gothic Demi
+URWGothic-Demi
+
+180
+100
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+187
+texgyrepagella-italic.otf
+0
+1
+TeX Gyre Pagella
+1
+Italic
+1
+TeXGyrePagella-Italic
+TeXGyrePagella-Italic
+
+400
+5
+176
+0
+0
+1
+10.037500
+0.000000
+0.000000
+0
+0
+188
+LinLibertine_I.otf
+0
+1
+Linux Libertine Initials O
+1
+Initials
+1
+Linux Libertine Initials O
+LinLibertineIO
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+189
+Cabin-BoldItalic.otf
+0
+1
+Cabin
+1
+Bold Italic
+2
+Cabin Bold Italic
+Cabin-BoldItalic
+Cabin-BoldItalic
+
+700
+5
+0
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+190
+STIXGeneral-Bold.otf
+0
+1
+STIXGeneral
+1
+Bold
+1
+STIXGeneral-Bold
+STIXGeneral-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+191
+NotoSansTibetan-Bold.ttf
+0
+1
+Noto Sans Tibetan
+1
+Bold
+1
+Noto Sans Tibetan Bold
+NotoSansTibetan-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+192
+NotoSansKhudawadi-Regular.ttf
+0
+1
+Noto Sans Khudawadi
+1
+Regular
+1
+Noto Sans Khudawadi Regular
+NotoSansKhudawadi-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+193
+NotoSansCoptic-Regular.ttf
+0
+1
+Noto Sans Coptic
+1
+Regular
+1
+Noto Sans Coptic Regular
+NotoSansCoptic-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+194
+UniversalisADFStd-BoldItalic.otf
+0
+1
+Universalis ADF Std
+1
+Bold Italic
+1
+UniversalisADFStd-BoldItalic
+UniversalisADFStd-BoldItalic
+
+700
+5
+212
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+195
+UnDotumBold.ttf
+0
+2
+UnDotum
+은 돋움
+1
+Bold
+2
+Un Dotum Bold
+굵은 은 돋움
+UnDotum-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+196
+lmromandunh10-oblique.otf
+0
+1
+Latin Modern Roman Dunhill
+1
+10 Oblique
+2
+Latin Modern Roman Dunhill 10 Oblique
+LMRomanDunh10-Oblique
+LMRomanDunh10-Oblique
+
+400
+5
+166
+0
+0
+1
+10.037500
+5.018750
+20.075000
+2
+256
+197
+UnGungseo.ttf
+0
+2
+UnGungseo
+은 궁서
+1
+Regular
+2
+Un Gungseo
+은 궁서
+UnGungseo
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+198
+TlwgTypewriter.otf
+0
+1
+Tlwg Typewriter
+1
+Regular
+1
+Tlwg Typewriter
+TlwgTypewriter
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+199
+AccanthisADFStdNo3-BoldItalic.otf
+0
+1
+Accanthis ADF Std No3
+1
+Bold Italic
+1
+AccanthisADFStdNo3-BoldItalic
+AccanthisADFStdNo3-BoldItalic
+
+700
+5
+267
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+200
+Loma.otf
+0
+1
+Loma
+1
+Regular
+1
+Loma
+Loma
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+201
+GFSArtemisiaBoldIt.otf
+0
+1
+GFS Didot
+1
+Bold Italic
+2
+GFS Artemisia Bold Italic
+GFSArtemisia-BoldItalic
+GFSArtemisia-BoldItalic
+
+700
+5
+212
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+202
+GilliusADFNo2-Italic.otf
+0
+1
+Gillius ADF No2
+1
+Italic
+1
+GilliusADFNo2-Italic
+GilliusADFNo2-Italic
+
+400
+5
+176
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+203
+NotoSerifMalayalam-Bold.ttf
+0
+1
+Noto Serif Malayalam
+1
+Bold
+1
+Noto Serif Malayalam Bold
+NotoSerifMalayalam-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+204
+TlwgTypo-Oblique.otf
+0
+1
+Tlwg Typo
+1
+Oblique
+1
+Tlwg Typo Oblique
+TlwgTypo-Oblique
+
+400
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+205
+lmmono12-regular.otf
+0
+1
+Latin Modern Mono
+1
+12 Regular
+2
+Latin Modern Mono 12 Regular
+LMMono12-Regular
+LMMono12-Regular
+
+400
+5
+0
+1
+0
+0
+12.045000
+11.041250
+24.090000
+1
+256
+206
+P052-Italic.otf
+0
+1
+P052
+1
+Italic
+2
+P052 Italic
+P052-Italic
+P052-Italic
+
+400
+5
+167
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+207
+texgyrebonum-bolditalic.otf
+0
+1
+TeX Gyre Bonum
+1
+Bold Italic
+2
+TeX Gyre Bonum Bold Italic
+TeXGyreBonum-BoldItalic
+TeXGyreBonum-BoldItalic
+
+700
+5
+181
+0
+1
+1
+10.037500
+5.018750
+20.075000
+4
+256
+208
+DejaVuSansMono.ttf
+0
+1
+DejaVu Sans Mono
+1
+Book
+1
+DejaVu Sans Mono
+DejaVuSansMono
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+209
+OpenSans-Light.ttf
+0
+1
+Open Sans
+1
+Light
+1
+Open Sans Light
+OpenSans-Light
+
+300
+5
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+210
+EBGaramond12-AllSC.woff
+0
+1
+EB Garamond 12 All SC
+1
+AllSC
+1
+EB Garamond 12 Regular All SmallCaps
+EBGaramond12-AllSC
+
+400
+5
+0
+1
+0
+0
+12.045000
+9.535625
+120.450000
+6
+256
+211
+Kinnari-BoldItalic.otf
+0
+1
+Kinnari
+1
+Bold Italic
+1
+Kinnari Bold Italic
+Kinnari-BoldItalic
+
+700
+5
+273
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+212
+STIXMath-Regular.otf
+0
+1
+STIX Math
+1
+Regular
+2
+STIX Math Regular
+STIXMath-Regular
+STIXMath-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+213
+PadaukBook-Bold.ttf
+0
+1
+Padauk Book
+1
+Bold
+1
+Padauk Book Bold
+PadaukBook-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+214
+STIXNonUnicode-Regular.otf
+0
+1
+STIXNonUnicode
+1
+Regular
+1
+STIXNonUnicode-Regular
+STIXNonUnicode-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+215
+NotoSansInscriptionalPahlavi-Regular.ttf
+0
+1
+Noto Sans Inscriptional Pahlavi
+1
+Regular
+1
+Noto Sans Inscriptional Pahlavi Regular
+NotoSansInscriptionalPahlavi-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+216
+Roboto-ThinItalic.ttf
+0
+1
+Roboto
+1
+Thin Italic
+1
+Roboto Thin Italic
+Roboto-ThinItalic
+
+250
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+217
+FreeMonoBoldOblique.ttf
+0
+1
+FreeMono
+28
+Bold Oblique
+получерен наклонен
+Negreta cursiva
+tučné kurzíva
+fed kursiv
+Fett-Kursiv
+Έντονα Πλάγια
+Negrita Cursiva
+Lihavoitu Kursivoi
+Gras Italique
+Félkövér dőlt
+Grassetto Corsivo
+Vet Cursief
+Halvfet Kursiv
+Pogrubiona kursywa
+Negrito Itálico
+gros oblic
+Полужирный Курсив
+Tučná kurzíva
+Fet Kursiv
+Kalın İtalik
+huruf tebal miring
+жирний похилий
+polkrepko ležeče
+treknais slīpraksts
+pusjuodis pasvirasis
+Lodi etzana
+धृष्ट-तिरछा
+28
+FreeMono Bold Oblique
+FreeMono получерен наклонен
+FreeMono negreta cursiva
+FreeMono tučné kurzíva
+FreeMono fed kursiv
+FreeMono Fett-Kursiv
+FreeMono Έντονα Πλάγια
+FreeMono Negrita Cursiva
+FreeMono Lihavoitu Kursivoi
+FreeMono Gras Italique
+FreeMono Félkövér dőlt
+FreeMono Grassetto Corsivo
+FreeMono Vet Cursief
+FreeMono Halvfet Kursiv
+FreeMono Pogrubiona kursywa
+FreeMono Negrito Itálico
+FreeMono gros oblic
+FreeMono Полужирный Курсив
+FreeMono Tučná kurzíva
+FreeMono Fet Kursiv
+FreeMono Kalın İtalik
+FreeMono huruf tebal miring
+FreeMono жирний похилий
+FreeMono polkrepko ležeče
+FreeMono treknais slīpraksts
+FreeMono pusjuodis pasvirasis
+FreeMono Lodi etzana
+FreeMono धृष्ट-तिरछा
+FreeMonoBoldOblique
+
+700
+5
+212
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+218
+UnGraphic.ttf
+0
+2
+UnGraphic
+은 그래픽
+1
+Regular
+2
+Un Graphic
+은 그래픽
+UnGraphic
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+219
+putr8a.pfb
+0
+1
+Utopia
+1
+Regular
+1
+Utopia Regular
+Utopia-Regular
+
+80
+100
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+220
+NotoSansOldSogdian-Regular.ttf
+0
+1
+Noto Sans Old Sogdian
+1
+Regular
+1
+Noto Sans Old Sogdian Regular
+NotoSansOldSogdian-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+221
+texgyreadventor-italic.otf
+0
+1
+TeX Gyre Adventor
+1
+Italic
+1
+TeXGyreAdventor-Italic
+TeXGyreAdventor-Italic
+
+400
+5
+185
+0
+0
+1
+10.037500
+0.000000
+0.000000
+0
+0
+222
+Laksaman-BoldItalic.otf
+0
+1
+Laksaman
+1
+Bold Italic
+1
+Laksaman Bold Italic
+Laksaman-BoldItalic
+
+700
+5
+212
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+223
+Cabin-SemiBoldItalic.otf
+0
+1
+Cabin
+1
+SemiBold Italic
+2
+Cabin SemiBold Italic
+Cabin-SemiBoldItalic
+Cabin-SemiBoldItalic
+
+600
+5
+0
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+224
+EBGaramondSC12-Regular.ttf
+0
+1
+EB Garamond SC
+1
+12 Regular
+1
+EB Garamond SmallCaps 12 Regular
+EBGaramondSC12-Regular
+
+400
+5
+0
+1
+0
+0
+12.045000
+9.535625
+120.450000
+1
+256
+225
+texgyreschola-math.otf
+0
+1
+TeX Gyre Schola Math
+1
+Regular
+1
+TeXGyreScholaMath-Regular
+TeXGyreScholaMath-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+226
+UniversalisADFStd-BoldCondIt.otf
+0
+1
+Universalis ADF Std
+1
+Bold Cond Italic
+1
+UniversalisADFStd-BoldCondIt
+UniversalisADFStd-BoldCondIt
+
+700
+3
+212
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+227
+NotoSansTaiLe-Regular.ttf
+0
+1
+Noto Sans Tai Le
+1
+Regular
+1
+Noto Sans Tai Le Regular
+NotoSansTaiLe-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+228
+NotoSansDisplay-Italic.ttf
+0
+1
+Noto Sans Display
+1
+Italic
+1
+Noto Sans Display Italic
+NotoSansDisplay-Italic
+
+400
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+229
+lmmono10-regular.otf
+0
+1
+Latin Modern Mono
+1
+10 Regular
+2
+Latin Modern Mono 10 Regular
+LMMono10-Regular
+LMMono10-Regular
+
+400
+5
+0
+1
+0
+0
+10.037500
+9.535625
+11.041250
+1
+256
+230
+LinLibertine_M.otf
+0
+1
+Linux Libertine Mono O
+1
+Mono
+1
+Linux Libertine Mono O
+LinLibertineMO
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+231
+URWBookman-LightItalic.t1
+0
+1
+URW Bookman
+1
+Light Italic
+1
+URW Bookman Light Italic
+URWBookman-LightItalic
+
+50
+100
+100
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+232
+texgyreheros-regular.otf
+0
+1
+TeX Gyre Heros
+1
+Regular
+2
+TeX Gyre Heros
+TeXGyreHeros-Regular
+TeXGyreHeros-Regular
+
+400
+5
+0
+1
+0
+0
+10.037500
+5.018750
+20.075000
+1
+256
+233
+STIXVariants-Bold.otf
+0
+1
+STIXVariants
+1
+Bold
+1
+STIXVariants-Bold
+STIXVariants-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+234
+NotoSansMono-Bold.ttf
+0
+1
+Noto Sans Mono
+1
+Bold
+1
+Noto Sans Mono Bold
+NotoSansMono-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+235
+dotum.ttf
+0
+2
+Baekmuk Dotum
+백묵 돋움
+1
+Regular
+2
+Baekmuk Dotum
+백묵 돋움
+Baekmuk-Dotum
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+236
+NotoSansOsmanya-Regular.ttf
+0
+1
+Noto Sans Osmanya
+1
+Regular
+1
+Noto Sans Osmanya Regular
+NotoSansOsmanya-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+237
+GilliusADFNo2-CondItalic.otf
+0
+1
+Gillius ADF No2
+1
+Cond Italic
+1
+GilliusADFNo2-CondItalic
+GilliusADFNo2-CondItalic
+
+400
+3
+176
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+238
+lmsans10-oblique.otf
+0
+1
+Latin Modern Sans
+1
+10 Oblique
+2
+Latin Modern Sans 10 Oblique
+LMSans10-Oblique
+LMSans10-Oblique
+
+400
+5
+212
+0
+0
+1
+10.037500
+9.535625
+11.041250
+2
+256
+239
+NotoSansArabic-Bold.ttf
+0
+1
+Noto Sans Arabic
+1
+Bold
+1
+Noto Sans Arabic Bold
+NotoSansArabic-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+240
+GFSPolyglot.otf
+0
+1
+GFS Complutum
+1
+Regular
+1
+GFSComplutumClassic-Regular
+GFSComplutum-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+241
+lmmonolt10-oblique.otf
+0
+1
+Latin Modern Mono Light
+1
+10 Oblique
+2
+Latin Modern Mono Light 10 Oblique
+LMMonoLt10-Oblique
+LMMonoLt10-Oblique
+
+400
+5
+166
+0
+0
+1
+10.037500
+5.018750
+20.075000
+2
+256
+242
+Asana-Math.otf
+0
+1
+Asana Math
+1
+Regular
+1
+Asana Math
+Asana-Math
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+243
+UnDotum.ttf
+0
+2
+UnDotum
+은 돋움
+1
+Regular
+2
+Un Dotum
+은 돋움
+UnDotum
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+244
+GenBasR.ttf
+0
+1
+Gentium Basic
+1
+Regular
+1
+Gentium Basic
+GentiumBasic
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+245
+NotoSerifTelugu-Bold.ttf
+0
+1
+Noto Serif Telugu
+1
+Bold
+1
+Noto Serif Telugu Bold
+NotoSerifTelugu-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+246
+lmroman7-bold.otf
+0
+1
+Latin Modern Roman
+1
+7 Bold
+2
+Latin Modern Roman 7 Bold
+LMRoman7-Bold
+LMRoman7-Bold
+
+700
+5
+0
+0
+1
+0
+7.026250
+6.524375
+7.528125
+3
+256
+247
+lmsansquot8-oblique.otf
+0
+1
+Latin Modern Sans Quotation
+1
+8 Oblique
+2
+Latin Modern Sans Quotation 8 Oblique
+LMSansQuot8-Oblique
+LMSansQuot8-Oblique
+
+400
+5
+212
+0
+1
+1
+8.030000
+4.015000
+16.060000
+2
+256
+248
+NotoSansMalayalam-Regular.ttf
+0
+1
+Noto Sans Malayalam
+1
+Regular
+1
+Noto Sans Malayalam Regular
+NotoSansMalayalam-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+249
+NotoSerifThai-Bold.ttf
+0
+1
+Noto Serif Thai
+1
+Bold
+1
+Noto Serif Thai Bold
+NotoSerifThai-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+250
+lmsansdemicond10-oblique.otf
+0
+1
+Latin Modern Sans Demi Cond
+1
+10 Oblique
+2
+Latin Modern Sans Demi Cond 10 Oblique
+LMSansDemiCond10-Oblique
+LMSansDemiCond10-Oblique
+
+600
+5
+212
+0
+0
+1
+10.037500
+5.018750
+20.075000
+2
+256
+251
+LobsterTwo-Bold.otf
+0
+1
+Lobster Two
+1
+Bold
+2
+Lobster Two Bold
+LobsterTwo-Bold
+LobsterTwo-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+252
+FreeSansOblique.otf
+0
+1
+FreeSans
+26
+Oblique
+наклонен
+negreta cursiva
+kurzíva
+kursiv
+Kursiv
+Πλάγια
+Cursiva
+Kursivoitu
+Italique
+Dőlt
+Corsivo
+Cursief
+kursywa
+Itálico
+oblic
+Курсив
+İtalik
+huruf miring
+похилий
+Ležeče
+slīpraksts
+pasvirasis
+nghiêng
+Etzana
+तिरछा
+26
+FreeSans Oblique
+FreeSans наклонен
+FreeSans cursiva
+FreeSans kurzíva
+FreeSans kursiv
+FreeSans Kursiv
+FreeSans Πλάγια
+FreeSans Cursiva
+FreeSans Kursivoitu
+FreeSans Italique
+FreeSans Dőlt
+FreeSans Corsivo
+FreeSans Cursief
+FreeSans kursywa
+FreeSans Itálico
+FreeSans oblic
+FreeSans Курсив
+FreeSans İtalik
+FreeSans huruf miring
+FreeSans похилий
+FreeSans Ležeče
+FreeSans slīpraksts
+FreeSans pasvirasis
+FreeSans nghiêng
+FreeSans Etzana
+FreeSans तिरछा
+FreeSansOblique
+
+400
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+253
+NotoSansUgaritic-Regular.ttf
+0
+1
+Noto Sans Ugaritic
+1
+Regular
+1
+Noto Sans Ugaritic Regular
+NotoSansUgaritic-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+254
+NotoSansSoraSompeng-Regular.ttf
+0
+1
+Noto Sans Sora Sompeng
+1
+Regular
+1
+Noto Sans Sora Sompeng Regular
+NotoSansSoraSompeng-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+255
+OpenSans-ExtraBold.ttf
+0
+1
+Open Sans
+1
+Extrabold
+1
+Open Sans Extrabold
+OpenSans-Extrabold
+
+800
+5
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+256
+NotoSansIndicSiyaqNumbers-Regular.ttf
+0
+1
+Noto Sans Indic Siyaq Numbers
+1
+Regular
+1
+Noto Sans Indic Siyaq Numbers Regular
+NotoSansIndicSiyaqNumbers-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+257
+STIXIntegralsUpD-Bold.otf
+0
+1
+STIXIntegralsUpD
+1
+Bold
+1
+STIXIntegralsUpD-Bold
+STIXIntegralsUpD-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+258
+UnPen.ttf
+0
+2
+UnPen
+은 펜
+1
+Regular
+2
+Un Pen
+은 펜
+UnPen
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+259
+lmroman6-bold.otf
+0
+1
+Latin Modern Roman
+1
+6 Bold
+2
+Latin Modern Roman 6 Bold
+LMRoman6-Bold
+LMRoman6-Bold
+
+700
+5
+0
+0
+1
+0
+6.022500
+5.520625
+6.524375
+3
+256
+260
+Waree-Bold.otf
+0
+1
+Waree
+1
+Bold
+1
+Waree Bold
+Waree-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+261
+FreeSerifBold.ttf
+0
+1
+FreeSerif
+30
+Bold
+получерен
+negreta
+tučné
+fed
+Fett
+Negrita
+Lihavoitu
+Gras
+Félkövér
+Grassetto
+Vet
+Halvfet
+Pogrubiony
+Negrito
+gros
+Обычный
+Tučné
+Fet
+ตัวหนา
+Kalın
+huruf tebal
+жирний
+Polkrepko
+treknraksts
+pusjuodis
+ضخیم
+đậm
+Lodia
+धृष्ट
+30
+FreeSerif Bold
+FreeSerif получерен
+FreeSerif negreta
+FreeSerif tučné
+FreeSerif fed
+FreeSerif Fett
+FreeSerif Negrita
+FreeSerif Lihavoitu
+FreeSerif Gras
+FreeSerif Félkövér
+FreeSerif Grassetto
+FreeSerif Vet
+FreeSerif Halvfet
+FreeSerif Pogrubiony
+FreeSerif Negrito
+FreeSerif gros
+FreeSerif Обычный
+FreeSerif Tučné
+FreeSerif Fet
+FreeSerif ตัวหนา
+FreeSerif Kalın
+FreeSerif huruf tebal
+FreeSerif жирний
+FreeSerif Polkrepko
+FreeSerif treknraksts
+FreeSerif pusjuodis
+FreeSerif ضخیم
+FreeSerif đậm
+FreeSerif Lodia
+FreeSerif धृष्ट
+FreeSerifBold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+262
+Comfortaa-Light.ttf
+0
+1
+Comfortaa
+1
+Light
+1
+Comfortaa Light
+Comfortaa-Light
+
+300
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+263
+Cousine-Regular.ttf
+0
+1
+Cousine
+1
+Regular
+1
+Cousine
+Cousine
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+264
+ipamp.ttf
+0
+2
+IPAPMincho
+IPA P明朝
+1
+Regular
+2
+IPAPMincho
+IPA P明朝
+IPAPMincho
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+265
+lmroman5-bold.otf
+0
+1
+Latin Modern Roman
+1
+5 Bold
+2
+Latin Modern Roman 5 Bold
+LMRoman5-Bold
+LMRoman5-Bold
+
+700
+5
+0
+0
+1
+0
+5.018750
+3.011250
+5.520625
+3
+256
+266
+NotoSansKhmer-Bold.ttf
+0
+1
+Noto Sans Khmer
+1
+Bold
+1
+Noto Sans Khmer Bold
+NotoSansKhmer-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+267
+AccanthisADFStdNo2-Bold.otf
+0
+1
+Accanthis ADF Std No2
+1
+Bold
+1
+AccanthisADFStdNo2-Bold
+AccanthisADFStdNo2-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+268
+NotoSerifLao-Regular.ttf
+0
+1
+Noto Serif Lao
+1
+Regular
+1
+Noto Serif Lao Regular
+NotoSerifLao-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+269
+LinBiolinum_R.otf
+0
+1
+Linux Biolinum O
+1
+Regular
+1
+Linux Biolinum O
+LinBiolinumO
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+270
+Laksaman.otf
+0
+1
+Laksaman
+1
+Regular
+1
+Laksaman
+Laksaman
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+271
+lmsans12-oblique.otf
+0
+1
+Latin Modern Sans
+1
+12 Oblique
+2
+Latin Modern Sans 12 Oblique
+LMSans12-Oblique
+LMSans12-Oblique
+
+400
+5
+212
+0
+0
+1
+12.045000
+11.041250
+14.052500
+2
+256
+272
+BerenisADFProMath-Regular.otf
+0
+1
+Berenis ADF Pro Math
+1
+Regular
+1
+Berenis ADF Pro Math Regular
+BerenisADFProMath-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+273
+NotoSansGrantha-Regular.ttf
+0
+1
+Noto Sans Grantha
+1
+Regular
+1
+Noto Sans Grantha Regular
+NotoSansGrantha-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+274
+P052-BoldItalic.t1
+0
+1
+P052
+1
+Bold Italic
+1
+P052 Bold Italic
+P052-BoldItalic
+
+200
+100
+100
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+275
+NotoSansTakri-Regular.ttf
+0
+1
+Noto Sans Takri
+1
+Regular
+1
+Noto Sans Takri Regular
+NotoSansTakri-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+276
+Roboto-BlackItalic.ttf
+0
+1
+Roboto
+1
+Black Italic
+1
+Roboto Black Italic
+Roboto-BlackItalic
+
+900
+5
+212
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+277
+GentiumAlt-R.ttf
+0
+1
+GentiumAlt
+1
+Regular
+1
+GentiumAlt
+GentiumAlt
+
+400
+5
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+278
+lmsansquot8-regular.otf
+0
+1
+Latin Modern Sans Quotation
+1
+8 Regular
+2
+Latin Modern Sans Quotation 8 Regular
+LMSansQuot8-Regular
+LMSansQuot8-Regular
+
+400
+5
+0
+1
+0
+0
+8.030000
+4.015000
+16.060000
+1
+256
+279
+NotoSansLao-Regular.ttf
+0
+1
+Noto Sans Lao
+1
+Regular
+1
+Noto Sans Lao Regular
+NotoSansLao-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+280
+lmmonocaps10-regular.otf
+0
+1
+Latin Modern Mono Caps
+1
+10 Regular
+2
+Latin Modern Mono Caps 10 Regular
+LMMonoCaps10-Regular
+LMMonoCaps10-Regular
+
+400
+5
+0
+1
+0
+0
+10.037500
+5.018750
+20.075000
+1
+256
+281
+NotoSansAdlamUnjoined-Regular.ttf
+0
+1
+Noto Sans Adlam Unjoined
+1
+Regular
+1
+Noto Sans Adlam Unjoined Regular
+NotoSansAdlamUnjoined-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+282
+UniversalisADFStd-Regular.otf
+0
+1
+Universalis ADF Std
+1
+Regular
+1
+UniversalisADFStd-Regular
+UniversalisADFStd-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+283
+Go-Bold-Italic.ttf
+0
+1
+Go
+1
+Bold Italic
+1
+Go Bold Italic
+Go-BoldItalic
+
+600
+5
+194
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+284
+NotoSansSamaritan-Regular.ttf
+0
+1
+Noto Sans Samaritan
+1
+Regular
+1
+Noto Sans Samaritan Regular
+NotoSansSamaritan-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+285
+FreeSansBoldOblique.otf
+0
+1
+FreeSans
+29
+Bold Oblique
+получерен наклонен
+negreta cursiva
+tučné kurzíva
+fed kursiv
+Fett-Kursiv
+Έντονη Πλάγια
+Negrita Cursiva
+Lihavoitu Kursivoi
+Gras Italique
+Félkövér dőlt
+Grassetto Corsivo
+Vet Cursief
+Halvfet Kursiv
+Pogrubiona kursywa
+Negrito Itálico
+gros oblic
+Обычный Курсив
+Tučná kurzíva
+Fet Kursiv
+Kalın İtalik
+huruf tebal miring
+жирний похилий
+polkrepko ležeče
+treknais  slīpraksts
+pusjuodis pasvirasis
+nghiêng đậm
+Lodi etzana
+धृष्ट-तिरछा
+29
+FreeSans Bold Oblique
+FreeSans получерен наклонен
+FreeSans negreta cursiva
+FreeSans tučné kurzíva
+FreeSans fed kursiv
+FreeSans Fett-Kursiv
+FreeSans Έντονη Πλάγια
+FreeSans Negrita Cursiva
+FreeSans Lihavoitu Kursivoi
+FreeSans Gras Italique
+FreeSans Félkövér dőlt
+FreeSans Grassetto Corsivo
+FreeSans Vet Cursief
+FreeSans Halvfet Kursiv
+FreeSans Pogrubiona kursywa
+FreeSans Negrito Itálico
+FreeSans gros oblic
+FreeSans Обычный Курсив
+FreeSans Tučná kurzíva
+FreeSans Fet Kursiv
+FreeSans Kalın İtalik
+FreeSans huruf tebal miring
+FreeSans жирний похилий
+FreeSans polkrepko ležeče
+FreeSans treknais slīpraksts
+FreeSans pusjuodis pasvirasis
+FreeSans nghiêng đậm
+FreeSans Lodi etzana
+FreeSans धृष्ट-तिरछा
+FreeSansBoldOblique
+
+600
+5
+212
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+286
+lmsansdemicond10-regular.otf
+0
+1
+Latin Modern Sans Demi Cond
+1
+10 Regular
+2
+Latin Modern Sans Demi Cond 10 Regular
+LMSansDemiCond10-Regular
+LMSansDemiCond10-Regular
+
+600
+5
+0
+0
+0
+0
+10.037500
+5.018750
+20.075000
+1
+256
+287
+Cantarell-ExtraBold.otf
+0
+1
+Cantarell
+1
+Extra Bold
+1
+Cantarell Extra Bold
+Cantarell-ExtraBold
+
+800
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+288
+FreeSerifItalic.ttf
+0
+1
+FreeSerif
+28
+Italic
+курсивен
+cursiva
+kurzíva
+kursiv
+Kursiv
+Λειψίας
+Cursiva
+Kursivoitu
+Italique
+Dőlt
+Corsivo
+Cursief
+kursywa
+Itálico
+cursiv
+Курсив
+Kurzíva
+ตัวเอียง
+İtalik
+kursif
+курсив
+Ležeče
+kursīvs
+kursivas
+nghiêng
+Etzana
+तिरछा
+28
+FreeSerif Italic
+FreeSerif курсивен
+FreeSerif cursiva
+FreeSerif kurzíva
+FreeSerif kursiv
+FreeSerif Kursiv
+FreeSerif Λειψίας
+FreeSerif Cursiva
+FreeSerif Kursivoitu
+FreeSerif Italique
+FreeSerif Dőlt
+FreeSerif Corsivo
+FreeSerif Cursief
+FreeSerif kursywa
+FreeSerif Itálico
+FreeSerif cursiv
+FreeSerif Курсив
+FreeSerif Kurzíva
+FreeSerif ตัวเอียง
+FreeSerif İtalik
+FreeSerif kursif
+FreeSerif курсив
+FreeSerif Ležeče
+FreeSerif kursīvs
+FreeSerif kursivas
+FreeSerif nghiêng
+FreeSerif Etzana
+FreeSerif तिरछ
+FreeSerifItalic
+
+400
+5
+277
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+289
+AccanthisADFStdNo3-Bold.otf
+0
+1
+Accanthis ADF Std No3
+1
+Bold
+1
+AccanthisADFStdNo3-Bold
+AccanthisADFStdNo3-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+290
+NotoSansCarian-Regular.ttf
+0
+1
+Noto Sans Carian
+1
+Regular
+1
+Noto Sans Carian Regular
+NotoSansCarian-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+291
+GilliusADF-Italic.otf
+0
+1
+Gillius ADF
+1
+Italic
+1
+GilliusADF-Italic
+GilliusADF-Italic
+
+400
+5
+176
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+292
+LobsterTwo-BoldItalic.otf
+0
+1
+Lobster Two
+1
+Bold Italic
+2
+Lobster Two Bold Italic
+LobsterTwo-BoldItalic
+LobsterTwo-BoldItalic
+
+700
+5
+0
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+293
+NotoSerifTibetan-Regular.ttf
+0
+1
+Noto Serif Tibetan
+1
+Regular
+1
+Noto Serif Tibetan Regular
+NotoSerifTibetan-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+294
+NotoSansSyriac-Regular.ttf
+0
+1
+Noto Sans Syriac
+1
+Regular
+1
+Noto Sans Syriac Regular
+NotoSansSyriac-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+295
+PadaukBook-Regular.ttf
+0
+1
+Padauk Book
+1
+Regular
+1
+Padauk Book
+PadaukBook-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+296
+lmsans12-regular.otf
+0
+1
+Latin Modern Sans
+1
+12 Regular
+2
+Latin Modern Sans 12 Regular
+LMSans12-Regular
+LMSans12-Regular
+
+400
+5
+0
+1
+0
+0
+12.045000
+11.041250
+14.052500
+1
+256
+297
+NotoSansPahawhHmong-Regular.ttf
+0
+1
+Noto Sans Pahawh Hmong
+1
+Regular
+1
+Noto Sans Pahawh Hmong Regular
+NotoSansPahawhHmong-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+298
+UniversalisADFStd-Italic.otf
+0
+1
+Universalis ADF Std
+1
+Italic
+1
+UniversalisADFStd-Italic
+UniversalisADFStd-Italic
+
+400
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+299
+hline.ttf
+0
+2
+Baekmuk Headline
+백묵 헤드라인
+1
+Regular
+2
+Baekmuk Headline
+백묵 헤드라인
+Baekmuk-Headline
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+300
+Go-Mono-Italic.ttf
+0
+1
+Go Mono
+1
+Italic
+1
+Go Mono Italic
+GoMono-Italic
+
+400
+5
+194
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+301
+Purisa-Bold.otf
+0
+1
+Purisa
+1
+Bold
+1
+Purisa Bold
+Purisa-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+302
+lmsans17-oblique.otf
+0
+1
+Latin Modern Sans
+1
+17 Oblique
+2
+Latin Modern Sans 17 Oblique
+LMSans17-Oblique
+LMSans17-Oblique
+
+400
+5
+212
+0
+0
+1
+17.264500
+14.052500
+24.090000
+2
+256
+303
+NotoSansOldNorthArabian-Regular.ttf
+0
+1
+Noto Sans Old North Arabian
+1
+Regular
+1
+Noto Sans Old North Arabian Regular
+NotoSansOldNorthArabian-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+304
+FoulisGreek.ttf
+0
+1
+FoulisGreek
+1
+Regular
+1
+FoulisGreek
+FoulisGreek
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+305
+NotoSansSiddham-Regular.ttf
+0
+1
+Noto Sans Siddham
+1
+Regular
+1
+Noto Sans Siddham Regular
+NotoSansSiddham-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+306
+UnDinaruLight.ttf
+0
+2
+UnDinaru
+은 디나루
+2
+Light
+Bold
+2
+Un Dinaru Light
+가는 은 디나루
+UnDinaru-Light
+
+300
+5
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+307
+URWGothic-BookOblique.t1
+0
+1
+URW Gothic
+1
+Book Oblique
+1
+URW Gothic Book Oblique
+URWGothic-BookOblique
+
+75
+100
+110
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+308
+NotoSerifHebrew-Bold.ttf
+0
+1
+Noto Serif Hebrew
+1
+Bold
+1
+Noto Serif Hebrew Bold
+NotoSerifHebrew-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+309
+TlwgTypewriter-BoldOblique.otf
+0
+1
+Tlwg Typewriter
+1
+Bold Oblique
+1
+Tlwg Typewriter Bold Oblique
+TlwgTypewriter-BoldOblique
+
+700
+5
+212
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+310
+NotoSansSylotiNagri-Regular.ttf
+0
+1
+Noto Sans Syloti Nagri
+1
+Regular
+1
+Noto Sans Syloti Nagri Regular
+NotoSansSylotiNagri-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+311
+NotoSerifGeorgian-Bold.ttf
+0
+1
+Noto Serif Georgian
+1
+Bold
+1
+Noto Serif Georgian Bold
+NotoSerifGeorgian-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+312
+NotoSansModi-Regular.ttf
+0
+1
+Noto Sans Modi
+1
+Regular
+1
+Noto Sans Modi Regular
+NotoSansModi-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+313
+NotoSansCypriot-Regular.ttf
+0
+1
+Noto Sans Cypriot
+1
+Regular
+1
+Noto Sans Cypriot Regular
+NotoSansCypriot-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+314
+NotoSansMandaic-Regular.ttf
+0
+1
+Noto Sans Mandaic
+1
+Regular
+1
+Noto Sans Mandaic Regular
+NotoSansMandaic-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+315
+b018032l.pfb
+0
+1
+URW Bookman L
+1
+Light Italic
+1
+URW Bookman L Light Italic
+URWBookmanL-LighItal
+
+80
+100
+100
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+316
+LinBiolinum_K.otf
+0
+1
+Linux Biolinum Keyboard O
+1
+Regular
+1
+Linux Biolinum Keyboard O
+LinBiolinumOKb
+
+700
+5
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+317
+DroidSansFallbackFull.ttf
+0
+1
+Droid Sans Fallback
+1
+Regular
+1
+Droid Sans Fallback
+DroidSansFallback
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+318
+lmmono9-regular.otf
+0
+1
+Latin Modern Mono
+1
+9 Regular
+2
+Latin Modern Mono 9 Regular
+LMMono9-Regular
+LMMono9-Regular
+
+400
+5
+0
+1
+0
+0
+9.033750
+8.531875
+9.535625
+1
+256
+319
+lmroman17-regular.otf
+0
+1
+Latin Modern Roman
+1
+17 Regular
+2
+Latin Modern Roman 17 Regular
+LMRoman17-Regular
+LMRoman17-Regular
+
+400
+5
+0
+1
+0
+0
+17.264500
+14.052500
+24.090000
+1
+256
+320
+Kinnari-Bold.otf
+0
+1
+Kinnari
+1
+Bold
+1
+Kinnari Bold
+Kinnari-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+321
+Z003-MediumItalic.t1
+0
+1
+Z003
+1
+Medium Italic
+1
+Z003 Medium Italic
+Z003-MediumItalic
+
+100
+100
+100
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+322
+lmsans10-regular.otf
+0
+1
+Latin Modern Sans
+1
+10 Regular
+2
+Latin Modern Sans 10 Regular
+LMSans10-Regular
+LMSans10-Regular
+
+400
+5
+0
+1
+0
+0
+10.037500
+9.535625
+11.041250
+1
+256
+323
+NotoSerifTamilSlanted-Bold.ttf
+0
+1
+Noto Serif Tamil Slanted
+1
+Bold
+1
+Noto Serif Tamil Slanted Bold
+NotoSerifTamilSlanted-Bold
+
+700
+5
+212
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+324
+TlwgTypist-Oblique.otf
+0
+1
+Tlwg Typist
+1
+Oblique
+1
+Tlwg Typist Oblique
+TlwgTypist-Oblique
+
+400
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+325
+STIXSizeFourSym-Bold.otf
+0
+1
+STIXSizeFourSym
+1
+Bold
+1
+STIXSizeFourSym-Bold
+STIXSizeFourSym-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+326
+n021003l.pfb
+0
+1
+Nimbus Roman No9 L
+1
+Regular
+1
+Nimbus Roman No9 L Regular
+NimbusRomNo9L-Regu
+
+80
+100
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+327
+NotoSansBatak-Regular.ttf
+0
+1
+Noto Sans Batak
+1
+Regular
+1
+Noto Sans Batak Regular
+NotoSansBatak-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+328
+FreeMonoBold.otf
+0
+1
+FreeMono
+29
+Bold
+получерен
+negreta
+tučné
+fed
+Fett
+Έντονα
+Negrita
+Lihavoitu
+Gras
+Félkövér
+Grassetto
+Vet
+Halvfet
+Pogrubiony
+Negrito
+gros
+Полужирный
+Tučné
+Fet
+Kalın
+huruf tebal
+жирний
+polkrepko
+treknraksts
+pusjuodis
+đậm
+Lodia
+धृष्ट
+29
+FreeMono Bold
+FreeMono получерен
+FreeMono negreta
+FreeMono tučné
+FreeMono fed
+FreeMono Fett
+FreeMono Έντονα
+FreeMono Negrita
+FreeMono Lihavoitu
+FreeMono Gras
+FreeMono Félkövér
+FreeMono Grassetto
+FreeMono Vet
+FreeMono Halvfet
+FreeMono Pogrubiony
+FreeMono Negrito
+FreeMono gros
+FreeMono Полужирный
+FreeMono Tučné
+FreeMono Fet
+FreeMono Kalın
+FreeMono huruf tebal
+FreeMono жирний
+FreeMono polkrepko
+FreeMono treknraksts
+FreeMono pusjuodis
+FreeMono đậm
+FreeMono Lodia
+FreeMono धृष्ट
+FreeMonoBold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+329
+texgyrecursor-bold.otf
+0
+1
+TeX Gyre Cursor
+1
+Bold
+2
+TeX Gyre Cursor Bold
+TeXGyreCursor-Bold
+TeXGyreCursor-Bold
+
+700
+5
+0
+0
+1
+0
+10.037500
+5.018750
+20.075000
+3
+256
+330
+Go-Mono-Bold.ttf
+0
+1
+Go Mono
+1
+Bold
+1
+Go Mono Bold
+GoMono-Bold
+
+600
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+331
+NimbusSans-BoldItalic.otf
+0
+1
+Nimbus Sans
+1
+Bold Italic
+2
+Nimbus Sans Bold Italic
+NimbusSans-BoldItalic
+NimbusSans-BoldItalic
+
+700
+5
+212
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+332
+NotoSerif-Bold.ttf
+0
+1
+Noto Serif
+1
+Bold
+1
+Noto Serif Bold
+NotoSerif-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+333
+STIXIntegralsD-Regular.otf
+0
+1
+STIXIntegralsD
+1
+Regular
+1
+STIXIntegralsD-Regular
+STIXIntegralsD-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+334
+lmroman10-bolditalic.otf
+0
+1
+Latin Modern Roman
+1
+10 Bold Italic
+2
+Latin Modern Roman 10 Bold Italic
+LMRoman10-BoldItalic
+LMRoman10-BoldItalic
+
+700
+5
+249
+0
+1
+1
+10.037500
+5.018750
+20.075000
+4
+256
+335
+lmmono8-regular.otf
+0
+1
+Latin Modern Mono
+1
+8 Regular
+2
+Latin Modern Mono 8 Regular
+LMMono8-Regular
+LMMono8-Regular
+
+400
+5
+0
+1
+0
+0
+8.030000
+4.015000
+8.531875
+1
+256
+336
+EBGaramondSC08-Regular.otf
+0
+1
+EB Garamond SC
+1
+08 Regular
+1
+EB Garamond SmallCaps 08 Regular
+EBGaramondSC08-Regular
+
+400
+5
+0
+1
+0
+0
+8.030000
+0.000000
+9.435250
+5
+256
+337
+Lato-Black.ttf
+0
+1
+Lato
+1
+Black
+1
+Lato Black
+Lato-Black
+
+900
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+338
+NotoSansTamilSupplement-Regular.ttf
+0
+1
+Noto Sans Tamil Supplement
+1
+Regular
+1
+Noto Sans Tamil Supplement Regular
+NotoSansTamilSupplement-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+339
+Cantarell-Regular.otf
+0
+1
+Cantarell
+1
+Regular
+1
+Cantarell Regular
+Cantarell-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+340
+lmsans9-regular.otf
+0
+1
+Latin Modern Sans
+1
+9 Regular
+2
+Latin Modern Sans 9 Regular
+LMSans9-Regular
+LMSans9-Regular
+
+400
+5
+0
+1
+0
+0
+9.033750
+8.531875
+9.535625
+1
+256
+341
+NimbusRoman-Regular.otf
+0
+1
+Nimbus Roman
+1
+Regular
+2
+Nimbus Roman
+NimbusRoman-Regular
+NimbusRoman-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+342
+NotoSansGujarati-Regular.ttf
+0
+1
+Noto Sans Gujarati
+1
+Regular
+1
+Noto Sans Gujarati
+NotoSansGujarati
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+343
+Garuda.otf
+0
+1
+Garuda
+1
+Regular
+1
+Garuda
+Garuda
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+344
+C059-Bold.otf
+0
+1
+C059
+1
+Bold
+2
+C059 Bold
+C059-Bold
+C059-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+345
+STIXIntegralsUp-Regular.otf
+0
+1
+STIXIntegralsUp
+1
+Regular
+1
+STIXIntegralsUp-Regular
+STIXIntegralsUp-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+346
+URWGothic-Book.t1
+0
+1
+URW Gothic
+1
+Book
+1
+URW Gothic Book
+URWGothic-Book
+
+75
+100
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+347
+Loma-BoldOblique.otf
+0
+1
+Loma
+1
+Bold Oblique
+1
+Loma Bold Oblique
+Loma-BoldOblique
+
+700
+5
+212
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+348
+GilliusADF-Regular.otf
+0
+1
+Gillius ADF
+1
+Regular
+1
+GilliusADF-Regular
+GilliusADF-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+349
+NotoSans-Italic.ttf
+0
+1
+Noto Sans
+1
+Italic
+1
+Noto Sans Italic
+NotoSans-Italic
+
+400
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+350
+NotoSansOldItalic-Regular.ttf
+0
+1
+Noto Sans Old Italic
+1
+Regular
+1
+Noto Sans Old Italic Regular
+NotoSansOldItalic-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+351
+OpenSans-CondLightItalic.ttf
+0
+1
+Open Sans
+1
+Condensed Light Italic
+2
+Open Sans Cond Light Italic
+Open Sans Condensed Light Italic
+OpenSans-CondensedLightItalic
+
+300
+3
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+352
+lmromanunsl10-regular.otf
+0
+1
+Latin Modern Roman Unslanted
+1
+10 Regular
+2
+Latin Modern Roman Unslanted 10 Regular
+LMRomanUnsl10-Regular
+LMRomanUnsl10-Regular
+
+400
+5
+0
+1
+0
+0
+10.037500
+5.018750
+20.075000
+1
+256
+353
+GFSDidotItalic.otf
+0
+1
+GFS Didot
+1
+Italic
+2
+GFS Didot Italic
+GFSDidot-Italic
+GFSDidot-Italic
+
+400
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+354
+NimbusSansNarrow-Oblique.otf
+0
+1
+Nimbus Sans Narrow
+1
+Oblique
+2
+Nimbus Sans Narrow Oblique
+NimbusSansNarrow-Oblique
+NimbusSansNarrow-Oblique
+
+400
+4
+174
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+355
+bkai00mp.ttf
+0
+2
+AR PL KaitiM Big5
+文鼎ＰＬ中楷
+1
+Regular
+2
+AR PL KaitiM Big5
+文鼎ＰＬ中楷
+ZenKai-Medium
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+356
+NotoSansHebrew-Bold.ttf
+0
+1
+Noto Sans Hebrew
+1
+Bold
+1
+Noto Sans Hebrew Bold
+NotoSansHebrew-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+357
+BerenisADFPro-BoldItalic.otf
+0
+1
+Berenis ADF Pro
+1
+BoldItalic
+1
+Berenis ADF Pro Bold Italic
+BerenisADFPro-BoldItalic
+
+700
+5
+296
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+358
+NotoSansPhoenician-Regular.ttf
+0
+1
+Noto Sans Phoenician
+1
+Regular
+1
+Noto Sans Phoenician Regular
+NotoSansPhoenician-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+359
+lmsans8-regular.otf
+0
+1
+Latin Modern Sans
+1
+8 Regular
+2
+Latin Modern Sans 8 Regular
+LMSans8-Regular
+LMSans8-Regular
+
+400
+5
+0
+1
+0
+0
+8.030000
+4.015000
+8.531875
+1
+256
+360
+NimbusSansNarrow-BoldOblique.t1
+0
+1
+Nimbus Sans Narrow
+1
+Bold Oblique
+1
+Nimbus Sans Narrow Bold Oblique
+NimbusSansNarrow-BoldOblique
+
+200
+100
+110
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+361
+n019003l.pfb
+0
+1
+Nimbus Sans L
+1
+Regular
+1
+Nimbus Sans L Regular
+NimbusSanL-Regu
+
+80
+100
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+362
+d050000l.pfb
+0
+1
+Dingbats
+1
+Regular
+1
+Dingbats Regular
+Dingbats
+
+80
+100
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+363
+texgyreheroscn-bold.otf
+0
+1
+TeX Gyre Heros Cn
+1
+Bold
+2
+TeX Gyre Heros Cn Bold
+TeXGyreHerosCondensed-Bold
+TeXGyreHerosCondensed-Bold
+
+700
+3
+0
+0
+1
+0
+10.037500
+5.018750
+20.075000
+3
+256
+364
+NotoSerifAhom-Regular.ttf
+0
+1
+Noto Serif Ahom
+1
+Regular
+1
+Noto Serif Ahom Regular
+NotoSerifAhom-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+365
+NotoSerifBengali-Bold.ttf
+0
+1
+Noto Serif Bengali
+1
+Bold
+1
+Noto Serif Bengali Bold
+NotoSerifBengali-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+366
+GilliusADFNo2-BoldCond.otf
+0
+1
+Gillius ADF No2
+1
+Bold Cond
+1
+GilliusADFNo2-BoldCond
+GilliusADFNo2-BoldCond
+
+700
+3
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+367
+NotoSansBassaVah-Regular.ttf
+0
+1
+Noto Sans Bassa Vah
+1
+Regular
+1
+Noto Sans Bassa Vah Regular
+NotoSansBassaVah-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+368
+n019024l.pfb
+0
+1
+Nimbus Sans L
+1
+Bold Italic
+1
+Nimbus Sans L Bold Italic
+NimbusSanL-BoldItal
+
+200
+100
+100
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+369
+NotoMono-Regular.ttf
+0
+1
+Noto Mono
+1
+Regular
+1
+Noto Mono
+NotoMono
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+370
+NotoSansDisplay-Bold.ttf
+0
+1
+Noto Sans Display
+1
+Bold
+1
+Noto Sans Display Bold
+NotoSansDisplay-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+371
+NotoSansLimbu-Regular.ttf
+0
+1
+Noto Sans Limbu
+1
+Regular
+1
+Noto Sans Limbu Regular
+NotoSansLimbu-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+372
+NotoSansTifinagh-Regular.ttf
+0
+1
+Noto Sans Tifinagh
+1
+Regular
+1
+Noto Sans Tifinagh Regular
+NotoSansTifinagh-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+373
+lmmonocaps10-oblique.otf
+0
+1
+Latin Modern Mono Caps
+1
+10 Oblique
+2
+Latin Modern Mono Caps 10 Oblique
+LMMonoCaps10-Oblique
+LMMonoCaps10-Oblique
+
+400
+5
+166
+0
+0
+1
+10.037500
+5.018750
+20.075000
+2
+256
+374
+texgyrebonum-math.otf
+0
+1
+TeX Gyre Bonum Math
+1
+Regular
+1
+TeXGyreBonumMath-Regular
+TeXGyreBonumMath-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+375
+lmroman12-regular.otf
+0
+1
+Latin Modern Roman
+1
+12 Regular
+2
+Latin Modern Roman 12 Regular
+LMRoman12-Regular
+LMRoman12-Regular
+
+400
+5
+0
+1
+0
+0
+12.045000
+11.041250
+14.052500
+1
+256
+376
+AccanthisADFStdNo3-Italic.otf
+0
+1
+Accanthis ADF Std No3
+1
+Italic
+1
+AccanthisADFStdNo3-Italic
+AccanthisADFStdNo3-Italic
+
+400
+5
+267
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+377
+z003034l.pfb
+0
+1
+URW Chancery L
+1
+Medium Italic
+1
+URW Chancery L Medium Italic
+URWChanceryL-MediItal
+
+100
+100
+100
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+378
+GentiumPlusCompact-I.ttf
+0
+1
+Gentium Plus Compact
+1
+Italic
+1
+Gentium Plus Compact Italic
+GentiumPlusCompact-Italic
+
+400
+5
+140
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+379
+NotoSansLycian-Regular.ttf
+0
+1
+Noto Sans Lycian
+1
+Regular
+1
+Noto Sans Lycian Regular
+NotoSansLycian-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+380
+C059-Italic.t1
+0
+1
+C059
+1
+Italic
+1
+C059 Italic
+C059-Italic
+
+100
+100
+100
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+381
+a010015l.pfb
+0
+1
+URW Gothic L
+1
+Demi
+1
+URW Gothic L Demi
+URWGothicL-Demi
+
+180
+100
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+382
+NotoSansDuployan-Regular.ttf
+0
+1
+Noto Sans Duployan
+1
+Regular
+1
+Noto Sans Duployan Regular
+NotoSansDuployan-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+383
+lmsans17-regular.otf
+0
+1
+Latin Modern Sans
+1
+17 Regular
+2
+Latin Modern Sans 17 Regular
+LMSans17-Regular
+LMSans17-Regular
+
+400
+5
+0
+1
+0
+0
+17.264500
+14.052500
+24.090000
+1
+256
+384
+Kinnari.otf
+0
+1
+Kinnari
+1
+Regular
+1
+Kinnari
+Kinnari
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+385
+lmsansquot8-bold.otf
+0
+1
+Latin Modern Sans Quotation
+1
+8 Bold
+2
+Latin Modern Sans Quotation 8 Bold
+LMSansQuot8-Bold
+LMSansQuot8-Bold
+
+700
+5
+0
+0
+1
+0
+8.030000
+4.015000
+16.060000
+3
+256
+386
+Go-Regular.ttf
+0
+1
+Go
+1
+Regular
+1
+Go Regular
+GoRegular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+387
+p052024l.pfb
+0
+1
+URW Palladio L
+1
+Bold Italic
+1
+URW Palladio L Bold Italic
+URWPalladioL-BoldItal
+
+200
+100
+100
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+388
+Roboto-Thin.ttf
+0
+1
+Roboto
+1
+Thin
+1
+Roboto Thin
+Roboto-Thin
+
+250
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+389
+NotoSansAdlam-Regular.ttf
+0
+1
+Noto Sans Adlam
+1
+Regular
+1
+Noto Sans Adlam Regular
+NotoSansAdlam-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+390
+texgyrepagella-math.otf
+0
+1
+TeX Gyre Pagella Math
+1
+Regular
+1
+TeXGyrePagellaMath-Regular
+TeXGyrePagellaMath-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+391
+NotoSansBuhid-Regular.ttf
+0
+1
+Noto Sans Buhid
+1
+Regular
+1
+Noto Sans Buhid Regular
+NotoSansBuhid-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+392
+Cabin-Bold.otf
+0
+1
+Cabin
+1
+Bold
+2
+Cabin Bold
+Cabin-Bold
+Cabin-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+393
+STIXIntegralsUp-Bold.otf
+0
+1
+STIXIntegralsUp
+1
+Bold
+1
+STIXIntegralsUp-Bold
+STIXIntegralsUp-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+394
+NotoSansCanadianAboriginal-Regular.ttf
+0
+1
+Noto Sans Canadian Aboriginal
+1
+Regular
+1
+Noto Sans Canadian Aboriginal Regular
+NotoSansCanadianAboriginal-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+395
+Norasi-Oblique.otf
+0
+1
+Norasi
+1
+Oblique
+1
+Norasi Oblique
+Norasi-Oblique
+
+400
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+396
+GilliusADF-BoldItalic.otf
+0
+1
+Gillius ADF
+1
+Bold Italic
+1
+GilliusADF-BoldItalic
+GilliusADF-BoldItalic
+
+700
+5
+176
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+397
+STIXSizeFourSym-Regular.otf
+0
+1
+STIXSizeFourSym
+1
+Regular
+1
+STIXSizeFourSym-Regular
+STIXSizeFourSym-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+398
+n019004l.pfb
+0
+1
+Nimbus Sans L
+1
+Bold
+1
+Nimbus Sans L Bold
+NimbusSanL-Bold
+
+200
+100
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+399
+Umpush-Light.otf
+0
+1
+Umpush
+1
+Light
+1
+Umpush Light
+Umpush-Light
+
+300
+5
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+400
+Umpush.otf
+0
+1
+Umpush
+1
+Regular
+1
+Umpush
+Umpush
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+401
+NotoSansArmenian-Bold.ttf
+0
+1
+Noto Sans Armenian
+1
+Bold
+1
+Noto Sans Armenian Bold
+NotoSansArmenian-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+402
+NimbusSans-Bold.otf
+0
+1
+Nimbus Sans
+1
+Bold
+2
+Nimbus Sans Bold
+NimbusSans-Bold
+NimbusSans-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+403
+NotoSansBamum-Regular.ttf
+0
+1
+Noto Sans Bamum
+1
+Regular
+1
+Noto Sans Bamum Regular
+NotoSansBamum-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+404
+NotoSansYi-Regular.ttf
+0
+1
+Noto Sans Yi
+1
+Regular
+1
+Noto Sans Yi Regular
+NotoSansYi-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+405
+lmroman10-regular.otf
+0
+1
+Latin Modern Roman
+1
+10 Regular
+2
+Latin Modern Roman 10 Regular
+LMRoman10-Regular
+LMRoman10-Regular
+
+400
+5
+0
+1
+0
+0
+10.037500
+9.535625
+11.041250
+1
+256
+406
+Lato-ThinItalic.ttf
+0
+1
+Lato
+1
+Thin Italic
+1
+Lato Thin Italic
+Lato-ThinItalic
+
+200
+5
+122
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+407
+NotoSerifEthiopic-Bold.ttf
+0
+1
+Noto Serif Ethiopic
+1
+Bold
+1
+Noto Serif Ethiopic Bold
+NotoSerifEthiopic-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+408
+NotoSansCaucasianAlbanian-Regular.ttf
+0
+1
+Noto Sans Caucasian Albanian
+1
+Regular
+1
+Noto Sans Caucasian Albanian Regular
+NotoSansCaucasianAlbanian-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+409
+GilliusADFNo2-Cond.otf
+0
+1
+Gillius ADF No2
+1
+Condensed
+1
+GilliusADFNo2-Cond
+GilliusADFNo2-Cond
+
+400
+3
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+410
+fontawesome-webfont.ttf
+0
+1
+FontAwesome
+1
+Regular
+1
+FontAwesome
+FontAwesome
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+411
+Roboto-Regular.ttf
+0
+1
+Roboto
+1
+Regular
+1
+Roboto
+Roboto-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+412
+NotoSansDevanagari-Regular.ttf
+0
+1
+Noto Sans Devanagari
+1
+Regular
+1
+Noto Sans Devanagari Regular
+NotoSansDevanagari-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+413
+NotoSansTelugu-Bold.ttf
+0
+1
+Noto Sans Telugu
+1
+Bold
+1
+Noto Sans Telugu Bold
+NotoSansTelugu-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+414
+Lato-BoldItalic.ttf
+0
+1
+Lato
+1
+Bold Italic
+1
+Lato Bold Italic
+Lato-BoldItalic
+
+700
+5
+122
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+415
+NotoSerif-BoldItalic.ttf
+0
+1
+Noto Serif
+1
+Bold Italic
+1
+Noto Serif Bold Italic
+NotoSerif-BoldItalic
+
+700
+5
+212
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+416
+Carlito-Italic.ttf
+0
+1
+Carlito
+1
+Italic
+1
+Carlito Italic
+Carlito-Italic
+
+400
+5
+122
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+417
+NotoSansElbasan-Regular.ttf
+0
+1
+Noto Sans Elbasan
+1
+Regular
+1
+Noto Sans Elbasan Regular
+NotoSansElbasan-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+418
+Waree.otf
+0
+1
+Waree
+1
+Regular
+1
+Waree
+Waree
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+419
+DejaVuSans-ExtraLight.ttf
+0
+1
+DejaVu Sans
+1
+ExtraLight
+1
+DejaVu Sans ExtraLight
+DejaVuSans-ExtraLight
+
+200
+5
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+420
+Arimo-Italic.ttf
+0
+1
+Arimo
+1
+Italic
+1
+Arimo Italic
+Arimo-Italic
+
+400
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+421
+STIXIntegralsD-Bold.otf
+0
+1
+STIXIntegralsD
+1
+Bold
+1
+STIXIntegralsD-Bold
+STIXIntegralsD-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+422
+Cantarell-Thin.otf
+0
+1
+Cantarell
+1
+Thin
+1
+Cantarell Thin
+Cantarell-Thin
+
+100
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+423
+DejaVuSerifCondensed.ttf
+0
+1
+DejaVu Serif
+1
+Condensed
+1
+DejaVu Serif Condensed
+DejaVuSerifCondensed
+
+400
+4
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+424
+lmmonoproplt10-oblique.otf
+0
+1
+Latin Modern Mono Prop Light
+1
+10 Oblique
+2
+Latin Modern Mono Prop Light 10 Oblique
+LMMonoPropLt10-Oblique
+LMMonoPropLt10-Oblique
+
+400
+5
+166
+0
+0
+1
+10.037500
+5.018750
+20.075000
+2
+256
+425
+NotoSansCham-Regular.ttf
+0
+1
+Noto Sans Cham
+1
+Regular
+1
+Noto Sans Cham Regular
+NotoSansCham-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+426
+Junicode-Bold.ttf
+0
+1
+Junicode
+1
+Bold
+1
+Junicode Bold
+Junicode-Bold
+
+600
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+427
+RobotoCondensed-BoldItalic.ttf
+0
+1
+Roboto Condensed
+1
+Bold Italic
+1
+Roboto Condensed Bold Italic
+RobotoCondensed-BoldItalic
+
+700
+5
+212
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+428
+GilliusADF-BoldCond.otf
+0
+1
+Gillius ADF
+1
+Bold Cond
+1
+GilliusADF-BoldCond
+GilliusADF-BoldCond
+
+700
+3
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+429
+NotoSansJavanese-Bold.ttf
+0
+1
+Noto Sans Javanese
+1
+Bold
+1
+Noto Sans Javanese Bold
+NotoSansJavanese-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+430
+UniversalisADFStd-BoldCond.otf
+0
+1
+Universalis ADF Std
+1
+Bold Cond
+1
+UniversalisADFStd-BoldCond
+UniversalisADFStd-BoldCond
+
+700
+3
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+431
+DejaVuSans-BoldOblique.ttf
+0
+1
+DejaVu Sans
+1
+Bold Oblique
+1
+DejaVu Sans Bold Oblique
+DejaVuSans-BoldOblique
+
+700
+5
+194
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+432
+NotoSansBrahmi-Regular.ttf
+0
+1
+Noto Sans Brahmi
+1
+Regular
+1
+Noto Sans Brahmi Regular
+NotoSansBrahmi-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+433
+NotoSansPsalterPahlavi-Regular.ttf
+0
+1
+Noto Sans Psalter Pahlavi
+1
+Regular
+1
+Noto Sans Psalter Pahlavi Regular
+NotoSansPsalterPahlavi-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+434
+NotoSerifHebrew-Regular.ttf
+0
+1
+Noto Serif Hebrew
+1
+Regular
+1
+Noto Serif Hebrew Regular
+NotoSerifHebrew-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+435
+Umpush-LightOblique.otf
+0
+1
+Umpush
+1
+Light Oblique
+1
+Umpush Light Oblique
+Umpush-LightOblique
+
+300
+5
+176
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+436
+Sawasdee.otf
+0
+1
+Sawasdee
+1
+Regular
+1
+Sawasdee
+Sawasdee
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+437
+NotoSansLydian-Regular.ttf
+0
+1
+Noto Sans Lydian
+1
+Regular
+1
+Noto Sans Lydian Regular
+NotoSansLydian-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+438
+NotoSansJavanese-Regular.ttf
+0
+1
+Noto Sans Javanese
+1
+Regular
+1
+Noto Sans Javanese Regular
+NotoSansJavanese-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+439
+LinLibertine_RBI.otf
+0
+1
+Linux Libertine O
+1
+Bold Italic
+1
+Linux Libertine O Bold Italic
+LinLibertineOBI
+
+700
+5
+212
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+440
+NotoSansEthiopic-Regular.ttf
+0
+1
+Noto Sans Ethiopic
+1
+Regular
+1
+Noto Sans Ethiopic Regular
+NotoSansEthiopic-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+441
+NotoKufiArabic-Bold.ttf
+0
+1
+Noto Kufi Arabic
+1
+Bold
+1
+Noto Kufi Arabic Bold
+NotoKufiArabic-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+442
+DejaVuSerif.ttf
+0
+1
+DejaVu Serif
+1
+Book
+1
+DejaVu Serif
+DejaVuSerif
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+443
+RobotoCondensed-Light.ttf
+0
+1
+Roboto Condensed
+1
+Light
+1
+Roboto Condensed Light
+RobotoCondensed-Light
+
+300
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+444
+NotoSansMro-Regular.ttf
+0
+1
+Noto Sans Mro
+1
+Regular
+1
+Noto Sans Mro Regular
+NotoSansMro-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+445
+Loma-Bold.otf
+0
+1
+Loma
+1
+Bold
+1
+Loma Bold
+Loma-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+446
+texgyretermes-regular.otf
+0
+1
+TeX Gyre Termes
+1
+Regular
+2
+TeX Gyre Termes
+TeXGyreTermes-Regular
+TeXGyreTermes-Regular
+
+400
+5
+0
+1
+0
+0
+10.037500
+5.018750
+20.075000
+1
+256
+447
+LinBiolinum_RB.otf
+0
+1
+Linux Biolinum O
+1
+Bold
+1
+Linux Biolinum O Bold
+LinBiolinumOB
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+448
+NotoSerifGeorgian-Regular.ttf
+0
+1
+Noto Serif Georgian
+1
+Regular
+1
+Noto Serif Georgian Regular
+NotoSerifGeorgian-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+449
+Norasi-Bold.otf
+0
+1
+Norasi
+1
+Bold
+1
+Norasi Bold
+Norasi-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+450
+p052003l.pfb
+0
+1
+URW Palladio L
+1
+Roman
+1
+URW Palladio L Roman
+URWPalladioL-Roma
+
+100
+100
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+451
+texgyreheroscn-bolditalic.otf
+0
+1
+TeX Gyre Heros Cn
+1
+Bold Italic
+2
+TeX Gyre Heros Cn Bold Italic
+TeXGyreHerosCondensed-BoldItalic
+TeXGyreHerosCondensed-BoldItalic
+
+700
+3
+174
+0
+1
+1
+10.037500
+5.018750
+20.075000
+4
+256
+452
+NotoSansKharoshthi-Regular.ttf
+0
+1
+Noto Sans Kharoshthi
+1
+Regular
+1
+Noto Sans Kharoshthi Regular
+NotoSansKharoshthi-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+453
+OpenSans-CondLight.ttf
+0
+1
+Open Sans
+1
+Condensed Light
+2
+Open Sans Cond Light
+Open Sans Condensed Light
+OpenSans-CondensedLight
+
+300
+3
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+454
+GFSNeohellenicBoldIt.otf
+0
+1
+GFS Neohellenic
+1
+Bold Italic
+2
+GFS Neohellenic Bold Italic
+GFSNeohellenic-BoldItalic
+GFSNeohellenic-BoldItalic
+
+700
+5
+212
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+455
+NotoSansGurmukhi-Regular.ttf
+0
+1
+Noto Sans Gurmukhi
+1
+Regular
+1
+Noto Sans Gurmukhi Regular
+NotoSansGurmukhi-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+456
+NimbusMonoPS-BoldItalic.t1
+0
+1
+Nimbus Mono PS
+1
+Bold Italic
+1
+Nimbus Mono PS Bold Italic
+NimbusMonoPS-BoldItalic
+
+200
+100
+100
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+457
+NotoSansAnatolianHieroglyphs-Regular.ttf
+0
+1
+Noto Sans Anatolian Hieroglyphs
+1
+Regular
+1
+Noto Sans Anatolian Hieroglyphs Regular
+NotoSansAnatolianHieroglyphs-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+458
+Go-Medium.ttf
+0
+1
+Go Medium
+1
+Regular
+1
+Go Medium
+GoMedium
+
+500
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+459
+Garuda-BoldOblique.otf
+0
+1
+Garuda
+1
+Bold Oblique
+1
+Garuda Bold Oblique
+Garuda-BoldOblique
+
+700
+5
+212
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+460
+TlwgMono-Oblique.otf
+0
+1
+Tlwg Mono
+1
+Oblique
+1
+Tlwg Mono Oblique
+TlwgMono-Oblique
+
+400
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+461
+lmromanslant10-bold.otf
+0
+1
+Latin Modern Roman Slanted
+1
+10 Bold
+2
+Latin Modern Roman Slanted 10 Bold
+LMRomanSlant10-Bold
+LMRomanSlant10-Bold
+
+700
+5
+166
+0
+1
+0
+10.037500
+5.018750
+20.075000
+2
+256
+462
+UnBatangBold.ttf
+0
+2
+UnBatang
+은 바탕
+1
+Bold
+2
+Un Batang Bold
+굵은 은 바탕
+UnBatang-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+463
+Cabin-Italic.otf
+0
+1
+Cabin
+1
+Italic
+2
+Cabin Italic
+Cabin-Italic
+Cabin-Italic
+
+400
+5
+0
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+464
+Go-Smallcaps-Italic.ttf
+0
+1
+Go Smallcaps
+1
+Italic
+1
+Go Smallcaps Italic
+GoSmallcaps-Italic
+
+400
+5
+0
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+465
+c059013l.pfb
+0
+1
+Century Schoolbook L
+1
+Roman
+1
+Century Schoolbook L Roman
+CenturySchL-Roma
+
+100
+100
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+466
+Gentium-I.ttf
+0
+1
+Gentium
+1
+Italic
+1
+Gentium Italic
+Gentium-Italic
+
+400
+5
+122
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+467
+NotoSansSinhala-Bold.ttf
+0
+1
+Noto Sans Sinhala
+1
+Bold
+1
+Noto Sans Sinhala Bold
+NotoSansSinhala-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+468
+DejaVuSansCondensed-Oblique.ttf
+0
+1
+DejaVu Sans
+1
+Condensed Oblique
+1
+DejaVu Sans Condensed Oblique
+DejaVuSansCondensed-Oblique
+
+400
+4
+194
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+469
+texgyreheroscn-regular.otf
+0
+1
+TeX Gyre Heros Cn
+1
+Regular
+2
+TeX Gyre Heros Cn
+TeXGyreHerosCondensed-Regular
+TeXGyreHerosCondensed-Regular
+
+400
+3
+0
+1
+0
+0
+10.037500
+5.018750
+20.075000
+1
+256
+470
+Cousine-BoldItalic.ttf
+0
+1
+Cousine
+1
+Bold Italic
+1
+Cousine Bold Italic
+Cousine-BoldItalic
+
+700
+5
+212
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+471
+STIXVariants-Regular.otf
+0
+1
+STIXVariants
+1
+Regular
+1
+STIXVariants-Regular
+STIXVariants-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+472
+Go-Smallcaps.ttf
+0
+1
+Go Smallcaps
+1
+Regular
+1
+Go Smallcaps
+GoSmallcaps
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+473
+NotoSansSinhala-Regular.ttf
+0
+1
+Noto Sans Sinhala
+1
+Regular
+1
+Noto Sans Sinhala Regular
+NotoSansSinhala-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+474
+UnJamoDotum.ttf
+0
+2
+UnJamoDotum
+은 자모 돋움
+1
+Regular
+2
+Un Jamo Dotum
+은 자모 돋움
+UnJamoDotum
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+475
+FreeMonoOblique.ttf
+0
+1
+FreeMono
+27
+Oblique
+наклонен
+cursiva
+kurzíva
+kursiv
+Kursiv
+Πλάγια
+Cursiva
+Kursivoitu
+Italique
+Dőlt
+Corsivo
+Cursief
+Kursywa
+Itálico
+oblic
+Курсив
+Kurzíva
+İtalik
+huruf miring
+похилий
+ležeče
+slīpraksts
+pasvirasis
+nghiêng
+Etzana
+तिरछा
+27
+FreeMono Oblique
+FreeMono наклонен
+FreeMono cursiva
+FreeMono kurzíva
+FreeMono kursiv
+FreeMono Kursiv
+FreeMono Πλάγια
+FreeMono Cursiva
+FreeMono Kursivoitu
+FreeMono Italique
+FreeMono Dőlt
+FreeMono Corsivo
+FreeMono Cursief
+FreeMono Kursywa
+FreeMono Itálico
+FreeMono oblic
+FreeMono Курсив
+FreeMono Kurzíva
+FreeMono İtalik
+FreeMono huruf miring
+FreeMono похилий
+FreeMono ležeče
+FreeMono slīpraksts
+FreeMono pasvirasis
+FreeMono nghiêng
+FreeMono Etzana
+FreeMono तिरछा
+FreeMonoOblique
+
+400
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+476
+Roboto-BoldItalic.ttf
+0
+1
+Roboto
+1
+Bold Italic
+1
+Roboto Bold Italic
+Roboto-BoldItalic
+
+700
+5
+212
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+477
+latinmodern-math.otf
+0
+1
+Latin Modern Math
+1
+Regular
+1
+LatinModernMath-Regular
+LatinModernMath-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+478
+LinLibertine_RZI.otf
+0
+1
+Linux Libertine O
+1
+Semibold Italic
+1
+Linux Libertine O Semibold Italic
+LinLibertineOZI
+
+600
+5
+203
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+479
+lmmonoproplt10-bold.otf
+0
+1
+Latin Modern Mono Prop Light
+1
+10 Bold
+2
+Latin Modern Mono Prop Light 10 Bold
+LMMonoPropLt10-Bold
+LMMonoPropLt10-Bold
+
+700
+5
+0
+0
+1
+0
+10.037500
+5.018750
+20.075000
+3
+256
+480
+NotoSansKhmer-Regular.ttf
+0
+1
+Noto Sans Khmer
+1
+Regular
+1
+Noto Sans Khmer Regular
+NotoSansKhmer-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+481
+Tinos-Italic.ttf
+0
+1
+Tinos
+1
+Italic
+1
+Tinos Italic
+Tinos-Italic
+
+400
+5
+293
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+482
+lmroman12-italic.otf
+0
+1
+Latin Modern Roman
+1
+12 Italic
+2
+Latin Modern Roman 12 Italic
+LMRoman12-Italic
+LMRoman12-Italic
+
+400
+5
+249
+0
+0
+1
+12.045000
+11.041250
+24.090000
+2
+256
+483
+STIXSizeThreeSym-Bold.otf
+0
+1
+STIXSizeThreeSym
+1
+Bold
+1
+STIXSizeThreeSym-Bold
+STIXSizeThreeSym-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+484
+NotoSansCherokee-Regular.ttf
+0
+1
+Noto Sans Cherokee
+1
+Regular
+1
+Noto Sans Cherokee Regular
+NotoSansCherokee-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+485
+Arimo-BoldItalic.ttf
+0
+1
+Arimo
+1
+Bold Italic
+1
+Arimo Bold Italic
+Arimo-BoldItalic
+
+700
+5
+212
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+486
+NotoSansBhaiksuki-Regular.ttf
+0
+1
+Noto Sans Bhaiksuki
+1
+Regular
+1
+Noto Sans Bhaiksuki Regular
+NotoSansBhaiksuki-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+487
+Roboto-Italic.ttf
+0
+1
+Roboto
+1
+Italic
+1
+Roboto Italic
+Roboto-Italic
+
+400
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+488
+NotoSansDisplay-BoldItalic.ttf
+0
+1
+Noto Sans Display
+1
+Bold Italic
+1
+Noto Sans Display Bold Italic
+NotoSansDisplay-BoldItalic
+
+700
+5
+212
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+489
+OpenSans-Italic.ttf
+0
+1
+Open Sans
+1
+Italic
+1
+Open Sans Italic
+OpenSans-Italic
+
+400
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+490
+STIXSizeTwoSym-Regular.otf
+0
+1
+STIXSizeTwoSym
+1
+Regular
+1
+STIXSizeTwoSym-Regular
+STIXSizeTwoSym-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+491
+DejaVuSansMono-Oblique.ttf
+0
+1
+DejaVu Sans Mono
+1
+Oblique
+1
+DejaVu Sans Mono Oblique
+DejaVuSansMono-Oblique
+
+400
+5
+194
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+492
+C059-Roman.otf
+0
+1
+C059
+1
+Roman
+2
+C059 Roman
+C059-Roman
+C059-Roman
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+493
+TlwgTypist-BoldOblique.otf
+0
+1
+Tlwg Typist
+1
+Bold Oblique
+1
+Tlwg Typist Bold Oblique
+TlwgTypist-BoldOblique
+
+700
+5
+212
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+494
+GFSDidotBoldItalic.otf
+0
+1
+GFS Didot
+1
+Bold Italic
+2
+GFS Didot Bold Italic
+GFSDidot-BoldItalic
+GFSDidot-BoldItalic
+
+700
+5
+212
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+495
+Junicode.ttf
+0
+1
+Junicode
+1
+Regular
+1
+Junicode
+Junicode
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+496
+NotoSansNewa-Regular.ttf
+0
+1
+Noto Sans Newa
+1
+Regular
+1
+Noto Sans Newa Regular
+NotoSansNewa-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+497
+Roboto-MediumItalic.ttf
+0
+1
+Roboto
+1
+Medium Italic
+1
+Roboto Medium Italic
+Roboto-MediumItalic
+
+500
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+498
+Cabin-MediumItalic.otf
+0
+1
+Cabin
+1
+Medium Italic
+2
+Cabin Medium Italic
+Cabin-MediumItalic
+Cabin-MediumItalic
+
+500
+5
+0
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+499
+Sawasdee-Bold.otf
+0
+1
+Sawasdee
+1
+Bold
+1
+Sawasdee Bold
+Sawasdee-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+500
+DejaVuSansCondensed.ttf
+0
+1
+DejaVu Sans
+1
+Condensed
+1
+DejaVu Sans Condensed
+DejaVuSansCondensed
+
+400
+4
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+501
+GFSDidotBold.otf
+0
+1
+GFS Didot
+1
+Bold
+2
+GFS Didot Bold
+GFSDidot-Bold
+GFSDidot-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+502
+NotoSansSymbols-Bold.ttf
+0
+1
+Noto Sans Symbols
+1
+Bold
+1
+Noto Sans Symbols Bold
+NotoSansSymbols-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+503
+texgyreheros-italic.otf
+0
+1
+TeX Gyre Heros
+1
+Italic
+2
+TeX Gyre Heros Italic
+TeXGyreHeros-Italic
+TeXGyreHeros-Italic
+
+400
+5
+212
+0
+0
+1
+10.037500
+5.018750
+20.075000
+2
+256
+504
+texgyreschola-bolditalic.otf
+0
+1
+TeX Gyre Schola
+1
+Bold Italic
+2
+TeX Gyre Schola Bold Italic
+TeXGyreSchola-BoldItalic
+TeXGyreSchola-BoldItalic
+
+700
+5
+267
+0
+1
+1
+10.037500
+5.018750
+20.075000
+4
+256
+505
+P052-Bold.otf
+0
+1
+P052
+1
+Bold
+2
+P052 Bold
+P052-Bold
+P052-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+506
+NimbusMonoPS-Bold.t1
+0
+1
+Nimbus Mono PS
+1
+Bold
+1
+Nimbus Mono PS Bold
+NimbusMonoPS-Bold
+
+200
+100
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+507
+NotoSansManichaean-Regular.ttf
+0
+1
+Noto Sans Manichaean
+1
+Regular
+1
+Noto Sans Manichaean Regular
+NotoSansManichaean-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+508
+NotoSans-BoldItalic.ttf
+0
+1
+Noto Sans
+1
+Bold Italic
+1
+Noto Sans Bold Italic
+NotoSans-BoldItalic
+
+700
+5
+212
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+509
+GilliusADFNo2-BoldCondItalic.otf
+0
+1
+Gillius ADF No2
+1
+Bold Cond Italic
+1
+GilliusADFNo2-BoldCondItalic
+GilliusADFNo2-BoldCondItalic
+
+700
+3
+176
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+510
+texgyrecursor-bolditalic.otf
+0
+1
+TeX Gyre Cursor
+1
+Bold Italic
+2
+TeX Gyre Cursor Bold Italic
+TeXGyreCursor-BoldItalic
+TeXGyreCursor-BoldItalic
+
+700
+5
+212
+0
+1
+1
+10.037500
+5.018750
+20.075000
+4
+256
+511
+NotoSansCuneiform-Regular.ttf
+0
+1
+Noto Sans Cuneiform
+1
+Regular
+1
+Noto Sans Cuneiform Regular
+NotoSansCuneiform-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+512
+Tinos-Bold.ttf
+0
+1
+Tinos
+1
+Bold
+1
+Tinos Bold
+Tinos-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+513
+EBGaramond12-Italic.ttf
+0
+1
+EB Garamond
+1
+12 Italic
+1
+EB Garamond 12 Italic
+EBGaramond12-Italic
+
+400
+5
+305
+0
+0
+1
+12.045000
+9.535625
+120.450000
+2
+256
+514
+TlwgMono-Bold.otf
+0
+1
+Tlwg Mono
+1
+Bold
+1
+Tlwg Mono Bold
+TlwgMono-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+515
+Norasi-Italic.otf
+0
+1
+Norasi
+1
+Italic
+1
+Norasi Italic
+Norasi-Italic
+
+400
+5
+277
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+516
+NotoSansMongolian-Regular.ttf
+0
+1
+Noto Sans Mongolian
+1
+Regular
+1
+Noto Sans Mongolian Regular
+NotoSansMongolian-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+517
+Lato-Bold.ttf
+0
+1
+Lato
+1
+Bold
+1
+Lato Bold
+Lato-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+518
+Caladea-Italic.ttf
+0
+1
+Caladea
+1
+Italic
+1
+Caladea Italic
+Caladea-Italic
+
+400
+5
+158
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+519
+NotoSansTamil-Regular.ttf
+0
+1
+Noto Sans Tamil
+1
+Regular
+1
+Noto Sans Tamil Regular
+NotoSansTamil-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+520
+texgyreheros-bold.otf
+0
+1
+TeX Gyre Heros
+1
+Bold
+2
+TeX Gyre Heros Bold
+TeXGyreHeros-Bold
+TeXGyreHeros-Bold
+
+700
+5
+0
+0
+1
+0
+10.037500
+5.018750
+20.075000
+3
+256
+521
+NotoSerifTelugu-Regular.ttf
+0
+1
+Noto Serif Telugu
+1
+Regular
+1
+Noto Serif Telugu Regular
+NotoSerifTelugu-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+522
+UnPilgi.ttf
+0
+2
+UnPilgi
+은 필기
+1
+Regular
+2
+Un Pilgi
+은 필기
+UnPilgi
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+523
+lmroman10-bold.otf
+0
+1
+Latin Modern Roman
+1
+10 Bold
+2
+Latin Modern Roman 10 Bold
+LMRoman10-Bold
+LMRoman10-Bold
+
+700
+5
+0
+0
+1
+0
+10.037500
+9.535625
+11.041250
+3
+256
+524
+STIXSizeOneSym-Bold.otf
+0
+1
+STIXSizeOneSym
+1
+Bold
+1
+STIXSizeOneSym-Bold
+STIXSizeOneSym-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+525
+b018012l.pfb
+0
+1
+URW Bookman L
+1
+Light
+1
+URW Bookman L Light
+URWBookmanL-Ligh
+
+80
+100
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+526
+putbi8a.pfb
+0
+1
+Utopia
+1
+Bold Italic
+1
+Utopia Bold Italic
+Utopia-BoldItalic
+
+200
+100
+100
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+527
+GFSDidot.otf
+0
+1
+GFS Didot
+1
+Regular
+2
+GFS Didot Regular
+GFSDidot-Regular
+GFSDidot-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+528
+n019043l.pfb
+0
+1
+Nimbus Sans L
+1
+Regular Condensed
+1
+Nimbus Sans L Regular Condensed
+NimbusSanL-ReguCond
+
+80
+75
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+529
+Amiri-BoldSlanted.ttf
+0
+1
+Amiri
+1
+Bold Slanted
+1
+Amiri Bold Slanted
+Amiri-BoldSlanted
+
+700
+5
+-176
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+530
+DejaVuSerifCondensed-Italic.ttf
+0
+1
+DejaVu Serif
+1
+Condensed Italic
+1
+DejaVu Serif Condensed Italic
+DejaVuSerifCondensed-Italic
+
+400
+4
+194
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+531
+UniversalisADFStd-Cond.otf
+0
+1
+Universalis ADF Std
+1
+Cond
+1
+UniversalisADFStd-Cond
+UniversalisADFStd-Cond
+
+400
+3
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+532
+texgyrechorus-mediumitalic.otf
+0
+1
+TeX Gyre Chorus
+1
+Regular
+2
+TeX Gyre Chorus
+TeXGyreChorus-MediumItalic
+TeXGyreChorus-MediumItalic
+
+500
+5
+249
+0
+0
+0
+10.037500
+5.018750
+20.075000
+1
+256
+533
+LobsterTwo-Regular.otf
+0
+1
+Lobster Two
+1
+Regular
+2
+Lobster Two
+LobsterTwo
+LobsterTwo
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+534
+UnBatang.ttf
+0
+2
+UnBatang
+은 바탕
+1
+Regular
+2
+Un Batang
+은 바탕
+UnBatang
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+535
+NotoSansTaiViet-Regular.ttf
+0
+1
+Noto Sans Tai Viet
+1
+Regular
+1
+Noto Sans Tai Viet Regular
+NotoSansTaiViet-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+536
+GFSNeohellenic.otf
+0
+1
+GFS Neohellenic
+1
+Regular
+2
+GFS Neohellenic Regular
+GFSNeohellenic-Regular
+GFSNeohellenic-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+537
+Kinnari-BoldOblique.otf
+0
+1
+Kinnari
+1
+Bold Oblique
+1
+Kinnari Bold Oblique
+Kinnari-BoldOblique
+
+700
+5
+212
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+538
+c059033l.pfb
+0
+1
+Century Schoolbook L
+1
+Italic
+1
+Century Schoolbook L Italic
+CenturySchL-Ital
+
+80
+100
+100
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+539
+Carlito-Regular.ttf
+0
+1
+Carlito
+1
+Regular
+1
+Carlito
+Carlito
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+540
+NotoSansCham-Bold.ttf
+0
+1
+Noto Sans Cham
+1
+Bold
+1
+Noto Sans Cham Bold
+NotoSansCham-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+541
+UniversalisADFStd-Bold.otf
+0
+1
+Universalis ADF Std
+1
+Bold
+1
+UniversalisADFStd-Bold
+UniversalisADFStd-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+542
+GFSGazis.otf
+0
+1
+GFS Gazis
+1
+Regular
+2
+GFS Gazis Regular
+GFSGazis-Regular
+GFSGazis-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+543
+NotoSansKannada-Bold.ttf
+0
+1
+Noto Sans Kannada
+1
+Bold
+1
+Noto Sans Kannada Bold
+NotoSansKannada-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+544
+NotoSansMarchen-Regular.ttf
+0
+1
+Noto Sans Marchen
+1
+Regular
+1
+Noto Sans Marchen Regular
+NotoSansMarchen-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+545
+texgyrebonum-bold.otf
+0
+1
+TeX Gyre Bonum
+1
+Bold
+2
+TeX Gyre Bonum Bold
+TeXGyreBonum-Bold
+TeXGyreBonum-Bold
+
+700
+5
+0
+0
+1
+0
+10.037500
+5.018750
+20.075000
+3
+256
+546
+UnJamoNovel.ttf
+0
+2
+UnJamoNovel
+은 자모 노벨
+1
+Regular
+2
+Un Jamo Novel
+은 자모 노벨
+UnJamoNovel
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+547
+DejaVuSerif-Bold.ttf
+0
+1
+DejaVu Serif
+1
+Bold
+1
+DejaVu Serif Bold
+DejaVuSerif-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+548
+gbsn00lp.ttf
+0
+2
+AR PL SungtiL GB
+文鼎ＰＬ简报宋
+1
+Regular
+2
+AR PL SungtiL GB
+文鼎ＰＬ简报宋
+BousungEG-Light-GB
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+549
+NotoSansMono-Regular.ttf
+0
+1
+Noto Sans Mono
+1
+Regular
+1
+Noto Sans Mono Regular
+NotoSansMono-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+550
+NotoSansMultani-Regular.ttf
+0
+1
+Noto Sans Multani
+1
+Regular
+1
+Noto Sans Multani Regular
+NotoSansMultani-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+551
+lmmonoltcond10-regular.otf
+0
+1
+Latin Modern Mono Light Cond
+1
+10 Regular
+2
+Latin Modern Mono Light Cond 10 Regular
+LMMonoLtCond10-Regular
+LMMonoLtCond10-Regular
+
+400
+5
+0
+1
+0
+0
+10.037500
+5.018750
+20.075000
+1
+256
+552
+NotoSerifGujarati-Regular.ttf
+0
+1
+Noto Serif Gujarati
+1
+Regular
+1
+Noto Serif Gujarati Regular
+NotoSerifGujarati-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+553
+Purisa.otf
+0
+1
+Purisa
+1
+Regular
+1
+Purisa
+Purisa
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+554
+BerenisADFPro-Italic.otf
+0
+1
+Berenis ADF Pro
+1
+Italic
+1
+Berenis ADF Pro Italic
+BerenisADFPro-Italic
+
+400
+5
+296
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+555
+D050000L.otf
+0
+1
+D050000L
+1
+Regular
+1
+D050000L
+D050000L
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+556
+Lato-HairlineItalic.ttf
+0
+1
+Lato
+1
+Hairline Italic
+1
+Lato Hairline Italic
+Lato-HairlineItalic
+
+100
+5
+122
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+557
+C059-BdIta.otf
+0
+1
+C059
+1
+Bold Italic
+2
+C059 Bold Italic
+C059-BdIta
+C059-BdIta
+
+700
+5
+267
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+558
+lmroman12-bold.otf
+0
+1
+Latin Modern Roman
+1
+12 Bold
+2
+Latin Modern Roman 12 Bold
+LMRoman12-Bold
+LMRoman12-Bold
+
+700
+5
+0
+0
+1
+0
+12.045000
+11.041250
+24.090000
+3
+256
+559
+GentiumPlusCompact-R.ttf
+0
+1
+Gentium Plus Compact
+1
+Regular
+1
+Gentium Plus Compact
+GentiumPlusCompact
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+560
+Lato-LightItalic.ttf
+0
+1
+Lato
+1
+Light Italic
+1
+Lato Light Italic
+Lato-LightItalic
+
+300
+5
+122
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+561
+STIX-Regular.otf
+0
+1
+STIX
+1
+Regular
+1
+STIX-Regular
+STIX-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+562
+DejaVuSerif-BoldItalic.ttf
+0
+1
+DejaVu Serif
+1
+Bold Italic
+1
+DejaVu Serif Bold Italic
+DejaVuSerif-BoldItalic
+
+700
+5
+194
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+563
+STIXGeneral-Italic.otf
+0
+1
+STIXGeneral
+1
+Italic
+1
+STIXGeneral-Italic
+STIXGeneral-Italic
+
+400
+5
+292
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+564
+Lato-MediumItalic.ttf
+0
+1
+Lato
+1
+Medium Italic
+1
+Lato Medium Italic
+Lato-MediumItalic
+
+500
+5
+122
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+565
+NotoSansImperialAramaic-Regular.ttf
+0
+1
+Noto Sans Imperial Aramaic
+1
+Regular
+1
+Noto Sans Imperial Aramaic Regular
+NotoSansImperialAramaic-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+566
+DejaVuSansMono-Bold.ttf
+0
+1
+DejaVu Sans Mono
+1
+Bold
+1
+DejaVu Sans Mono Bold
+DejaVuSansMono-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+567
+NotoSansWarangCiti-Regular.ttf
+0
+1
+Noto Sans Warang Citi
+1
+Regular
+1
+Noto Sans Warang Citi Regular
+NotoSansWarangCiti-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+568
+NotoSansDevanagari-Bold.ttf
+0
+1
+Noto Sans Devanagari
+1
+Bold
+1
+Noto Sans Devanagari Bold
+NotoSansDevanagari-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+569
+STIXIntegralsSm-Bold.otf
+0
+1
+STIXIntegralsSm
+1
+Bold
+1
+STIXIntegralsSm-Bold
+STIXIntegralsSm-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+570
+OpenSans-SemiboldItalic.ttf
+0
+1
+Open Sans
+1
+Semibold Italic
+1
+Open Sans Semibold Italic
+OpenSans-SemiboldItalic
+
+600
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+571
+AccanthisADFStdNo2-Italic.otf
+0
+1
+Accanthis ADF Std No2
+1
+Italic
+1
+AccanthisADFStdNo2-Italic
+AccanthisADFStdNo2-Italic
+
+400
+5
+267
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+572
+NotoSansThaana-Bold.ttf
+0
+1
+Noto Sans Thaana
+1
+Bold
+1
+Noto Sans Thaana Bold
+NotoSansThaana-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+573
+NotoSansGothic-Regular.ttf
+0
+1
+Noto Sans Gothic
+1
+Regular
+1
+Noto Sans Gothic Regular
+NotoSansGothic-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+574
+lmsansquot8-boldoblique.otf
+0
+1
+Latin Modern Sans Quotation
+1
+8 Bold Oblique
+2
+Latin Modern Sans Quotation 8 Bold Oblique
+LMSansQuot8-BoldOblique
+LMSansQuot8-BoldOblique
+
+700
+5
+212
+0
+0
+1
+8.030000
+4.015000
+16.060000
+4
+256
+575
+AccanthisADFStdNo2-Regular.otf
+0
+1
+Accanthis ADF Std No2
+1
+Regular
+1
+AccanthisADFStdNo2-Regular
+AccanthisADFStdNo2-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+576
+n021023l.pfb
+0
+1
+Nimbus Roman No9 L
+1
+Regular Italic
+1
+Nimbus Roman No9 L Regular Italic
+NimbusRomNo9L-ReguItal
+
+80
+100
+100
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+577
+Laksaman-Italic.otf
+0
+1
+Laksaman
+1
+Italic
+1
+Laksaman Italic
+Laksaman-Italic
+
+400
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+578
+AmiriQuran.ttf
+0
+1
+Amiri Quran
+1
+Regular
+1
+Amiri Quran
+AmiriQuran-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+579
+STIX-BoldItalic.otf
+0
+1
+STIX
+1
+Bold Italic
+1
+STIX-BoldItalic
+STIX-BoldItalic
+
+700
+5
+292
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+580
+GilliusADF-BoldCondItalic.otf
+0
+1
+Gillius ADF
+1
+Bold Cond Italic
+1
+GilliusADF-BoldCondItalic
+GilliusADF-BoldCondItalic
+
+700
+3
+176
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+581
+lmmonoltcond10-oblique.otf
+0
+1
+Latin Modern Mono Light Cond
+1
+10 Oblique
+2
+Latin Modern Mono Light Cond 10 Oblique
+LMMonoLtCond10-Oblique
+LMMonoLtCond10-Oblique
+
+400
+5
+166
+0
+0
+1
+10.037500
+5.018750
+20.075000
+2
+256
+582
+URWBookman-Demi.t1
+0
+1
+URW Bookman
+1
+Demi
+1
+URW Bookman Demi
+URWBookman-Demi
+
+180
+100
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+583
+NimbusRoman-Bold.t1
+0
+1
+Nimbus Roman
+1
+Bold
+1
+Nimbus Roman Bold
+NimbusRoman-Bold
+
+200
+100
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+584
+TlwgTypist-Bold.otf
+0
+1
+Tlwg Typist
+1
+Bold
+1
+Tlwg Typist Bold
+TlwgTypist-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+585
+NotoNaskhArabic-Regular.ttf
+0
+1
+Noto Naskh Arabic
+1
+Regular
+1
+Noto Naskh Arabic
+NotoNaskhArabic
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+586
+Sawasdee-Oblique.otf
+0
+1
+Sawasdee
+1
+Oblique
+1
+Sawasdee Oblique
+Sawasdee-Oblique
+
+400
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+587
+GenBkBasI.ttf
+0
+1
+Gentium Book Basic
+1
+Italic
+1
+Gentium Book Basic Italic
+GentiumBookBasic-Italic
+
+400
+5
+140
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+588
+lmromandemi10-regular.otf
+0
+1
+Latin Modern Roman Demi
+1
+10 Regular
+2
+Latin Modern Roman Demi 10 Regular
+LMRomanDemi10-Regular
+LMRomanDemi10-Regular
+
+600
+5
+0
+0
+0
+0
+10.037500
+5.018750
+20.075000
+1
+256
+589
+Caladea-BoldItalic.ttf
+0
+1
+Caladea
+1
+Bold Italic
+1
+Caladea Bold Italic
+Caladea-BoldItalic
+
+700
+5
+158
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+590
+Junicode-BoldItalic.ttf
+0
+1
+Junicode
+1
+BoldItalic
+1
+Junicode Bold Italic
+Junicode-BoldItalic
+
+600
+5
+194
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+591
+NotoSansHatran-Regular.ttf
+0
+1
+Noto Sans Hatran
+1
+Regular
+1
+Noto Sans Hatran Regular
+NotoSansHatran-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+592
+Norasi.otf
+0
+1
+Norasi
+1
+Regular
+1
+Norasi
+Norasi
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+593
+lmmono10-italic.otf
+0
+1
+Latin Modern Mono
+1
+10 Italic
+2
+Latin Modern Mono 10 Italic
+LMMono10-Italic
+LMMono10-Italic
+
+400
+5
+249
+0
+0
+1
+10.037500
+5.018750
+20.075000
+2
+256
+594
+NotoSansAvestan-Regular.ttf
+0
+1
+Noto Sans Avestan
+1
+Regular
+1
+Noto Sans Avestan Regular
+NotoSansAvestan-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+595
+texgyreadventor-bold.otf
+0
+1
+TeX Gyre Adventor
+1
+Bold
+1
+TeXGyreAdventor-Bold
+TeXGyreAdventor-Bold
+
+700
+5
+0
+0
+1
+0
+10.037500
+0.000000
+0.000000
+0
+0
+596
+n019044l.pfb
+0
+1
+Nimbus Sans L
+1
+Bold Condensed
+1
+Nimbus Sans L Bold Condensed
+NimbusSanL-BoldCond
+
+200
+75
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+597
+NotoSansNKo-Regular.ttf
+0
+1
+Noto Sans NKo
+1
+Regular
+1
+Noto Sans NKo Regular
+NotoSansNKo-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+598
+LinLibertine_RZ.otf
+0
+1
+Linux Libertine O
+1
+Semibold
+1
+Linux Libertine O Semibold
+LinLibertineOZ
+
+600
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+599
+NotoSansEthiopic-Bold.ttf
+0
+1
+Noto Sans Ethiopic
+1
+Bold
+1
+Noto Sans Ethiopic Bold
+NotoSansEthiopic-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+600
+b018015l.pfb
+0
+1
+URW Bookman L
+1
+Demi Bold
+1
+URW Bookman L Demi Bold
+URWBookmanL-DemiBold
+
+200
+100
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+601
+NotoSansOldTurkic-Regular.ttf
+0
+1
+Noto Sans Old Turkic
+1
+Regular
+1
+Noto Sans Old Turkic Regular
+NotoSansOldTurkic-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+602
+Purisa-BoldOblique.otf
+0
+1
+Purisa
+1
+Bold Oblique
+1
+Purisa Bold Oblique
+Purisa-BoldOblique
+
+700
+5
+212
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+603
+NotoSansSaurashtra-Regular.ttf
+0
+1
+Noto Sans Saurashtra
+1
+Regular
+1
+Noto Sans Saurashtra Regular
+NotoSansSaurashtra-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+604
+lmsans10-bold.otf
+0
+1
+Latin Modern Sans
+1
+10 Bold
+2
+Latin Modern Sans 10 Bold
+LMSans10-Bold
+LMSans10-Bold
+
+700
+5
+0
+0
+1
+0
+10.037500
+5.018750
+20.075000
+3
+256
+605
+NotoSansOldPermic-Regular.ttf
+0
+1
+Noto Sans Old Permic
+1
+Regular
+1
+Noto Sans Old Permic Regular
+NotoSansOldPermic-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+606
+p052023l.pfb
+0
+1
+URW Palladio L
+1
+Italic
+1
+URW Palladio L Italic
+URWPalladioL-Ital
+
+80
+100
+100
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+607
+texgyrecursor-regular.otf
+0
+1
+TeX Gyre Cursor
+1
+Regular
+2
+TeX Gyre Cursor
+TeXGyreCursor-Regular
+TeXGyreCursor-Regular
+
+400
+5
+0
+1
+0
+0
+10.037500
+5.018750
+20.075000
+1
+256
+608
+BerenisADFPro-Regular.otf
+0
+1
+Berenis ADF Pro
+1
+Regular
+1
+Berenis ADF Pro Regular
+BerenisADFPro-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+609
+AccanthisADFStdNo3-Regular.otf
+0
+1
+Accanthis ADF Std No3
+1
+Regular
+1
+AccanthisADFStdNo3-Regular
+AccanthisADFStdNo3-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+610
+Cousine-Italic.ttf
+0
+1
+Cousine
+1
+Italic
+1
+Cousine Italic
+Cousine-Italic
+
+400
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+611
+OpenSans-LightItalic.ttf
+0
+1
+Open Sans
+1
+Light Italic
+1
+Open Sans Light Italic
+OpenSansLight-Italic
+
+300
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+612
+Carlito-BoldItalic.ttf
+0
+1
+Carlito
+1
+Bold Italic
+1
+Carlito Bold Italic
+Carlito-BoldItalic
+
+700
+5
+122
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+613
+AmiriQuranColored.ttf
+0
+1
+Amiri Quran Colored
+1
+Regular
+1
+Amiri Quran Colored
+AmiriQuranColored-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+614
+Roboto-Black.ttf
+0
+1
+Roboto
+1
+Black
+1
+Roboto Black
+Roboto-Black
+
+900
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+615
+Carlito-Bold.ttf
+0
+1
+Carlito
+1
+Bold
+1
+Carlito Bold
+Carlito-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+616
+NotoSansTelugu-Regular.ttf
+0
+1
+Noto Sans Telugu
+1
+Regular
+1
+Noto Sans Telugu Regular
+NotoSansTelugu-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+617
+Go-Medium-Italic.ttf
+0
+1
+Go Medium
+1
+Italic
+1
+Go Medium Italic
+GoMedium-Italic
+
+500
+5
+194
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+618
+lmroman9-italic.otf
+0
+1
+Latin Modern Roman
+1
+9 Italic
+2
+Latin Modern Roman 9 Italic
+LMRoman9-Italic
+LMRoman9-Italic
+
+400
+5
+249
+0
+0
+1
+9.033750
+8.531875
+9.535625
+2
+256
+619
+NotoSansOlChiki-Regular.ttf
+0
+1
+Noto Sans Ol Chiki
+1
+Regular
+1
+Noto Sans Ol Chiki Regular
+NotoSansOlChiki-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+620
+NotoSansTagbanwa-Regular.ttf
+0
+1
+Noto Sans Tagbanwa
+1
+Regular
+1
+Noto Sans Tagbanwa Regular
+NotoSansTagbanwa-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+621
+TlwgTypo-Bold.otf
+0
+1
+Tlwg Typo
+1
+Bold
+1
+Tlwg Typo Bold
+TlwgTypo-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+622
+GenBkBasBI.ttf
+0
+1
+Gentium Book Basic
+1
+Bold Italic
+1
+Gentium Book Basic Bold Italic
+GentiumBookBasic-BoldItalic
+
+700
+5
+140
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+623
+Tinos-BoldItalic.ttf
+0
+1
+Tinos
+1
+Bold Italic
+1
+Tinos Bold Italic
+Tinos-BoldItalic
+
+700
+5
+293
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+624
+NotoSansMyanmar-Bold.ttf
+0
+1
+Noto Sans Myanmar
+1
+Bold
+1
+Noto Sans Myanmar Bold
+NotoSansMyanmar-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+625
+NotoSansNabataean-Regular.ttf
+0
+1
+Noto Sans Nabataean
+1
+Regular
+1
+Noto Sans Nabataean Regular
+NotoSansNabataean-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+626
+Purisa-Oblique.otf
+0
+1
+Purisa
+1
+Oblique
+1
+Purisa Oblique
+Purisa-Oblique
+
+400
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+627
+STIXSizeThreeSym-Regular.otf
+0
+1
+STIXSizeThreeSym
+1
+Regular
+1
+STIXSizeThreeSym-Regular
+STIXSizeThreeSym-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+628
+OpenSans-BoldItalic.ttf
+0
+1
+Open Sans
+1
+Bold Italic
+1
+Open Sans Bold Italic
+OpenSans-BoldItalic
+
+700
+5
+212
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+629
+pcrb8a.pfb
+0
+1
+Courier
+1
+Bold
+1
+Courier Bold
+Courier-Bold
+
+200
+100
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+630
+NotoSerifArmenian-Regular.ttf
+0
+1
+Noto Serif Armenian
+1
+Regular
+1
+Noto Serif Armenian Regular
+NotoSerifArmenian-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+631
+NotoSerifDisplay-Regular.ttf
+0
+1
+Noto Serif Display
+1
+Regular
+1
+Noto Serif Display Regular
+NotoSerifDisplay-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+632
+a010035l.pfb
+0
+1
+URW Gothic L
+1
+Demi Oblique
+1
+URW Gothic L Demi Oblique
+URWGothicL-DemiObli
+
+180
+100
+110
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+633
+DejaVuSans.ttf
+0
+1
+DejaVu Sans
+1
+Book
+1
+DejaVu Sans
+DejaVuSans
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+634
+gkai00mp.ttf
+0
+2
+AR PL KaitiM GB
+文鼎ＰＬ简中楷
+1
+Regular
+2
+AR PL KaitiM GB
+文鼎ＰＬ简中楷
+GBZenKai-Medium
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+635
+lmromanslant8-regular.otf
+0
+1
+Latin Modern Roman Slanted
+1
+8 Regular
+2
+Latin Modern Roman Slanted 8 Regular
+LMRomanSlant8-Regular
+LMRomanSlant8-Regular
+
+400
+5
+166
+1
+0
+0
+8.030000
+4.015000
+8.531875
+1
+256
+636
+STIXNonUnicode-Italic.otf
+0
+1
+STIXNonUnicode
+1
+Italic
+1
+STIXNonUnicode-Italic
+STIXNonUnicode-Italic
+
+400
+5
+292
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+637
+texgyrebonum-regular.otf
+0
+1
+TeX Gyre Bonum
+1
+Regular
+2
+TeX Gyre Bonum
+TeXGyreBonum-Regular
+TeXGyreBonum-Regular
+
+400
+5
+0
+1
+0
+0
+10.037500
+5.018750
+20.075000
+1
+256
+638
+n022003l.pfb
+0
+1
+Nimbus Mono L
+1
+Regular
+1
+Nimbus Mono L Regular
+NimbusMonL-Regu
+
+80
+100
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+639
+texgyreheroscn-italic.otf
+0
+1
+TeX Gyre Heros Cn
+1
+Italic
+2
+TeX Gyre Heros Cn Italic
+TeXGyreHerosCondensed-Italic
+TeXGyreHerosCondensed-Italic
+
+400
+3
+174
+0
+0
+1
+10.037500
+5.018750
+20.075000
+2
+256
+640
+GFSDidotClassic.otf
+0
+1
+GFS Didot Classic
+1
+Regular
+1
+GFSDidotClassic-Regular
+GFSDidotClassic-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+641
+BerenisADFPro-Bold.otf
+0
+1
+Berenis ADF Pro
+1
+Bold
+1
+Berenis ADF Pro Bold
+BerenisADFPro-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+642
+lmromanslant12-regular.otf
+0
+1
+Latin Modern Roman Slanted
+1
+12 Regular
+2
+Latin Modern Roman Slanted 12 Regular
+LMRomanSlant12-Regular
+LMRomanSlant12-Regular
+
+400
+5
+166
+1
+0
+0
+12.045000
+11.041250
+14.052500
+1
+256
+643
+GFSTheokritos.otf
+0
+1
+GFS Theokritos
+1
+Regular
+1
+GFS Theokritos Regular
+GFSTheokritos-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+644
+Cabin-Regular.otf
+0
+1
+Cabin
+1
+Regular
+2
+Cabin Regular
+Cabin-Regular
+Cabin-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+645
+texgyreschola-italic.otf
+0
+1
+TeX Gyre Schola
+1
+Italic
+2
+TeX Gyre Schola Italic
+TeXGyreSchola-Italic
+TeXGyreSchola-Italic
+
+400
+5
+267
+0
+0
+1
+10.037500
+5.018750
+20.075000
+2
+256
+646
+NotoSerifDogra-Regular.ttf
+0
+1
+Noto Serif Dogra
+1
+Regular
+1
+Noto Serif Dogra Regular
+NotoSerifDogra-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+647
+Laksaman-Bold.otf
+0
+1
+Laksaman
+1
+Bold
+1
+Laksaman Bold
+Laksaman-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+648
+Arimo-Regular.ttf
+0
+1
+Arimo
+1
+Regular
+1
+Arimo
+Arimo
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+649
+lmromanslant9-regular.otf
+0
+1
+Latin Modern Roman Slanted
+1
+9 Regular
+2
+Latin Modern Roman Slanted 9 Regular
+LMRomanSlant9-Regular
+LMRomanSlant9-Regular
+
+400
+5
+166
+1
+0
+0
+9.033750
+8.531875
+9.535625
+1
+256
+650
+n019023l.pfb
+0
+1
+Nimbus Sans L
+1
+Regular Italic
+1
+Nimbus Sans L Regular Italic
+NimbusSanL-ReguItal
+
+80
+100
+100
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+651
+Lato-BlackItalic.ttf
+0
+1
+Lato
+1
+Black Italic
+1
+Lato Black Italic
+Lato-BlackItalic
+
+900
+5
+122
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+652
+NotoSansMayanNumerals-Regular.ttf
+0
+1
+Noto Sans Mayan Numerals
+1
+Regular
+1
+Noto Sans Mayan Numerals Regular
+NotoSansMayanNumerals-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+653
+lmroman10-italic.otf
+0
+1
+Latin Modern Roman
+1
+10 Italic
+2
+Latin Modern Roman 10 Italic
+LMRoman10-Italic
+LMRoman10-Italic
+
+400
+5
+249
+0
+0
+1
+10.037500
+9.535625
+11.041250
+2
+256
+654
+NotoSansInscriptionalParthian-Regular.ttf
+0
+1
+Noto Sans Inscriptional Parthian
+1
+Regular
+1
+Noto Sans Inscriptional Parthian Regular
+NotoSansInscriptionalParthian-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+655
+NotoSerifTangut-Regular.ttf
+0
+1
+Noto Serif Tangut
+1
+Regular
+1
+Noto Serif Tangut Regular
+NotoSerifTangut-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+656
+ipagp.ttf
+0
+2
+IPAPGothic
+IPA Pゴシック
+1
+Regular
+2
+IPAPGothic
+IPA Pゴシック
+IPAPGothic
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+657
+NotoSansMahajani-Regular.ttf
+0
+1
+Noto Sans Mahajani
+1
+Regular
+1
+Noto Sans Mahajani Regular
+NotoSansMahajani-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+658
+NotoSansNewTaiLue-Regular.ttf
+0
+1
+Noto Sans New Tai Lue
+1
+Regular
+1
+Noto Sans New Tai Lue Regular
+NotoSansNewTaiLue-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+659
+NotoSansRunic-Regular.ttf
+0
+1
+Noto Sans Runic
+1
+Regular
+1
+Noto Sans Runic Regular
+NotoSansRunic-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+660
+lmmonoprop10-regular.otf
+0
+1
+Latin Modern Mono Prop
+1
+10 Regular
+2
+Latin Modern Mono Prop 10 Regular
+LMMonoProp10-Regular
+LMMonoProp10-Regular
+
+400
+5
+0
+1
+0
+0
+10.037500
+5.018750
+20.075000
+1
+256
+661
+NotoSerifKannada-Bold.ttf
+0
+1
+Noto Serif Kannada
+1
+Bold
+1
+Noto Serif Kannada Bold
+NotoSerifKannada-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+662
+STIXSizeFiveSym-Regular.otf
+0
+1
+STIXSizeFiveSym
+1
+Regular
+1
+STIXSizeFiveSym-Regular
+STIXSizeFiveSym-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+663
+NotoSansSymbols-Regular.ttf
+0
+1
+Noto Sans Symbols
+1
+Regular
+1
+Noto Sans Symbols Regular
+NotoSansSymbols-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+664
+texgyretermes-math.otf
+0
+1
+TeX Gyre Termes Math
+1
+Regular
+1
+TeXGyreTermesMath-Regular
+TeXGyreTermesMath-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+665
+GentiumAlt-I.ttf
+0
+1
+GentiumAlt
+1
+Italic
+1
+GentiumAlt Italic
+GentiumAlt-Italic
+
+400
+5
+122
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+666
+RobotoCondensed-Regular.ttf
+0
+1
+Roboto Condensed
+1
+Regular
+1
+Roboto Condensed
+RobotoCondensed-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+667
+OpenSans-Regular.ttf
+0
+1
+Open Sans
+1
+Regular
+1
+Open Sans
+OpenSans
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+668
+lmromancaps10-oblique.otf
+0
+1
+Latin Modern Roman Caps
+1
+10 Oblique
+2
+Latin Modern Roman Caps 10 Oblique
+LMRomanCaps10-Oblique
+LMRomanCaps10-Oblique
+
+400
+5
+166
+0
+0
+1
+10.037500
+5.018750
+20.075000
+2
+256
+669
+lmromanslant10-regular.otf
+0
+1
+Latin Modern Roman Slanted
+1
+10 Regular
+2
+Latin Modern Roman Slanted 10 Regular
+LMRomanSlant10-Regular
+LMRomanSlant10-Regular
+
+400
+5
+166
+1
+0
+0
+10.037500
+9.535625
+11.041250
+1
+256
+670
+Loma-Oblique.otf
+0
+1
+Loma
+1
+Oblique
+1
+Loma Oblique
+Loma-Oblique
+
+400
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+671
+NotoSansKhojki-Regular.ttf
+0
+1
+Noto Sans Khojki
+1
+Regular
+1
+Noto Sans Khojki Regular
+NotoSansKhojki-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+672
+Lato-Thin.ttf
+0
+1
+Lato
+1
+Thin
+1
+Lato Thin
+Lato-Thin
+
+200
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+673
+RobotoCondensed-LightItalic.ttf
+0
+1
+Roboto Condensed
+1
+Light Italic
+1
+Roboto Condensed Light Italic
+RobotoCondensed-LightItalic
+
+300
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+674
+NotoSerifTamilSlanted-Regular.ttf
+0
+1
+Noto Serif Tamil Slanted
+1
+Regular
+1
+Noto Serif Tamil Slanted Regular
+NotoSerifTamilSlanted-Regular
+
+400
+5
+212
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+675
+Amiri-Regular.ttf
+0
+1
+Amiri
+1
+Regular
+1
+Amiri
+Amiri-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+676
+UnYetgul.ttf
+0
+2
+UnYetgul
+은 옛글
+2
+Bold
+Regular
+2
+Un Yetgul
+은 옛글
+UnYetgul
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+677
+Waree-Oblique.otf
+0
+1
+Waree
+1
+Oblique
+1
+Waree Oblique
+Waree-Oblique
+
+400
+5
+194
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+678
+Arimo-Bold.ttf
+0
+1
+Arimo
+1
+Bold
+1
+Arimo Bold
+Arimo-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+679
+NotoKufiArabic-Regular.ttf
+0
+1
+Noto Kufi Arabic
+1
+Regular
+1
+Noto Kufi Arabic Regular
+NotoKufiArabic-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+680
+UnDinaru.ttf
+0
+2
+UnDinaru
+은 디나루
+1
+Regular
+2
+Un Dinaru
+은 디나루
+UnDinaru
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+681
+NotoSansMath-Regular.ttf
+0
+1
+Noto Sans Math
+1
+Regular
+1
+Noto Sans Math Regular
+NotoSansMath-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+682
+UnJamoSora.ttf
+0
+2
+UnJamoSora
+은 자모 소라
+1
+Regular
+2
+Un Jamo Sora
+은 자모 소라
+UnJamoSora
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+683
+texgyreschola-bold.otf
+0
+1
+TeX Gyre Schola
+1
+Bold
+2
+TeX Gyre Schola Bold
+TeXGyreSchola-Bold
+TeXGyreSchola-Bold
+
+700
+5
+0
+0
+1
+0
+10.037500
+5.018750
+20.075000
+3
+256
+684
+NotoSerif-Italic.ttf
+0
+1
+Noto Serif
+1
+Italic
+1
+Noto Serif Italic
+NotoSerif-Italic
+
+400
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+685
+Comfortaa-Bold.ttf
+0
+1
+Comfortaa
+1
+Bold
+1
+Comfortaa Bold
+Comfortaa-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+686
+NotoSansDisplay-Regular.ttf
+0
+1
+Noto Sans Display
+1
+Regular
+1
+Noto Sans Display Regular
+NotoSansDisplay-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+687
+NotoSansVai-Regular.ttf
+0
+1
+Noto Sans Vai
+1
+Regular
+1
+Noto Sans Vai Regular
+NotoSansVai-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+688
+Caladea-Regular.ttf
+0
+1
+Caladea
+1
+Regular
+1
+Caladea
+Caladea-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+689
+NotoSerifKhmer-Bold.ttf
+0
+1
+Noto Serif Khmer
+1
+Bold
+1
+Noto Serif Khmer Bold
+NotoSerifKhmer-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+690
+lmmonolt10-bold.otf
+0
+1
+Latin Modern Mono Light
+1
+10 Bold
+2
+Latin Modern Mono Light 10 Bold
+LMMonoLt10-Bold
+LMMonoLt10-Bold
+
+700
+5
+0
+0
+1
+0
+10.037500
+5.018750
+20.075000
+3
+256
+691
+Go-Bold.ttf
+0
+1
+Go
+1
+Bold
+1
+Go Bold
+Go-Bold
+
+600
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+692
+NotoSansThai-Regular.ttf
+0
+1
+Noto Sans Thai
+1
+Regular
+1
+Noto Sans Thai Regular
+NotoSansThai-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+693
+TlwgTypewriter-Bold.otf
+0
+1
+Tlwg Typewriter
+1
+Bold
+1
+Tlwg Typewriter Bold
+TlwgTypewriter-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+694
+NotoSansBuginese-Regular.ttf
+0
+1
+Noto Sans Buginese
+1
+Regular
+1
+Noto Sans Buginese Regular
+NotoSansBuginese-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+695
+Umpush-Bold.otf
+0
+1
+Umpush
+1
+Bold
+1
+Umpush Bold
+Umpush-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+696
+NotoSerifThai-Regular.ttf
+0
+1
+Noto Serif Thai
+1
+Regular
+1
+Noto Serif Thai Regular
+NotoSerifThai-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+697
+UnPenheulim.ttf
+0
+2
+UnPenheulim
+은 펜흘림
+1
+Regular
+2
+Un Penheulim
+은 펜흘림
+UnPenheulim
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+698
+STIXIntegralsUpD-Regular.otf
+0
+1
+STIXIntegralsUpD
+1
+Regular
+1
+STIXIntegralsUpD-Regular
+STIXIntegralsUpD-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+699
+LobsterTwo-Italic.otf
+0
+1
+Lobster Two
+1
+Italic
+2
+Lobster Two Italic
+LobsterTwo-Italic
+LobsterTwo-Italic
+
+400
+5
+0
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+700
+UnPilgia.ttf
+0
+2
+UnPilgia
+은 필기a
+1
+Regular
+2
+Un Pilgia
+은 필기a
+UnPilgia
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+701
+NotoSansGujarati-Bold.ttf
+0
+1
+Noto Sans Gujarati
+1
+Bold
+1
+Noto Sans Gujarati Bold
+NotoSansGujarati-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+702
+UnJamoBatang.ttf
+0
+2
+UnJamoBatang
+은 자모 바탕
+1
+Regular
+2
+Un Jamo Batang
+은 자모 바탕
+UnJamoBatang
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+703
+texgyretermes-bold.otf
+0
+1
+TeX Gyre Termes
+1
+Bold
+2
+TeX Gyre Termes Bold
+TeXGyreTermes-Bold
+TeXGyreTermes-Bold
+
+700
+5
+0
+0
+1
+0
+10.037500
+5.018750
+20.075000
+3
+256
+704
+GFSPorson.otf
+0
+1
+GFS Porson
+1
+Regular
+2
+GFS Porson
+GFSPorson-Regular
+GFSPorson-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+705
+GFSArtemisiaIt.otf
+0
+1
+GFS Artemisia
+1
+Italic
+2
+GFS Artemisia Italic
+GFSArtemisia-Italic
+GFSArtemisia-Italic
+
+400
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+706
+NotoSansMendeKikakui-Regular.ttf
+0
+1
+Noto Sans Mende Kikakui
+1
+Regular
+1
+Noto Sans Mende Kikakui Regular
+NotoSansMendeKikakui-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+707
+GenBasBI.ttf
+0
+1
+Gentium Basic
+1
+Bold Italic
+1
+Gentium Basic Bold Italic
+GentiumBasic-BoldItalic
+
+700
+5
+140
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+708
+NotoSerifDevanagari-Regular.ttf
+0
+1
+Noto Serif Devanagari
+1
+Regular
+1
+Noto Serif Devanagari Regular
+NotoSerifDevanagari-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+709
+s050000l.pfb
+0
+1
+Standard Symbols L
+1
+Regular
+1
+Standard Symbols L Regular
+StandardSymL
+
+80
+100
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+710
+lmroman7-regular.otf
+0
+1
+Latin Modern Roman
+1
+7 Regular
+2
+Latin Modern Roman 7 Regular
+LMRoman7-Regular
+LMRoman7-Regular
+
+400
+5
+0
+1
+0
+0
+7.026250
+6.524375
+7.528125
+1
+256
+711
+Lato-HeavyItalic.ttf
+0
+1
+Lato
+1
+Heavy Italic
+1
+Lato Heavy Italic
+Lato-HeavyItalic
+
+800
+5
+122
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+712
+batang.ttf
+0
+2
+Baekmuk Batang
+백묵 바탕
+1
+Regular
+2
+Baekmuk Batang
+백묵 바탕
+Baekmuk-Batang
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+713
+lmroman8-italic.otf
+0
+1
+Latin Modern Roman
+1
+8 Italic
+2
+Latin Modern Roman 8 Italic
+LMRoman8-Italic
+LMRoman8-Italic
+
+400
+5
+249
+0
+0
+1
+8.030000
+7.528125
+8.531875
+2
+256
+714
+lmromanslant17-regular.otf
+0
+1
+Latin Modern Roman Slanted
+1
+17 Regular
+2
+Latin Modern Roman Slanted 17 Regular
+LMRomanSlant17-Regular
+LMRomanSlant17-Regular
+
+400
+5
+166
+1
+0
+0
+17.264500
+14.052500
+24.090000
+1
+256
+715
+UnVada.ttf
+0
+2
+UnVada
+은 바다
+1
+Regular
+2
+Un Vada
+은 바다
+UnVada
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+716
+RobotoCondensed-MediumItalic.ttf
+0
+1
+Roboto Condensed
+1
+Medium Italic
+1
+Roboto Condensed Medium Italic
+RobotoCondensed-MediumItalic
+
+500
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+717
+DejaVuSansMono-BoldOblique.ttf
+0
+1
+DejaVu Sans Mono
+1
+Bold Oblique
+1
+DejaVu Sans Mono Bold Oblique
+DejaVuSansMono-BoldOblique
+
+700
+5
+194
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+718
+lmroman6-regular.otf
+0
+1
+Latin Modern Roman
+1
+6 Regular
+2
+Latin Modern Roman 6 Regular
+LMRoman6-Regular
+LMRoman6-Regular
+
+400
+5
+0
+1
+0
+0
+6.022500
+5.520625
+6.524375
+1
+256
+719
+Waree-BoldOblique.otf
+0
+1
+Waree
+1
+Bold Oblique
+1
+Waree Bold Oblique
+Waree-BoldOblique
+
+700
+5
+194
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+720
+texgyretermes-bolditalic.otf
+0
+1
+TeX Gyre Termes
+1
+Bold Italic
+2
+TeX Gyre Termes Bold Italic
+TeXGyreTermes-BoldItalic
+TeXGyreTermes-BoldItalic
+
+700
+5
+267
+0
+1
+1
+10.037500
+5.018750
+20.075000
+4
+256
+721
+NotoSerifBalinese-Regular.ttf
+0
+1
+Noto Serif Balinese
+1
+Regular
+1
+Noto Serif Balinese Regular
+NotoSerifBalinese-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+722
+AccanthisADFStd-Regular.otf
+0
+1
+Accanthis ADF Std
+1
+Regular
+1
+AccanthisADFStd-Regular
+AccanthisADFStd-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+723
+Cabin-Medium.otf
+0
+1
+Cabin
+1
+Medium
+2
+Cabin Medium
+Cabin-Medium
+Cabin-Medium
+
+500
+5
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+724
+Lato-Medium.ttf
+0
+1
+Lato
+1
+Medium
+1
+Lato Medium
+Lato-Medium
+
+500
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+725
+Junicode-Italic.ttf
+0
+1
+Junicode
+1
+Italic
+1
+Junicode Italic
+Junicode-Italic
+
+400
+5
+194
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+726
+NotoSerifLao-Bold.ttf
+0
+1
+Noto Serif Lao
+1
+Bold
+1
+Noto Serif Lao Bold
+NotoSerifLao-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+727
+LinBiolinum_RI.otf
+0
+1
+Linux Biolinum O
+1
+Italic
+1
+Linux Biolinum O Italic
+LinBiolinumOI
+
+400
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+728
+NotoSansPalmyrene-Regular.ttf
+0
+1
+Noto Sans Palmyrene
+1
+Regular
+1
+Noto Sans Palmyrene Regular
+NotoSansPalmyrene-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+729
+NotoSansTaiTham-Regular.ttf
+0
+1
+Noto Sans Tai Tham
+1
+Regular
+1
+Noto Sans Tai Tham
+NotoSansTaiTham
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+730
+NotoSansSundanese-Regular.ttf
+0
+1
+Noto Sans Sundanese
+1
+Regular
+1
+Noto Sans Sundanese Regular
+NotoSansSundanese-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+731
+GFSArtemisiaBold.otf
+0
+1
+GFS Artemisia
+1
+Bold
+2
+GFS Artemisia Bold
+GFSArtemisia-Bold
+GFSArtemisia-Bold
+
+700
+5
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+732
+STIXIntegralsUpSm-Bold.otf
+0
+1
+STIXIntegralsUpSm
+1
+Bold
+1
+STIXIntegralsUpSm-Bold
+STIXIntegralsUpSm-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+733
+GenBasB.ttf
+0
+1
+Gentium Basic
+1
+Bold
+1
+Gentium Basic Bold
+GentiumBasic-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+734
+Caladea-Bold.ttf
+0
+1
+Caladea
+1
+Bold
+1
+Caladea Bold
+Caladea-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+735
+NotoSansMeeteiMayek-Regular.ttf
+0
+1
+Noto Sans Meetei Mayek
+1
+Regular
+1
+Noto Sans Meetei Mayek Regular
+NotoSansMeeteiMayek-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+736
+lmroman5-regular.otf
+0
+1
+Latin Modern Roman
+1
+5 Regular
+2
+Latin Modern Roman 5 Regular
+LMRoman5-Regular
+LMRoman5-Regular
+
+400
+5
+0
+1
+0
+0
+5.018750
+3.011250
+5.520625
+1
+256
+737
+c059016l.pfb
+0
+1
+Century Schoolbook L
+1
+Bold
+1
+Century Schoolbook L Bold
+CenturySchL-Bold
+
+200
+100
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+738
+Roboto-LightItalic.ttf
+0
+1
+Roboto
+1
+Light Italic
+1
+Roboto Light Italic
+Roboto-LightItalic
+
+300
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+739
+GilliusADF-CondItalic.otf
+0
+1
+Gillius ADF
+1
+Cond Italic
+1
+GilliusADF-CondItalic
+GilliusADF-CondItalic
+
+400
+3
+176
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+740
+p052004l.pfb
+0
+1
+URW Palladio L
+1
+Bold
+1
+URW Palladio L Bold
+URWPalladioL-Bold
+
+200
+100
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+741
+a010033l.pfb
+0
+1
+URW Gothic L
+1
+Book Oblique
+1
+URW Gothic L Book Oblique
+URWGothicL-BookObli
+
+75
+100
+110
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+742
+NotoSansArmenian-Regular.ttf
+0
+1
+Noto Sans Armenian
+1
+Regular
+1
+Noto Sans Armenian Regular
+NotoSansArmenian-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+743
+DejaVuSansCondensed-BoldOblique.ttf
+0
+1
+DejaVu Sans
+1
+Condensed Bold Oblique
+1
+DejaVu Sans Condensed Bold Oblique
+DejaVuSansCondensed-BoldOblique
+
+700
+4
+194
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+744
+GFSSolomos.otf
+0
+1
+GFS Solomos
+1
+Regular
+1
+GFSSolomos-Regular
+GFSSolomos-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+745
+NotoSansLao-Bold.ttf
+0
+1
+Noto Sans Lao
+1
+Bold
+1
+Noto Sans Lao Bold
+NotoSansLao-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+746
+NotoNastaliqUrdu-Bold.ttf
+0
+1
+Noto Nastaliq Urdu
+1
+Bold
+1
+Noto Nastaliq Urdu Bold
+NotoNastaliqUrdu-Bold
+
+400
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+747
+TlwgTypo.otf
+0
+1
+Tlwg Typo
+1
+Regular
+1
+Tlwg Typo
+TlwgTypo
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+748
+pcrro8a.pfb
+0
+1
+Courier
+1
+Italic
+1
+Courier Italic
+Courier-Italic
+
+80
+100
+100
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+749
+NotoSansOriya-Bold.ttf
+0
+1
+Noto Sans Oriya
+1
+Bold
+1
+Noto Sans Oriya Bold
+NotoSansOriya-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+750
+NotoSerifMalayalam-Regular.ttf
+0
+1
+Noto Serif Malayalam
+1
+Regular
+1
+Noto Serif Malayalam Regular
+NotoSerifMalayalam-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+751
+NotoSerifGurmukhi-Regular.ttf
+0
+1
+Noto Serif Gurmukhi
+1
+Regular
+1
+Noto Serif Gurmukhi Regular
+NotoSerifGurmukhi-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+752
+AccanthisADFStd-Italic.otf
+0
+1
+Accanthis ADF Std
+1
+Italic
+1
+AccanthisADFStd-Italic
+AccanthisADFStd-Italic
+
+400
+5
+267
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+753
+bchri8a.pfb
+0
+1
+Bitstream Charter
+1
+Italic
+1
+Bitstream Charter Italic
+CharterBT-Italic
+
+80
+100
+100
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+754
+NotoSansOldSouthArabian-Regular.ttf
+0
+1
+Noto Sans Old South Arabian
+1
+Regular
+1
+Noto Sans Old South Arabian Regular
+NotoSansOldSouthArabian-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+755
+DejaVuSans-Oblique.ttf
+0
+1
+DejaVu Sans
+1
+Oblique
+1
+DejaVu Sans Oblique
+DejaVuSans-Oblique
+
+400
+5
+194
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+756
+NotoSerifMyanmar-Bold.ttf
+0
+1
+Noto Serif Myanmar
+1
+Bold
+1
+Noto Serif Myanmar Bold
+NotoSerifMyanmar-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+757
+NotoSansThai-Bold.ttf
+0
+1
+Noto Sans Thai
+1
+Bold
+1
+Noto Sans Thai Bold
+NotoSansThai-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+758
+Lato-Regular.ttf
+0
+1
+Lato
+1
+Regular
+1
+Lato Regular
+Lato-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+759
+Garuda-Bold.otf
+0
+1
+Garuda
+1
+Bold
+1
+Garuda Bold
+Garuda-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+760
+NotoNaskhArabic-Bold.ttf
+0
+1
+Noto Naskh Arabic
+1
+Bold
+1
+Noto Naskh Arabic Bold
+NotoNaskhArabic-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+761
+Lato-SemiboldItalic.ttf
+0
+1
+Lato
+1
+Semibold Italic
+1
+Lato Semibold Italic
+Lato-SemiboldItalic
+
+600
+5
+122
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+762
+Go-Mono-Bold-Italic.ttf
+0
+1
+Go Mono
+1
+Bold Italic
+1
+Go Mono Bold Italic
+GoMono-BoldItalic
+
+600
+5
+194
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+763
+Lato-Semibold.ttf
+0
+1
+Lato
+1
+Semibold
+1
+Lato Semibold
+Lato-Semibold
+
+600
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+764
+NotoSansMalayalam-Bold.ttf
+0
+1
+Noto Sans Malayalam
+1
+Bold
+1
+Noto Sans Malayalam Bold
+NotoSansMalayalam-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+765
+RobotoCondensed-Medium.ttf
+0
+1
+Roboto Condensed
+1
+Medium
+1
+Roboto Condensed Medium
+RobotoCondensed-Medium
+
+500
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+766
+AccanthisADFStd-BoldItalic.otf
+0
+1
+Accanthis ADF Std
+1
+Bold Italic
+1
+AccanthisADFStd-BoldItalic
+AccanthisADFStd-BoldItalic
+
+700
+5
+267
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+767
+lmroman9-regular.otf
+0
+1
+Latin Modern Roman
+1
+9 Regular
+2
+Latin Modern Roman 9 Regular
+LMRoman9-Regular
+LMRoman9-Regular
+
+400
+5
+0
+1
+0
+0
+9.033750
+8.531875
+9.535625
+1
+256
+768
+STIX-Bold.otf
+0
+1
+STIX
+1
+Bold
+1
+STIX-Bold
+STIX-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+769
+Comfortaa-Regular.ttf
+0
+1
+Comfortaa
+1
+Regular
+1
+Comfortaa Regular
+Comfortaa-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+770
+NotoSansChakma-Regular.ttf
+0
+1
+Noto Sans Chakma
+1
+Regular
+1
+Noto Sans Chakma Regular
+NotoSansChakma-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+771
+lmromancaps10-regular.otf
+0
+1
+Latin Modern Roman Caps
+1
+10 Regular
+2
+Latin Modern Roman Caps 10 Regular
+LMRomanCaps10-Regular
+LMRomanCaps10-Regular
+
+400
+5
+0
+1
+0
+0
+10.037500
+5.018750
+20.075000
+1
+256
+772
+NotoSansSharada-Regular.ttf
+0
+1
+Noto Sans Sharada
+1
+Regular
+1
+Noto Sans Sharada Regular
+NotoSansSharada-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+773
+texgyrepagella-regular.otf
+0
+1
+TeX Gyre Pagella
+1
+Regular
+1
+TeXGyrePagella-Regular
+TeXGyrePagella-Regular
+
+400
+5
+0
+1
+0
+0
+10.037500
+0.000000
+0.000000
+0
+0
+774
+LinLibertine_RI.otf
+0
+1
+Linux Libertine O
+1
+Italic
+1
+Linux Libertine O Italic
+LinLibertineOI
+
+400
+5
+212
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+775
+Go-Italic.ttf
+0
+1
+Go
+1
+Italic
+1
+Go Italic
+Go-Italic
+
+400
+5
+194
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+776
+GenBkBasR.ttf
+0
+1
+Gentium Book Basic
+1
+Regular
+1
+Gentium Book Basic
+GentiumBookBasic
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+777
+NotoSansMyanmar-Regular.ttf
+0
+1
+Noto Sans Myanmar
+1
+Regular
+1
+Noto Sans Myanmar Regular
+NotoSansMyanmar-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+778
+TlwgMono.otf
+0
+1
+Tlwg Mono
+1
+Regular
+1
+Tlwg Mono
+TlwgMono
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+779
+GFSArtemisia.otf
+0
+1
+GFS Artemisia
+1
+Regular
+2
+GFS Artemisia Regular
+GFSArtemisia-Regular
+GFSArtemisia-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+780
+AccanthisADFStdNo2-BoldItalic.otf
+0
+1
+Accanthis ADF Std No2
+1
+Bold Italic
+1
+AccanthisADFStdNo2-BoldItalic
+AccanthisADFStdNo2-BoldItalic
+
+700
+5
+267
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+781
+lmroman8-regular.otf
+0
+1
+Latin Modern Roman
+1
+8 Regular
+2
+Latin Modern Roman 8 Regular
+LMRoman8-Regular
+LMRoman8-Regular
+
+400
+5
+0
+1
+0
+0
+8.030000
+7.528125
+8.531875
+1
+256
+782
+NotoNastaliqUrdu-Regular.ttf
+0
+1
+Noto Nastaliq Urdu
+1
+Regular
+1
+Noto Nastaliq Urdu Regular
+NotoNastaliqUrdu-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+783
+texgyredejavu-math.otf
+0
+1
+TeX Gyre DejaVu Math
+1
+Regular
+1
+TeXGyreDejaVuMath-Regular
+TeXGyreDejaVuMath-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+784
+texgyrebonum-italic.otf
+0
+1
+TeX Gyre Bonum
+1
+Italic
+2
+TeX Gyre Bonum Italic
+TeXGyreBonum-Italic
+TeXGyreBonum-Italic
+
+400
+5
+181
+0
+0
+1
+10.037500
+5.018750
+20.075000
+2
+256
+785
+GentiumPlus-I.ttf
+0
+1
+Gentium Plus
+1
+Italic
+1
+Gentium Plus Italic
+GentiumPlus-Italic
+
+400
+5
+140
+0
+0
+1
+10.000000
+0.000000
+0.000000
+0
+0
+786
+pcrr8a.pfb
+0
+1
+Courier
+1
+Regular
+1
+Courier Regular
+Courier
+
+80
+100
+0
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+787
+texgyrecursor-italic.otf
+0
+1
+TeX Gyre Cursor
+1
+Italic
+2
+TeX Gyre Cursor Italic
+TeXGyreCursor-Italic
+TeXGyreCursor-Italic
+
+400
+5
+212
+0
+0
+1
+10.037500
+5.018750
+20.075000
+2
+256
+788
+STIXNonUnicode-BoldItalic.otf
+0
+1
+STIXNonUnicode
+1
+Bold Italic
+1
+STIXNonUnicode-BoldItalic
+STIXNonUnicode-BoldItalic
+
+700
+5
+292
+0
+1
+1
+10.000000
+0.000000
+0.000000
+0
+0
+789
+GFSNeohellenicBold.otf
+0
+1
+GFS Neohellenic
+1
+Bold
+2
+GFS Neohellenic Bold
+GFSNeohellenic-Bold
+GFSNeohellenic-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+790
+texgyreadventor-bolditalic.otf
+0
+1
+TeX Gyre Adventor
+1
+Bold Italic
+1
+TeXGyreAdventor-BoldItalic
+TeXGyreAdventor-BoldItalic
+
+700
+5
+185
+0
+1
+1
+10.037500
+0.000000
+0.000000
+0
+0
+791
+Cantarell-Bold.otf
+0
+1
+Cantarell
+1
+Bold
+1
+Cantarell Bold
+Cantarell-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+792
+NotoSerifTamil-Bold.ttf
+0
+1
+Noto Serif Tamil
+1
+Bold
+1
+Noto Serif Tamil Bold
+NotoSerifTamil-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+793
+NotoSansOriya-Regular.ttf
+0
+1
+Noto Sans Oriya
+1
+Regular
+1
+Noto Sans Oriya
+NotoSansOriya
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+794
+lmromandunh10-regular.otf
+0
+1
+Latin Modern Roman Dunhill
+1
+10 Regular
+2
+Latin Modern Roman Dunhill 10 Regular
+LMRomanDunh10-Regular
+LMRomanDunh10-Regular
+
+400
+5
+0
+1
+0
+0
+10.037500
+5.018750
+20.075000
+1
+256
+795
+UnDinaruBold.ttf
+0
+2
+UnDinaru
+은 디나루
+1
+Bold
+2
+Un Dinaru Bold
+굵은 은 디나루
+UnDinaru-Bold
+
+700
+5
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+796
+NotoSansEgyptianHieroglyphs-Regular.ttf
+0
+1
+Noto Sans Egyptian Hieroglyphs
+1
+Regular
+1
+Noto Sans Egyptian Hieroglyphs Regular
+NotoSansEgyptianHieroglyphs-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+797
+UnShinmun.ttf
+0
+2
+UnShinmun
+은 신문
+1
+Regular
+2
+Un Shinmun
+은 신문
+UnShinmun
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+798
+Padauk-Regular.ttf
+0
+1
+Padauk
+1
+Regular
+1
+Padauk
+Padauk-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+799
+DejaVuSansCondensed-Bold.ttf
+0
+1
+DejaVu Sans
+1
+Condensed Bold
+1
+DejaVu Sans Condensed Bold
+DejaVuSansCondensed-Bold
+
+700
+4
+0
+0
+1
+0
+10.000000
+0.000000
+0.000000
+0
+0
+800
+b018035l.pfb
+0
+1
+URW Bookman L
+1
+Demi Bold Italic
+1
+URW Bookman L Demi Bold Italic
+URWBookmanL-DemiBoldItal
+
+200
+100
+100
+0
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0
+801
+NotoSansThaana-Regular.ttf
+0
+1
+Noto Sans Thaana
+1
+Regular
+1
+Noto Sans Thaana Regular
+NotoSansThaana-Regular
+
+400
+5
+0
+1
+0
+0
+10.000000
+0.000000
+0.000000
+0
+0

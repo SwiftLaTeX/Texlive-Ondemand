@@ -16,36 +16,12 @@ def san(name):
     return regex.sub('', name)
 
 
-
-@app.route('/fontconfig/<path:fontname>')
-@cross_origin()
-def fetch_font(fontname):
-    
-    ext_ok = False
-    allowed_exts = [".otf", ".ttf", ".woff", ".t1", ".pfb"]
-    for ext in allowed_exts:
-        if fontname.endswith(ext):
-            ext_ok = True
-            break
-
-    if not ext_ok:
-        return "File not found", 301
-
-    if not os.path.isfile("/usr/share/" + fontname):
-        return "File not found", 301
-    
-    response = make_response(send_from_directory("/usr/share/", fontname, mimetype='application/octet-stream'))
-    response.headers['fontid'] = os.path.basename(fontname)
-    response.headers['Access-Control-Expose-Headers'] = 'fontid'
-    return response
-
-
 @app.route('/xetex/<int:fileformat>/<filename>')
 @cross_origin()
 def xetex_fetch_file(fileformat, filename):
     filename = san(filename)
     url = None
-    if filename == "swiftlatexxetex.fmt":
+    if filename == "swiftlatexxetex.fmt" or filename == "xetexfontlist.txt":
         url = filename
     else:
         url = pykpathsea_xetex.find_file(filename, fileformat)
